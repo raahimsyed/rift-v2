@@ -36,11 +36,39 @@
       padding: 18px 18px 16px;
     }
 
+    .title {
+      display: flex;
+      justify-content: center;
+      margin: 0 0 14px;
+    }
+
     h1 {
       margin: 0 0 10px;
-      font-size: 2.2rem;
+      font-size: clamp(2.4rem, 6vw, 4.2rem);
       letter-spacing: 0.08em;
       text-transform: lowercase;
+      font-weight: 400;
+    }
+
+    h1 .letter {
+      position: relative;
+      display: inline-block;
+      padding: 0 0.04em;
+      -webkit-text-stroke: 1.25px rgba(255, 255, 255, 0.22);
+      text-shadow:
+        1px 0 0 rgba(0, 0, 0, 0.72),
+        -1px 0 0 rgba(0, 0, 0, 0.72),
+        0 1px 0 rgba(0, 0, 0, 0.72),
+        0 -1px 0 rgba(0, 0, 0, 0.72),
+        1px 1px 0 rgba(0, 0, 0, 0.55),
+        -1px 1px 0 rgba(0, 0, 0, 0.55),
+        1px -1px 0 rgba(0, 0, 0, 0.55),
+        -1px -1px 0 rgba(0, 0, 0, 0.55);
+    }
+
+    h1 .space {
+      width: 0.34em;
+      padding: 0;
     }
 
     p {
@@ -57,15 +85,39 @@
       opacity: 0.75;
       font-size: 0.95rem;
     }
+
+    .sub {
+      text-align: center;
+      margin: 0;
+      opacity: 0.78;
+      font-size: 1.05rem;
+      letter-spacing: 0.02em;
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="panel">
-      <h1>rift</h1>
-      <p>This is the /rift page. Replace this with your real Rift interface.</p>
-      <p class="hint">If you want “sessions” here too, we can reuse the same home shell and build out spaces.</p>
+      <div class="title">
+        <h1 id="riftTitle" aria-label="welcome to the rift">welcome to the rift</h1>
+      </div>
+      <p class="sub">where would you like to begin?</p>
+      <p class="hint">This is the /rift page placeholder. Replace this with your real Rift interface.</p>
     </div>
   </div>
+
+  <script>
+    const title = document.getElementById("riftTitle");
+    if (title) {
+      const text = title.textContent || "";
+      title.textContent = "";
+      for (const ch of text) {
+        const span = document.createElement("span");
+        span.className = ch === " " ? "letter space" : "letter";
+        span.textContent = ch;
+        title.appendChild(span);
+      }
+    }
+  </script>
 </body>
 </html>
