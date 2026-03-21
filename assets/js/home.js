@@ -316,6 +316,7 @@ const homeApp = document.getElementById("homeApp");
 const navCurtain = document.getElementById("navCurtain");
 const prefersReduceNav = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const riftUrl = (location.protocol === "file:") ? "./rift/index.html" : "/rift/";
+const gamesUrl = (location.protocol === "file:") ? "./games/index.html" : "/games/";
 let navInFlight = false;
 
 const swapToRiftDocument = async () => {
@@ -351,9 +352,59 @@ const enterRift = async () => {
   }, delay);
 };
 
+const animateThenNavigate = (url) => {
+  if (navInFlight) return;
+  navInFlight = true;
+
+  if (!prefersReduceNav) {
+    document.body.classList.add("is-navigating");
+  } else {
+    if (navCurtain) navCurtain.style.transform = "translateY(0)";
+    if (homeApp) homeApp.style.opacity = "0";
+  }
+
+  const delay = prefersReduceNav ? 20 : 340;
+  setTimeout(() => {
+    window.location.href = url;
+  }, delay);
+};
+
+const routeKeyword = (raw) => {
+  const value = String(raw || "").trim().toLowerCase();
+  if (!value) return false;
+
+  if (value === "games" || value === "game") {
+    animateThenNavigate(gamesUrl);
+    return true;
+  }
+
+  if (value === "rift" || value === "enter" || value === "enter the rift") {
+    enterRift();
+    return true;
+  }
+
+  return false;
+};
+
 document.addEventListener("click", (e) => {
   const btn = e.target.closest?.(".enter-btn");
   if (!btn) return;
   enterRift();
 });
 
+document.addEventListener("click", (e) => {
+  const navBtn = e.target.closest?.(".side-nav .icon-btn");
+  if (!navBtn) return;
+
+  const label = (navBtn.getAttribute("aria-label") || "").trim().toLowerCase();
+  if (label === "games") {
+    animateThenNavigate(gamesUrl);
+  }
+});
+
+document.addEventListener("keydown", (e) => {
+  if (e.key !== "Enter") return;
+  const input = e.target.closest?.(".search-input");
+  if (!input) return;
+  routeKeyword(input.value);
+});

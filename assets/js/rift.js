@@ -24,3 +24,18 @@ document.querySelectorAll("[data-count]").forEach((el) => {
   if (COUNTS[key] != null) el.textContent = COUNTS[key];
 });
 
+const isFile = location.protocol === "file:";
+const urlForFeature = (key) => {
+  if (!key) return null;
+  if (key === "games") return isFile ? "../games/index.html" : "/games/";
+  return null;
+};
+
+document.querySelectorAll(".feature-btn[data-key]").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const key = btn.getAttribute("data-key");
+    const url = urlForFeature(key);
+    if (!url) return;
+    window.location.href = url;
+  });
+});
