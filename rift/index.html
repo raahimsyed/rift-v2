@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Rift v2 / rift</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0">
   <style>
     @font-face {
       font-family: "Leoscar Sans";
@@ -120,11 +121,18 @@
     }
 
     .search-icon {
-      width: 20px;
-      height: 20px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       flex: 0 0 auto;
       color: rgba(255, 255, 255, 0.74);
       opacity: 0.9;
+    }
+
+    .material-symbols-rounded.search-icon {
+      font-size: 22px;
+      line-height: 1;
+      font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
     }
 
     .search-input {
@@ -252,9 +260,7 @@
           <p class="sub">where would you like to begin?</p>
           <div class="rift-search" aria-label="Rift search">
             <div class="search-box">
-              <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <path fill="currentColor" d="M10 2a8 8 0 1 1 5.293 14.007l4.35 4.35a1 1 0 0 1-1.415 1.414l-4.35-4.35A8 8 0 0 1 10 2zm0 2a6 6 0 1 0 0 12a6 6 0 0 0 0-12z"/>
-              </svg>
+              <span class="search-icon material-symbols-rounded" aria-hidden="true">search</span>
               <input class="search-input" type="text" placeholder="Search for anything." autocomplete="off" spellcheck="false" aria-label="Search">
             </div>
           </div>
