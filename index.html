@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rift V2 Custom Concept</title>
+  <style>
+    @font-face {
+      font-family: "Leoscar Sans";
+      src: url("./assets/Leoscar%20Sans%20Serif.ttf") format("truetype");
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background-color: #000;
+      background-image:
+        radial-gradient(48vw 44vh at 50% 54%, rgba(216, 160, 111, 0.012) 0%, rgba(0, 0, 0, 0) 72%),
+        radial-gradient(58vw 52vh at 50% 52%, rgba(255, 255, 255, 0.006) 0%, rgba(0, 0, 0, 0) 76%);
+    }
+
+    #cometCanvas {
+      position: fixed;
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .top-section {
+      height: calc(100vh / 12);
+      background: #222;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      padding: 0 18px;
+      position: relative;
+      isolation: isolate;
+      z-index: 10;
+    }
+
+    .top-section > * {
+      position: relative;
+      z-index: 2;
+    }
+
+    /* Fade the top bar into the black page background (no opaque overlays). */
+    .top-section::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -40px;
+      height: 40px;
+      background: linear-gradient(180deg, rgba(34, 34, 34, 0.95) 0%, rgba(34, 34, 34, 0.35) 42%, rgba(34, 34, 34, 0) 100%);
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    :root {
+      --topbar-h: calc(100vh / 12);
+      --sidenav-w: 76px;
+    }
+
+    .page {
+      padding-left: var(--sidenav-w);
+      position: relative;
+      z-index: 5;
+    }
+
+    .side-nav {
+      position: fixed;
+      left: 0;
+      top: var(--topbar-h);
+      bottom: 0;
+      width: var(--sidenav-w);
+      background: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 14px 10px;
+      gap: 12px;
+      z-index: 20;
+      isolation: isolate;
+    }
+
+    .side-nav::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: -40px;
+      width: 40px;
+      background: linear-gradient(90deg, rgba(34, 34, 34, 0.95) 0%, rgba(34, 34, 34, 0.35) 42%, rgba(34, 34, 34, 0) 100%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* Feather the join where the two bars meet. */
+    .side-nav::before {
+      content: "";
+      position: absolute;
+      left: calc(var(--sidenav-w) - 1px);
+      top: -1px;
+      width: 120px;
+      height: 120px;
+      background: radial-gradient(closest-corner at 0% 0%, rgba(34, 34, 34, 0.9) 0%, rgba(34, 34, 34, 0.35) 44%, rgba(34, 34, 34, 0) 72%);
+      pointer-events: none;
+      z-index: 0;
+      transform: translateX(1px);
+    }
+
+    .side-divider {
+      width: 100%;
+      height: 1px;
+      background: rgba(255, 255, 255, 0.1);
+      margin: 6px 0;
+    }
+
+    .side-spacer {
+      flex: 1 1 auto;
+    }
+
+    .top-left {
+      justify-self: start;
+      color: rgba(255, 255, 255, 0.9);
+      font-family: "Leoscar Sans", Arial, sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: 0.08em;
+    }
+
+    .top-center {
+      justify-self: center;
+    }
+
+    .top-right {
+      justify-self: end;
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .icon-btn {
+      width: 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.18);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      box-shadow:
+        0 10px 18px rgba(0, 0, 0, 0.55),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+      color: rgba(255, 255, 255, 0.9);
+    }
+
+    .icon-btn:hover,
+    .icon-btn:focus-visible {
+      outline: none;
+      border-color: rgba(216, 160, 111, 0.45);
+      box-shadow:
+        0 12px 22px rgba(0, 0, 0, 0.62),
+        0 0 0 4px rgba(216, 160, 111, 0.12),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+    }
+
+    .top-menu {
+      position: absolute;
+      right: calc(38px + 10px);
+      top: calc(100% + 10px);
+      width: min(360px, calc(100vw - 40px));
+      padding: 10px;
+      border-radius: 18px;
+      background: rgba(26, 26, 26, 0.94);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 18px 46px rgba(0, 0, 0, 0.72);
+      backdrop-filter: blur(12px);
+      z-index: 10;
+    }
+
+    .top-menu[hidden] {
+      display: none;
+    }
+
+    .top-menu-title {
+      margin: 2px 6px 10px;
+      color: rgba(255, 255, 255, 0.74);
+      font-size: 0.92rem;
+      letter-spacing: 0.02em;
+    }
+
+    .tabbar {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px;
+      border-radius: 16px;
+      background: rgba(0, 0, 0, 0.16);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow:
+        0 10px 18px rgba(0, 0, 0, 0.45),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+    }
+
+    .tab {
+      border-radius: 12px;
+      padding: 8px 12px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      color: rgba(255, 255, 255, 0.92);
+      font-family: "Leoscar Sans", Arial, sans-serif;
+      font-size: 0.95rem;
+      letter-spacing: 0.06em;
+      white-space: nowrap;
+    }
+
+    .tab[aria-selected="true"] {
+      border-color: rgba(216, 160, 111, 0.52);
+      background: rgba(216, 160, 111, 0.10);
+      box-shadow: 0 0 0 4px rgba(216, 160, 111, 0.10);
+    }
+
+    .tab-plus {
+      width: 34px;
+      height: 34px;
+      border-radius: 12px;
+      display: grid;
+      place-items: center;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 1.1rem;
+      line-height: 1;
+    }
+
+    .tab-plus:hover,
+    .tab-plus:focus-visible {
+      outline: none;
+      border-color: rgba(216, 160, 111, 0.45);
+      box-shadow: 0 0 0 4px rgba(216, 160, 111, 0.10);
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding-left: 0;
+      }
+
+      .side-nav {
+        display: none;
+      }
+
+      .top-section {
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+      }
+
+      .top-center {
+        display: none;
+      }
+    }
+
+    .title-wrap {
+      display: flex;
+      justify-content: center;
+      padding-top: 6vh;
+    }
+
+    .top-title {
+      position: relative;
+      margin: 0;
+      color: #fff;
+      font-family: "Leoscar Sans", Arial, sans-serif;
+      font-size: clamp(2.8rem, 6vw, 4.8rem);
+      font-weight: 400;
+      letter-spacing: 0.08em;
+      -webkit-text-stroke: 1px rgba(255, 255, 255, 0.08);
+      text-shadow:
+        0 1px 0 rgba(255, 255, 255, 0.15),
+        0 0 14px rgba(255, 255, 255, 0.14),
+        0 0 28px rgba(160, 160, 160, 0.18),
+        0 10px 24px rgba(0, 0, 0, 0.7);
+    }
+
+    .top-title::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: -10px;
+      width: 72%;
+      height: 1px;
+      transform: translateX(-50%);
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.7), transparent);
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.28);
+    }
+
+    .top-title .letter {
+      position: relative;
+      display: inline-block;
+      padding: 0 0.04em;
+      -webkit-text-stroke: 1.25px rgba(255, 255, 255, 0.22);
+      text-shadow:
+        1px 0 0 rgba(0, 0, 0, 0.72),
+        -1px 0 0 rgba(0, 0, 0, 0.72),
+        0 1px 0 rgba(0, 0, 0, 0.72),
+        0 -1px 0 rgba(0, 0, 0, 0.72),
+        1px 1px 0 rgba(0, 0, 0, 0.55),
+        -1px 1px 0 rgba(0, 0, 0, 0.55),
+        1px -1px 0 rgba(0, 0, 0, 0.55),
+        -1px -1px 0 rgba(0, 0, 0, 0.55);
+    }
+
+    .top-title .space {
+      width: 0.34em;
+      padding: 0;
+    }
+
+    .search-wrap {
+      width: min(640px, calc(100vw - 64px));
+      margin: 18px auto 0;
+      position: relative;
+    }
+
+    .session-view[hidden] {
+      display: none;
+    }
+
+    .search-box {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 14px;
+      border-radius: 18px;
+      background: #1e1e1e;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow:
+        0 10px 26px rgba(0, 0, 0, 0.65),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+
+    .search-box:focus-within {
+      border-color: rgba(216, 160, 111, 0.52);
+      box-shadow:
+        0 12px 32px rgba(0, 0, 0, 0.72),
+        0 0 0 4px rgba(216, 160, 111, 0.12),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+
+    .search-icon {
+      width: 20px;
+      height: 20px;
+      flex: 0 0 auto;
+      color: rgba(255, 255, 255, 0.74);
+      opacity: 0.9;
+    }
+
+    .search-input {
+      width: 100%;
+      min-width: 0;
+      border: 0;
+      outline: none;
+      background: transparent;
+      color: #fff;
+      font-size: 1.05rem;
+      letter-spacing: 0.01em;
+      padding: 2px 0;
+    }
+
+    .search-input::placeholder {
+      color: rgba(255, 255, 255, 0.48);
+    }
+
+    .suggestions {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: calc(100% + 10px);
+      padding: 10px;
+      border-radius: 18px;
+      background: rgba(26, 26, 26, 0.94);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 18px 46px rgba(0, 0, 0, 0.72);
+      backdrop-filter: blur(12px);
+    }
+
+    .suggestions[hidden] {
+      display: none;
+    }
+
+    .suggestion {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      padding: 12px 12px;
+      border-radius: 14px;
+      background: transparent;
+      color: rgba(255, 255, 255, 0.92);
+      text-align: left;
+    }
+
+    .suggestion:hover,
+    .suggestion:focus-visible {
+      background: rgba(255, 255, 255, 0.06);
+      outline: none;
+    }
+
+    .suggestion strong {
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
+    .suggestion small {
+      color: rgba(255, 255, 255, 0.46);
+      font-size: 0.86rem;
+    }
+
+    .enter-wrap {
+      width: min(640px, calc(100vw - 64px));
+      margin: 14px auto 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    .enter-btn {
+      padding: 12px 18px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      color: rgba(255, 255, 255, 0.92);
+      font-family: "Leoscar Sans", Arial, sans-serif;
+      font-size: 1.05rem;
+      letter-spacing: 0.10em;
+      text-transform: lowercase;
+      box-shadow:
+        0 12px 26px rgba(0, 0, 0, 0.62),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+      transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+    }
+
+    .enter-btn:hover,
+    .enter-btn:focus-visible {
+      outline: none;
+      border-color: rgba(216, 160, 111, 0.55);
+      box-shadow:
+        0 14px 30px rgba(0, 0, 0, 0.7),
+        0 0 0 4px rgba(216, 160, 111, 0.12),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+      transform: translateY(-1px);
+    }
+
+    /* "Page" navigation: home -> rift (same URL) */
+    .home-app {
+      position: relative;
+      z-index: 1;
+    }
+
+    .nav-curtain {
+      position: fixed;
+      inset: 0;
+      background: #000;
+      z-index: 90;
+      overflow: hidden;
+      transform: translateY(-120%);
+      opacity: 1;
+      pointer-events: none;
+    }
+
+    @keyframes homeSlideOut {
+      from { transform: translateY(0); opacity: 1; }
+      to { transform: translateY(70px); opacity: 0; }
+    }
+
+    @keyframes curtainDrop {
+      from { transform: translateY(-120%); }
+      to { transform: translateY(0); }
+    }
+
+    body.is-navigating .home-app {
+      animation: homeSlideOut 380ms cubic-bezier(0.2, 0.9, 0.25, 1) forwards;
+      will-change: transform, opacity;
+    }
+
+    body.is-navigating .nav-curtain {
+      animation: curtainDrop 320ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      will-change: transform;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      body.is-navigating .home-app,
+      body.is-navigating .nav-curtain {
+        animation: none !important;
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <canvas id="cometCanvas" aria-hidden="true"></canvas>
+  <div class="nav-curtain" id="navCurtain" aria-hidden="true"></div>
+
+  <div class="home-app" id="homeApp">
+    <div class="top-section">
+      <div class="top-left">rift /home</div>
+      <div class="top-center">
+        <div class="tabbar" role="tablist" aria-label="Rift tabs">
+          <button class="tab" type="button" id="tab-1" role="tab" aria-selected="true" data-tab="1">rift 1</button>
+          <button class="tab-plus" type="button" id="addRiftTab" aria-label="Add Rift tab">+</button>
+        </div>
+      </div>
+      <div class="top-right">
+        <button class="icon-btn" id="topSearchBtn" type="button" aria-label="Search menu" aria-haspopup="true" aria-expanded="false">
+          <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" d="M10 2a8 8 0 1 1 5.293 14.007l4.35 4.35a1 1 0 0 1-1.415 1.414l-4.35-4.35A8 8 0 0 1 10 2zm0 2a6 6 0 1 0 0 12a6 6 0 0 0 0-12z"/>
+          </svg>
+        </button>
+
+        <div class="top-menu" id="topMenu" hidden role="menu" aria-label="Where would you like to go?">
+          <div class="top-menu-title">Where would you like to go?</div>
+          <button class="suggestion" type="button" role="menuitem" data-value="games">
+            <strong>Games</strong>
+            <small>launch, resume, favorites</small>
+          </button>
+          <button class="suggestion" type="button" role="menuitem" data-value="browser">
+            <strong>Browser</strong>
+            <small>tabs, proxy, engines</small>
+          </button>
+          <button class="suggestion" type="button" role="menuitem" data-value="music">
+            <strong>Music</strong>
+            <small>search, playlists</small>
+          </button>
+          <button class="suggestion" type="button" role="menuitem" data-value="cloud gaming">
+            <strong>Cloud Gaming</strong>
+            <small>providers, sessions</small>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <nav class="side-nav" aria-label="Left navigation">
+    <button class="icon-btn" type="button" aria-label="Home">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M12 3l9 8h-3v10h-5v-6H11v6H6V11H3l9-8z"/>
+      </svg>
+    </button>
+    <button class="icon-btn" type="button" aria-label="Games">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M7 7h10a5 5 0 0 1 4.9 6l-1.3 6.1A3 3 0 0 1 17.7 22H16a2 2 0 0 1-2-2v-1H10v1a2 2 0 0 1-2 2H6.3a3 3 0 0 1-2.9-2.9L2.1 13A5 5 0 0 1 7 7zm1 6H6v2h2v2h2v-2h2v-2H10V11H8v2zm9 0h-2v2h2v-2zm2-2h-2v2h2v-2z"/>
+      </svg>
+    </button>
+    <button class="icon-btn" type="button" aria-label="Browser">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 4v10h16V8H4z"/>
+      </svg>
+    </button>
+    <div class="side-divider"></div>
+    <button class="icon-btn" type="button" aria-label="Music">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M12 3v10.6a3.5 3.5 0 1 0 2 3.2V7h6V3h-8z"/>
+      </svg>
+    </button>
+    <div class="side-spacer"></div>
+    <button class="icon-btn" type="button" aria-label="Settings">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M19.4 13a7.7 7.7 0 0 0 .1-1l2-1.5l-2-3.5l-2.4.8a7.8 7.8 0 0 0-.8-.5L16 4h-4l-.3 2.3c-.3.1-.6.3-.8.5L8.5 6L6.5 9.5l2 1.5a7.7 7.7 0 0 0 0 2l-2 1.5l2 3.5l2.4-.8c.3.2.5.4.8.5L12 20h4l.3-2.3c.3-.1.6-.3.8-.5l2.4.8l2-3.5L19.4 13zM14 12a2 2 0 1 1-4 0a2 2 0 0 1 4 0z"/>
+      </svg>
+    </button>
+  </nav>
+
+  <div class="page">
+    <div class="sessions" id="sessions">
+      <section class="session-view" data-session="1">
+        <div class="title-wrap">
+          <h1 class="top-title" data-split aria-label="rift v2">rift v2</h1>
+        </div>
+        <div class="search-wrap">
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path fill="currentColor" d="M10 2a8 8 0 1 1 5.293 14.007l4.35 4.35a1 1 0 0 1-1.415 1.414l-4.35-4.35A8 8 0 0 1 10 2zm0 2a6 6 0 1 0 0 12a6 6 0 0 0 0-12z"/>
+            </svg>
+            <input
+              class="search-input"
+              type="text"
+              placeholder="Search for anything."
+              autocomplete="off"
+              spellcheck="false"
+              aria-label="Search"
+            >
+          </div>
+
+          <div class="suggestions" hidden role="listbox" aria-label="Suggestions">
+            <button class="suggestion" type="button" role="option" data-value="games">
+              <strong>Games</strong>
+              <small>launch, resume, favorites</small>
+            </button>
+            <button class="suggestion" type="button" role="option" data-value="browser">
+              <strong>Browser</strong>
+              <small>tabs, proxy, engines</small>
+            </button>
+            <button class="suggestion" type="button" role="option" data-value="music">
+              <strong>Music</strong>
+              <small>search, playlists</small>
+            </button>
+            <button class="suggestion" type="button" role="option" data-value="cloud gaming">
+              <strong>Cloud Gaming</strong>
+              <small>providers, sessions</small>
+            </button>
+          </div>
+        </div>
+        <div class="enter-wrap">
+          <button class="enter-btn" type="button">enter the rift</button>
+        </div>
+      </section>
+    </div>
+  </div>
+  </div>
+
+  <template id="sessionTemplate">
+    <section class="session-view" data-session="X" hidden>
+      <div class="title-wrap">
+        <h1 class="top-title" data-split aria-label="rift v2">rift v2</h1>
+      </div>
+      <div class="search-wrap">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" d="M10 2a8 8 0 1 1 5.293 14.007l4.35 4.35a1 1 0 0 1-1.415 1.414l-4.35-4.35A8 8 0 0 1 10 2zm0 2a6 6 0 1 0 0 12a6 6 0 0 0 0-12z"/>
+          </svg>
+          <input
+            class="search-input"
+            type="text"
+            placeholder="Search for anything."
+            autocomplete="off"
+            spellcheck="false"
+            aria-label="Search"
+          >
+        </div>
+
+        <div class="suggestions" hidden role="listbox" aria-label="Suggestions">
+          <button class="suggestion" type="button" role="option" data-value="games">
+            <strong>Games</strong>
+            <small>launch, resume, favorites</small>
+          </button>
+          <button class="suggestion" type="button" role="option" data-value="browser">
+            <strong>Browser</strong>
+            <small>tabs, proxy, engines</small>
+          </button>
+          <button class="suggestion" type="button" role="option" data-value="music">
+            <strong>Music</strong>
+            <small>search, playlists</small>
+          </button>
+          <button class="suggestion" type="button" role="option" data-value="cloud gaming">
+            <strong>Cloud Gaming</strong>
+            <small>providers, sessions</small>
+          </button>
+        </div>
+      </div>
+      <div class="enter-wrap">
+        <button class="enter-btn" type="button">enter the rift</button>
+      </div>
+    </section>
+  </template>
+
+  <script>
+    // Tiny comets (low intensity). Respects reduced motion.
+    (() => {
+      const prefersReduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (prefersReduce) return;
+
+      const canvas = document.getElementById("cometCanvas");
+      if (!canvas) return;
+      const ctx = canvas.getContext("2d", { alpha: true });
+      if (!ctx) return;
+
+      let dpr = Math.max(1, Math.min(2, window.devicePixelRatio || 1));
+      const state = {
+        w: 0,
+        h: 0,
+        comets: [],
+        nextSpawnAt: 0,
+        lastT: performance.now()
+      };
+
+      const resize = () => {
+        dpr = Math.max(1, Math.min(2, window.devicePixelRatio || 1));
+        const w = Math.floor(window.innerWidth * dpr);
+        const h = Math.floor(window.innerHeight * dpr);
+        canvas.width = w;
+        canvas.height = h;
+        state.w = w;
+        state.h = h;
+        // Clear to avoid stretching artifacts after resize.
+        ctx.clearRect(0, 0, w, h);
+      };
+
+      const rand = (a, b) => a + Math.random() * (b - a);
+      const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
+
+      const scheduleNext = (now) => {
+        // "Every now and then": roughly 1.2s to 4.0s, with a bit of randomness.
+        state.nextSpawnAt = now + rand(1200, 4000);
+      };
+
+      const spawnComet = (now) => {
+        if (state.comets.length >= 2) return;
+        const w = state.w, h = state.h;
+
+        // Always fly top-left -> bottom-right, starting slightly off-screen.
+        // Spawn from either the top edge or left edge so it feels natural.
+        const start = pick(["top", "left"]);
+        let x, y;
+        if (start === "top") {
+          x = rand(-0.15 * w, 0.65 * w);
+          y = -rand(60, 220);
+        } else {
+          x = -rand(60, 220);
+          y = rand(-0.15 * h, 0.65 * h);
+        }
+
+        const angle = (Math.PI / 4) + rand(-0.22, 0.22); // ~45deg with jitter
+        const speed = rand(640, 1320) * dpr; // pixels/sec in canvas space
+        const vx = Math.cos(angle) * speed;
+        const vy = Math.sin(angle) * speed;
+
+        const width = rand(0.8, 2.8) * dpr;
+        const headR = rand(1.2, 3.4) * dpr;
+
+        state.comets.push({
+          x, y,
+          px: x, py: y,
+          vx, vy,
+          age: 0,
+          life: rand(850, 1650), // ms
+          width,
+          headR
+        });
+
+        scheduleNext(now);
+      };
+
+      const step = (now) => {
+        const dt = Math.min(34, now - state.lastT); // clamp for tab switches
+        state.lastT = now;
+
+        // Fade previous frame slightly to create trails without washing the screen gray.
+        ctx.globalCompositeOperation = "source-over";
+        ctx.fillStyle = "rgba(0, 0, 0, 0.16)";
+        ctx.fillRect(0, 0, state.w, state.h);
+
+        if (now >= state.nextSpawnAt) spawnComet(now);
+
+        for (let i = state.comets.length - 1; i >= 0; i--) {
+          const c = state.comets[i];
+          c.age += dt;
+          c.px = c.x;
+          c.py = c.y;
+          c.x += (c.vx * dt) / 1000;
+          c.y += (c.vy * dt) / 1000;
+
+          const t = Math.max(0, 1 - c.age / c.life);
+          const alpha = 0.85 * t;
+
+          // Trail segment
+          ctx.strokeStyle = `rgba(255, 255, 255, ${0.48 * alpha})`;
+          ctx.lineWidth = c.width;
+          ctx.lineCap = "round";
+          ctx.beginPath();
+          ctx.moveTo(c.px, c.py);
+          ctx.lineTo(c.x, c.y);
+          ctx.stroke();
+
+          // Head
+          ctx.fillStyle = `rgba(255, 255, 255, ${alpha})`;
+          ctx.beginPath();
+          ctx.arc(c.x, c.y, c.headR, 0, Math.PI * 2);
+          ctx.fill();
+
+          const off =
+            c.x < -200 || c.x > state.w + 200 ||
+            c.y < -200 || c.y > state.h + 200 ||
+            c.age > c.life;
+
+          if (off) state.comets.splice(i, 1);
+        }
+
+        requestAnimationFrame(step);
+      };
+
+      window.addEventListener("resize", resize, { passive: true });
+      resize();
+      scheduleNext(performance.now());
+      requestAnimationFrame(step);
+    })();
+
+    const splitTitle = (el) => {
+      if (!el || el.dataset.splitDone === "1") return;
+      const text = el.textContent || "";
+      el.textContent = "";
+      for (const ch of text) {
+        const span = document.createElement("span");
+        span.className = ch === " " ? "letter space" : "letter";
+        span.textContent = ch;
+        el.appendChild(span);
+      }
+      el.dataset.splitDone = "1";
+    };
+
+    document.querySelectorAll("[data-split]").forEach(splitTitle);
+
+    const sessionsRoot = document.getElementById("sessions");
+    const sessionTemplate = document.getElementById("sessionTemplate");
+    const blurTimers = new WeakMap();
+
+    const getActiveSessionId = () => Number(document.body.dataset.activeSession || "1");
+    const setActiveSessionId = (id) => { document.body.dataset.activeSession = String(id); };
+
+    const getSessionEl = (id) => sessionsRoot?.querySelector(`.session-view[data-session="${id}"]`) || null;
+    const getActiveSessionEl = () => getSessionEl(getActiveSessionId());
+
+    const findSuggestionsForInput = (input) => {
+      const wrap = input?.closest(".search-wrap");
+      return wrap ? wrap.querySelector(".suggestions") : null;
+    };
+
+    const showSuggestionsForInput = (input) => {
+      const sug = findSuggestionsForInput(input);
+      if (sug) sug.hidden = false;
+    };
+
+    const hideSuggestionsForInput = (input) => {
+      const sug = findSuggestionsForInput(input);
+      if (sug) sug.hidden = true;
+    };
+
+    const getActiveSearchInput = () => getActiveSessionEl()?.querySelector(".search-input") || null;
+
+    if (sessionsRoot) {
+      sessionsRoot.addEventListener("focusin", (e) => {
+        const input = e.target.closest?.(".search-input");
+        if (!input) return;
+        const t = blurTimers.get(input);
+        if (t) clearTimeout(t);
+        showSuggestionsForInput(input);
+      });
+
+      sessionsRoot.addEventListener("click", (e) => {
+        const input = e.target.closest?.(".search-input");
+        if (input) {
+          const t = blurTimers.get(input);
+          if (t) clearTimeout(t);
+          showSuggestionsForInput(input);
+          return;
+        }
+
+        const btn = e.target.closest?.(".suggestions [data-value]");
+        if (!btn) return;
+        const value = btn.getAttribute("data-value") || "";
+        const session = btn.closest(".session-view");
+        const sessionInput = session?.querySelector(".search-input");
+        if (!sessionInput) return;
+        sessionInput.value = value;
+        hideSuggestionsForInput(sessionInput);
+        sessionInput.focus();
+      });
+
+      sessionsRoot.addEventListener("mousedown", (e) => {
+        if (e.target.closest?.(".suggestions")) e.preventDefault();
+      });
+
+      sessionsRoot.addEventListener("focusout", (e) => {
+        const input = e.target.closest?.(".search-input");
+        if (!input) return;
+        const timer = setTimeout(() => hideSuggestionsForInput(input), 120);
+        blurTimers.set(input, timer);
+      });
+    }
+
+    const topSearchBtn = document.getElementById("topSearchBtn");
+    const topMenu = document.getElementById("topMenu");
+
+    const setTopMenuOpen = (open) => {
+      if (!topMenu || !topSearchBtn) return;
+      topMenu.hidden = !open;
+      topSearchBtn.setAttribute("aria-expanded", open ? "true" : "false");
+    };
+
+    if (topSearchBtn && topMenu) {
+      topSearchBtn.addEventListener("click", () => {
+        setTopMenuOpen(topMenu.hidden);
+      });
+
+      document.addEventListener("click", (e) => {
+        if (topMenu.hidden) return;
+        const within = topMenu.contains(e.target) || topSearchBtn.contains(e.target);
+        if (!within) setTopMenuOpen(false);
+      });
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") setTopMenuOpen(false);
+      });
+    }
+
+    const setActiveTab = (tabId) => {
+      setActiveSessionId(tabId);
+
+      document.querySelectorAll("[role='tab'][data-tab]").forEach((btn) => {
+        btn.setAttribute("aria-selected", btn.getAttribute("data-tab") === String(tabId) ? "true" : "false");
+      });
+
+      sessionsRoot?.querySelectorAll(".session-view").forEach((view) => {
+        view.hidden = view.getAttribute("data-session") !== String(tabId);
+      });
+
+      const input = getActiveSearchInput();
+      if (input) hideSuggestionsForInput(input);
+    };
+
+    const ensureSession = (id) => {
+      if (!sessionsRoot || !sessionTemplate) return null;
+      const existing = getSessionEl(id);
+      if (existing) return existing;
+      const frag = sessionTemplate.content.cloneNode(true);
+      const section = frag.querySelector(".session-view");
+      if (!section) return null;
+      section.setAttribute("data-session", String(id));
+      const t = section.querySelector("[data-split]");
+      splitTitle(t);
+      sessionsRoot.appendChild(section);
+      return section;
+    };
+
+    const tab1 = document.getElementById("tab-1");
+    if (tab1) tab1.addEventListener("click", () => setActiveTab(1));
+
+    const addBtn = document.getElementById("addRiftTab");
+    let nextTabId = 2;
+    if (addBtn) {
+      addBtn.addEventListener("click", () => {
+        const tablist = addBtn.closest("[role='tablist']");
+        if (!tablist) return;
+
+        const id = nextTabId++;
+        ensureSession(id);
+
+        const btn = document.createElement("button");
+        btn.className = "tab";
+        btn.type = "button";
+        btn.id = `tab-${id}`;
+        btn.setAttribute("role", "tab");
+        btn.setAttribute("data-tab", String(id));
+        btn.setAttribute("aria-selected", "false");
+        btn.textContent = `rift ${id}`;
+        btn.addEventListener("click", () => setActiveTab(id));
+        tablist.insertBefore(btn, addBtn);
+        setActiveTab(id);
+      });
+    }
+
+    // Top-right menu should target the active session's search box.
+    if (topMenu) {
+      topMenu.addEventListener("click", (e) => {
+        const btn = e.target.closest("[data-value]");
+        if (!btn) return;
+        const input = getActiveSearchInput();
+        if (!input) return;
+        input.value = btn.getAttribute("data-value") || "";
+        showSuggestionsForInput(input);
+        input.focus();
+        setTopMenuOpen(false);
+      });
+    }
+
+    // Initialize: show session 1 only.
+    setActiveSessionId(1);
+    setActiveTab(1);
+
+    // Navigate to /rift with a slide-down transition, but keep the URL unchanged
+    // by swapping the document via document.write (no iframe, no overlay app view).
+    const homeApp = document.getElementById("homeApp");
+    const navCurtain = document.getElementById("navCurtain");
+    const prefersReduceNav = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const riftUrl = (location.protocol === "file:") ? "./rift/index.html" : "/rift/";
+    let navInFlight = false;
+
+    const swapToRiftDocument = async () => {
+      const res = await fetch(riftUrl, { credentials: "same-origin", cache: "no-cache" });
+      if (!res.ok) throw new Error(`Failed to load ${riftUrl} (${res.status})`);
+      const html = await res.text();
+      document.open();
+      document.write(html);
+      document.close();
+    };
+
+    const enterRift = async () => {
+      if (navInFlight) return;
+      navInFlight = true;
+
+      if (!prefersReduceNav) {
+        document.body.classList.add("is-navigating");
+      } else {
+        // Reduced motion: skip animation but still show a clean cut.
+        if (navCurtain) navCurtain.style.transform = "translateY(0)";
+        if (homeApp) homeApp.style.opacity = "0";
+      }
+
+      // Let the animation read before we swap documents.
+      const delay = prefersReduceNav ? 20 : 340;
+      setTimeout(async () => {
+        try {
+          await swapToRiftDocument();
+        } catch (err) {
+          // If fetch fails (common on file://), fall back to a normal navigation.
+          window.location.href = riftUrl;
+        }
+      }, delay);
+    };
+
+    document.addEventListener("click", (e) => {
+      const btn = e.target.closest?.(".enter-btn");
+      if (!btn) return;
+      enterRift();
+    });
+  </script>
+</body>
+</html>
