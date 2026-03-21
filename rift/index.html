@@ -57,6 +57,7 @@
       background: rgba(255, 255, 255, 0.04);
       padding: 16px 16px 14px;
       cursor: pointer;
+      color: rgba(255, 255, 255, 0.92);
       box-shadow:
         0 16px 28px rgba(0, 0, 0, 0.55),
         inset 0 1px 0 rgba(255, 255, 255, 0.05);
@@ -90,6 +91,57 @@
       font-size: 0.96rem;
       opacity: 0.72;
       line-height: 1.35;
+    }
+
+    .rift-search {
+      margin-top: 16px;
+      width: min(520px, 100%);
+    }
+
+    .search-box {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 14px;
+      border-radius: 18px;
+      background: #1e1e1e;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow:
+        0 10px 26px rgba(0, 0, 0, 0.65),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+
+    .search-box:focus-within {
+      border-color: rgba(216, 160, 111, 0.52);
+      box-shadow:
+        0 12px 32px rgba(0, 0, 0, 0.72),
+        0 0 0 4px rgba(216, 160, 111, 0.12),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+
+    .search-icon {
+      width: 20px;
+      height: 20px;
+      flex: 0 0 auto;
+      color: rgba(255, 255, 255, 0.74);
+      opacity: 0.9;
+    }
+
+    .search-input {
+      width: 100%;
+      min-width: 0;
+      border: 0;
+      outline: none;
+      background: transparent;
+      color: #fff;
+      font-size: 1.05rem;
+      letter-spacing: 0.01em;
+      padding: 2px 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .search-input::placeholder {
+      color: rgba(255, 255, 255, 0.48);
     }
 
     .title {
@@ -150,13 +202,6 @@
       letter-spacing: 0.02em;
     }
 
-    .right-note {
-      margin: 0;
-      opacity: 0.62;
-      font-size: 0.95rem;
-      line-height: 1.5;
-    }
-
     @media (max-width: 860px) {
       .layout {
         grid-template-columns: 1fr;
@@ -167,7 +212,7 @@
       }
 
       .sub,
-      .right-note {
+      .rift-search {
         text-align: center;
       }
     }
@@ -205,7 +250,14 @@
             <h1 id="riftTitle" aria-label="welcome to the rift">welcome to the rift</h1>
           </div>
           <p class="sub">where would you like to begin?</p>
-          <p class="right-note">Pick a space on the left. This page is meant to feel like an entry, not a dashboard.</p>
+          <div class="rift-search" aria-label="Rift search">
+            <div class="search-box">
+              <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill="currentColor" d="M10 2a8 8 0 1 1 5.293 14.007l4.35 4.35a1 1 0 0 1-1.415 1.414l-4.35-4.35A8 8 0 0 1 10 2zm0 2a6 6 0 1 0 0 12a6 6 0 0 0 0-12z"/>
+              </svg>
+              <input class="search-input" type="text" placeholder="Search for anything." autocomplete="off" spellcheck="false" aria-label="Search">
+            </div>
+          </div>
         </div>
       </div>
     </div>
