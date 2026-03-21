@@ -29,17 +29,73 @@
     }
 
     .panel {
-      width: min(760px, 92vw);
+      width: min(1060px, 94vw);
       border: 1px solid rgba(255, 255, 255, 0.14);
       border-radius: 22px;
       background: rgba(255, 255, 255, 0.03);
-      padding: 18px 18px 16px;
+      padding: 18px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
+      gap: 18px;
+      align-items: start;
+    }
+
+    .features {
+      display: grid;
+      gap: 12px;
+      padding-right: 6px;
+    }
+
+    .feature-btn {
+      width: 100%;
+      text-align: left;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.04);
+      padding: 16px 16px 14px;
+      cursor: pointer;
+      box-shadow:
+        0 16px 28px rgba(0, 0, 0, 0.55),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+      transition: transform 160ms ease, border-color 160ms ease, background 160ms ease, box-shadow 160ms ease;
+    }
+
+    .feature-btn:hover,
+    .feature-btn:focus-visible {
+      outline: none;
+      transform: translateY(-2px);
+      border-color: rgba(216, 160, 111, 0.55);
+      background: rgba(216, 160, 111, 0.08);
+      box-shadow:
+        0 20px 36px rgba(0, 0, 0, 0.7),
+        0 0 0 4px rgba(216, 160, 111, 0.12),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+
+    .feature-btn strong {
+      display: block;
+      font-size: 1.18rem;
+      letter-spacing: 0.08em;
+      text-transform: lowercase;
+      font-weight: 400;
+      margin-bottom: 6px;
+    }
+
+    .feature-btn span {
+      display: block;
+      font-family: Arial, sans-serif;
+      font-size: 0.96rem;
+      opacity: 0.72;
+      line-height: 1.35;
     }
 
     .title {
       display: flex;
-      justify-content: center;
-      margin: 0 0 14px;
+      justify-content: flex-start;
+      margin: 0 0 10px;
     }
 
     h1 {
@@ -87,21 +143,71 @@
     }
 
     .sub {
-      text-align: center;
-      margin: 0;
+      text-align: left;
+      margin: 0 0 10px;
       opacity: 0.78;
       font-size: 1.05rem;
       letter-spacing: 0.02em;
+    }
+
+    .right-note {
+      margin: 0;
+      opacity: 0.62;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 860px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .title {
+        justify-content: center;
+      }
+
+      .sub,
+      .right-note {
+        text-align: center;
+      }
     }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="panel">
-      <div class="title">
-        <h1 id="riftTitle" aria-label="welcome to the rift">welcome to the rift</h1>
+      <div class="layout">
+        <div class="features" aria-label="Features">
+          <button class="feature-btn" type="button">
+            <strong>games</strong>
+            <span>favorites, trending, quick launch</span>
+          </button>
+          <button class="feature-btn" type="button">
+            <strong>browser</strong>
+            <span>proxy, tabs, custom engines</span>
+          </button>
+          <button class="feature-btn" type="button">
+            <strong>music</strong>
+            <span>search, playlists, background play</span>
+          </button>
+          <button class="feature-btn" type="button">
+            <strong>cloud gaming</strong>
+            <span>providers, sessions, performance</span>
+          </button>
+          <button class="feature-btn" type="button">
+            <strong>library</strong>
+            <span>bookmarks, exports, packs</span>
+          </button>
+        </div>
+
+        <div>
+          <div class="title">
+            <h1 id="riftTitle" aria-label="welcome to the rift">welcome to the rift</h1>
+          </div>
+          <p class="sub">where would you like to begin?</p>
+          <p class="right-note">Pick a space on the left. This page is meant to feel like an entry, not a dashboard.</p>
+        </div>
       </div>
-      <p class="sub">where would you like to begin?</p>
     </div>
   </div>
 
