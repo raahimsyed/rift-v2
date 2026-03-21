@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Leoscar Sans";
+  src: url("../Leoscar%20Sans%20Serif.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Leoscar Serif";
+  src: url("../Leoscar%20Serif.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
