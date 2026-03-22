@@ -316,48 +316,13 @@ if (topMenu) {
 setActiveSessionId(1);
 setActiveTab(1);
 
-// Navigate to /rift with a slide-down transition, but keep the URL unchanged
-// by swapping the document via document.write (no iframe, no overlay app view).
 const homeApp = document.getElementById("homeApp");
 const navCurtain = document.getElementById("navCurtain");
 const prefersReduceNav = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-const riftUrl = (location.protocol === "file:") ? "./rift/index.html" : "/rift/";
+const homeUrl = (location.protocol === "file:") ? "./index.html" : "/";
 const gamesUrl = (location.protocol === "file:") ? "./games/index.html" : "/games/";
 const browserUrl = (location.protocol === "file:") ? "./browser/index.html" : "/browser/";
 let navInFlight = false;
-
-const swapToRiftDocument = async () => {
-  const res = await fetch(riftUrl, { credentials: "same-origin", cache: "no-cache" });
-  if (!res.ok) throw new Error(`Failed to load ${riftUrl} (${res.status})`);
-  const html = await res.text();
-  document.open();
-  document.write(html);
-  document.close();
-};
-
-const enterRift = async () => {
-  if (navInFlight) return;
-  navInFlight = true;
-
-  if (!prefersReduceNav) {
-    document.body.classList.add("is-navigating");
-  } else {
-    // Reduced motion: skip animation but still show a clean cut.
-    if (navCurtain) navCurtain.style.transform = "translateY(0)";
-    if (homeApp) homeApp.style.opacity = "0";
-  }
-
-  // Let the animation read before we swap documents.
-  const delay = prefersReduceNav ? 20 : 340;
-  setTimeout(async () => {
-    try {
-      await swapToRiftDocument();
-    } catch (err) {
-      // If fetch fails (common on file://), fall back to a normal navigation.
-      window.location.href = riftUrl;
-    }
-  }, delay);
-};
 
 const animateThenNavigate = (url) => {
   if (navInFlight) return;
@@ -391,7 +356,7 @@ const routeKeyword = (raw) => {
   }
 
   if (value === "rift" || value === "enter" || value === "enter the rift") {
-    enterRift();
+    animateThenNavigate(homeUrl);
     return true;
   }
 

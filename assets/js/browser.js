@@ -15,7 +15,7 @@ const els = {
   reload: document.getElementById("navReload")
 };
 
-const riftUrl = isFile ? "../rift/index.html" : "/rift/";
+const homeUrl = isFile ? "../index.html" : "/";
 const SCRAMJET_CONFIG = {
   prefix: "/browser/service/",
   files: {
@@ -294,7 +294,7 @@ if (els.urlInput) {
 
 if (els.backToRift) {
   els.backToRift.addEventListener("click", () => {
-    window.location.href = riftUrl;
+    window.location.href = homeUrl;
   });
 }
 

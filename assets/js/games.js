@@ -1,5 +1,5 @@
 const isFile = location.protocol === "file:";
-const riftUrl = isFile ? "../rift/index.html" : "/rift/";
+const homeUrl = isFile ? "../index.html" : "/";
 
 const els = {
   back: document.getElementById("backToRift"),
@@ -111,7 +111,7 @@ const renderFNFMods = (mods, q) => {
 const main = async () => {
   if (els.back) {
     els.back.addEventListener("click", () => {
-      window.location.href = riftUrl;
+      window.location.href = homeUrl;
     });
   }
 
