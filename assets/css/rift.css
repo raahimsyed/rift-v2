@@ -76,7 +76,7 @@ body {
 
 .feature-meta {
   display: block;
-  font-family: Arial, sans-serif;
+  font-family: inherit;
   font-size: 0.96rem;
   opacity: 0.72;
   line-height: 1.35;
@@ -145,7 +145,7 @@ body {
   font-size: 1.05rem;
   letter-spacing: 0.01em;
   padding: 2px 0;
-  font-family: Arial, sans-serif;
+  font-family: inherit;
 }
 
 .search-input::placeholder {
@@ -191,7 +191,7 @@ p {
   margin: 0;
   opacity: 0.72;
   line-height: 1.5;
-  font-family: Arial, sans-serif;
+  font-family: inherit;
 }
 
 .hint {

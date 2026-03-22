@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Leoscar Sans";
-  src: url("../Anurati-Regular.otf") format("opentype");
+  src: url("../Datalegreya-Thin.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -8,8 +8,19 @@
 
 @font-face {
   font-family: "Leoscar Serif";
-  src: url("../Leoscar%20Serif.ttf") format("truetype");
+  src: url("../Datalegreya-Thin.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
+}
+
+html,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Leoscar Sans", sans-serif;
+  font-feature-settings: "liga" 0, "clig" 0, "calt" 0, "dlig" 0, "hlig" 0, "salt" 0, "ss01" 0, "ss02" 0, "ss03" 0, "ss04" 0, "ss05" 0;
+  font-variant-ligatures: none;
 }
