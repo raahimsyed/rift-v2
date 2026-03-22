@@ -2,6 +2,47 @@ importScripts("../scram/scramjet.all.js");
 
 const { ScramjetServiceWorker } = $scramjetLoadWorker();
 const scramjet = new ScramjetServiceWorker();
+const SCRAMJET_CONFIG = {
+  prefix: "/browser/service/",
+  globals: {
+    wrapfn: "$scramjet$wrap",
+    wrappropertybase: "$scramjet__",
+    wrappropertyfn: "$scramjet$prop",
+    cleanrestfn: "$scramjet$clean",
+    importfn: "$scramjet$import",
+    rewritefn: "$scramjet$rewrite",
+    metafn: "$scramjet$meta",
+    setrealmfn: "$scramjet$setrealm",
+    pushsourcemapfn: "$scramjet$pushsourcemap",
+    trysetfn: "$scramjet$tryset",
+    templocid: "$scramjet$temploc",
+    tempunusedid: "$scramjet$tempunused"
+  },
+  files: {
+    wasm: "/scram/scramjet.wasm.wasm",
+    all: "/scram/scramjet.all.js",
+    sync: "/scram/scramjet.sync.js"
+  },
+  flags: {
+    serviceworkers: false,
+    syncxhr: false,
+    strictRewrites: true,
+    rewriterLogs: false,
+    captureErrors: true,
+    cleanErrors: false,
+    scramitize: false,
+    sourcemaps: true,
+    destructureRewrites: false,
+    interceptDownloads: false,
+    allowInvalidJs: true,
+    allowFailedIntercepts: true
+  },
+  siteFlags: {},
+  codec: {
+    encode: (value) => value ? encodeURIComponent(value) : value,
+    decode: (value) => value ? decodeURIComponent(value) : value
+  }
+};
 
 const SCRAMJET_DB_NAMES = [
   "$scramjet",
@@ -53,6 +94,17 @@ async function ensureScramjetSchema(name) {
       if (!upgradeDb.objectStoreNames.contains(store)) upgradeDb.createObjectStore(store);
     }
   });
+  try {
+    const tx = fresh.transaction("config", "readwrite");
+    tx.objectStore("config").put(SCRAMJET_CONFIG, "config");
+    await new Promise((resolve, reject) => {
+      tx.oncomplete = () => resolve();
+      tx.onerror = () => reject(tx.error || new Error("IDB transaction failed"));
+      tx.onabort = () => reject(tx.error || new Error("IDB transaction aborted"));
+    });
+  } catch {
+    // ignore
+  }
   fresh.close();
 }
 
@@ -66,12 +118,15 @@ async function ensureSchemaReady() {
       // Ignore and let Scramjet try the remaining candidate names.
     }
   }
+  scramjet.config = SCRAMJET_CONFIG;
   schemaReady = true;
 }
 
 async function handleRequest(event) {
   await ensureSchemaReady();
-  await scramjet.loadConfig();
+  if (!scramjet.config) {
+    scramjet.config = SCRAMJET_CONFIG;
+  }
   if (scramjet.route(event)) return scramjet.fetch(event);
   return fetch(event.request);
 }

@@ -16,6 +16,14 @@ const els = {
 };
 
 const riftUrl = isFile ? "../rift/index.html" : "/rift/";
+const SCRAMJET_CONFIG = {
+  prefix: "/browser/service/",
+  files: {
+    wasm: "/scram/scramjet.wasm.wasm",
+    all: "/scram/scramjet.all.js",
+    sync: "/scram/scramjet.sync.js"
+  }
+};
 
 const normalizeInputToUrl = (raw) => {
   const s = String(raw || "").trim();
@@ -153,18 +161,12 @@ const ensureStack = async () => {
 
   const { ScramjetController } = $scramjetLoadController();
 
-  scramjet = new ScramjetController({
-    prefix: "/browser/service/",
-    files: {
-      wasm: "/scram/scramjet.wasm.wasm",
-      all: "/scram/scramjet.all.js",
-      sync: "/scram/scramjet.sync.js"
-    }
-  });
+  scramjet = new ScramjetController(SCRAMJET_CONFIG);
 
   // Important: init is async and creates the IDB schema + seeds config.
   // If we don't await it, the SW can race and create a broken DB (no stores).
   await scramjet.init();
+  await scramjet.modifyConfig(SCRAMJET_CONFIG);
 
   clearStoredBareMuxState();
   connection = new BareMux.BareMuxConnection("/baremux/worker.js");
