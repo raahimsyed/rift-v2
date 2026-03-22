@@ -713,7 +713,8 @@
     "name": "rbcollege",
     "sourceUrl": "https://truffled.lol/games/rbcollege/index.html",
     "sourceBaseUrl": "",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/rbcollege.png"
   },
   {
     "slug": "rerun",

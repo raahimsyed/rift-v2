@@ -260,7 +260,8 @@
     "name": "clusterrush",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/clusterrush.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/clusterrush.png"
   },
   {
     "slug": "cookieclicker",
@@ -387,14 +388,16 @@
     "name": "driftboss",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/driftboss.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/driftboss.png"
   },
   {
     "slug": "drifthunters",
     "name": "drifthunters",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/drifthunters.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/drifthunters.png"
   },
   {
     "slug": "drivemad",
@@ -479,7 +482,8 @@
     "name": "FNaF",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FNaF.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/fnaf.jpg"
   },
   {
     "slug": "fnaf2",
@@ -698,7 +702,8 @@
     "name": "jetpackjoyride",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/jetpackjoyride.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/jetpackjoyride.jpg"
   },
   {
     "slug": "jetskiracing",
@@ -930,7 +935,8 @@
     "name": "paperio",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/paperio.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/paperio.png"
   },
   {
     "slug": "papermario",
@@ -958,7 +964,8 @@
     "name": "polytrack",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/polytrack.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/polytrack.svg"
   },
   {
     "slug": "portal2d",
@@ -1007,7 +1014,8 @@
     "name": "rbcollege",
     "sourceUrl": "https://truffled.lol/games/rbcollege/index.html",
     "sourceBaseUrl": "",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/rbcollege.png"
   },
   {
     "slug": "realflightsim",
@@ -1206,7 +1214,8 @@
     "name": "stickmanhook",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmanhook.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/stickmanhook.jpg"
   },
   {
     "slug": "stickmina",
@@ -1305,7 +1314,8 @@
     "name": "wordle",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/wordle.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/wordle.png"
   },
   {
     "slug": "worldcup08",

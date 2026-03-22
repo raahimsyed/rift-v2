@@ -4,7 +4,8 @@
     "name": "1",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/1.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/1.png"
   },
   {
     "slug": "1-on-1-soccer",
@@ -39,7 +40,8 @@
     "name": "10 Minutes Till Dawn",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/10%20Minutes%20Till%20Dawn.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/10minutestilldawn.png"
   },
   {
     "slug": "12-mini-battles",
@@ -160,7 +162,8 @@
     "name": "A Dance of Fire and Ice",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/A%20Dance%20of%20Fire%20and%20Ice.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/adanceoffireandice.png"
   },
   {
     "slug": "a-dark-room",
@@ -251,7 +254,8 @@
     "name": "Age of War",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Age%20of%20War.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/ageofwar.jpg"
   },
   {
     "slug": "age-of-war-2",
@@ -510,7 +514,8 @@
     "name": "Awesome Tanks 2",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Awesome%20Tanks%202.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/awesometanks2.jpg"
   },
   {
     "slug": "babel-tower",
@@ -897,7 +902,8 @@
     "name": "Blocky Snakes",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Blocky%20Snakes.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/blockysnakes.png"
   },
   {
     "slug": "blood-tournament",
@@ -1051,7 +1057,8 @@
     "name": "Bowmasters",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Bowmasters.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/bowmasters.png"
   },
   {
     "slug": "boxhead-2play-rooms",
@@ -1128,7 +1135,8 @@
     "name": "BTD5",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/BTD5.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/btd5.jpg"
   },
   {
     "slug": "bts",
@@ -1205,7 +1213,8 @@
     "name": "Burrito Bison",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Burrito%20Bison.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/burritobison.png"
   },
   {
     "slug": "burrito-bison-launcha-libre",
@@ -1331,7 +1340,8 @@
     "name": "Cell Machine",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Cell%20Machine.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/cellmachine.png"
   },
   {
     "slug": "cellar-door",
@@ -1373,7 +1383,8 @@
     "name": "Chess",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Chess.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/chess.png"
   },
   {
     "slug": "chess-classic",
@@ -1478,7 +1489,8 @@
     "name": "Cluster Rush",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Cluster%20Rush.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/clusterrush.png"
   },
   {
     "slug": "coffee-maker",
@@ -1591,7 +1603,8 @@
     "name": "Cut the Rope",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Cut%20the%20Rope.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/cuttherope.png"
   },
   {
     "slug": "dad-n-me",
@@ -1794,7 +1807,8 @@
     "name": "Doodle Jump",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Doodle%20Jump.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/doodlejump.png"
   },
   {
     "slug": "doom-emscripten",
@@ -1885,14 +1899,16 @@
     "name": "Drift Boss",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Drift%20Boss.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/driftboss.png"
   },
   {
     "slug": "drift-hunters",
     "name": "Drift Hunters",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Drift%20Hunters.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/drifthunters.png"
   },
   {
     "slug": "drive-mad",
@@ -2397,7 +2413,8 @@
     "name": "FNAF",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/FNAF.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/fnaf.jpg"
   },
   {
     "slug": "fnaf-2",
@@ -3270,7 +3287,8 @@
     "name": "Jetpack Joyride",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Jetpack%20Joyride.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/jetpackjoyride.jpg"
   },
   {
     "slug": "johnny-trigger",
@@ -3664,7 +3682,8 @@
     "name": "Minecraft1 8",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Minecraft1-8.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/minecraft18.png"
   },
   {
     "slug": "mini-tooth",
@@ -3727,7 +3746,8 @@
     "name": "MotoX3m",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/MotoX3m.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/motox3m.jpg"
   },
   {
     "slug": "motox3m-pool-party",
@@ -3930,7 +3950,8 @@
     "name": "Offline Paradise",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Offline%20Paradise.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/offlineparadise.png"
   },
   {
     "slug": "omega-nugget-clicker",
@@ -4043,7 +4064,8 @@
     "name": "Paper io",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Paper-io.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/paperio.png"
   },
   {
     "slug": "paper-io-mania",
@@ -4253,7 +4275,8 @@
     "name": "Poly Track",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Poly%20Track.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/polytrack.svg"
   },
   {
     "slug": "poly-track-old",
@@ -4731,7 +4754,8 @@
     "name": "Rocket League",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Rocket%20League.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/rocketleague.png"
   },
   {
     "slug": "rocket-soccer-derby",
@@ -4787,7 +4811,8 @@
     "name": "Rooftop Snipers",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Rooftop%20Snipers.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/rooftopsnipers.png"
   },
   {
     "slug": "room-clicker",

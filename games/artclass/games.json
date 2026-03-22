@@ -4,7 +4,8 @@
     "name": "cut the rope",
     "sourceUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/cut-the-rope.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/cuttherope.png"
   },
   {
     "slug": "dino-game",
@@ -25,7 +26,8 @@
     "name": "flappy bird",
     "sourceUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/flappy-bird.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/flappybird.png"
   },
   {
     "slug": "friday-night-funkin",
@@ -61,7 +63,8 @@
     "name": "papas burgeria",
     "sourceUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/papas-burgeria.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/papasburgeria.jpg"
   },
   {
     "slug": "retro-bowl",

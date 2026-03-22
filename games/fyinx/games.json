@@ -159,7 +159,8 @@
     "name": "celeste",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/celeste.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/celeste.png"
   },
   {
     "slug": "clash",
@@ -313,7 +314,8 @@
     "name": "fnaf",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/fnaf.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/fnaf.jpg"
   },
   {
     "slug": "fnf",

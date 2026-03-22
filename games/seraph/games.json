@@ -4,7 +4,8 @@
     "name": "10minutestilldawn",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/10minutestilldawn/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/10minutestilldawn/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/10minutestilldawn.png"
   },
   {
     "slug": "1on1soccer",
@@ -76,7 +77,8 @@
     "name": "adofai",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/adofai/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/adofai/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/adofai.png"
   },
   {
     "slug": "advancewars",
@@ -118,7 +120,8 @@
     "name": "ageofwar",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/ageofwar/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/ageofwar/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ageofwar.jpg"
   },
   {
     "slug": "ageofwar2",
@@ -167,7 +170,8 @@
     "name": "aquaparkslides",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/aquaparkslides/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/aquaparkslides/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/aquaparkslides.png"
   },
   {
     "slug": "backrooms2d",
@@ -216,21 +220,24 @@
     "name": "baldisbasics",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/baldisbasics/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/baldisbasics/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/baldisbasics.png"
   },
   {
     "slug": "ballisticchickens",
     "name": "ballisticchickens",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/ballisticchickens/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/ballisticchickens/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ballisticchickens.png"
   },
   {
     "slug": "balloonrun",
     "name": "balloonrun",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/balloonrun/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/balloonrun/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/balloonrun.png"
   },
   {
     "slug": "banjokazooie",
@@ -258,7 +265,8 @@
     "name": "basketbrosio",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/basketbrosio/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/basketbrosio/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/basketbrosio.jpg"
   },
   {
     "slug": "basketrandom",
@@ -351,7 +359,8 @@
     "name": "boxingphysics2",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/boxingphysics2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/boxingphysics2/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/boxingphysics2.jpg"
   },
   {
     "slug": "boxingrandom",
@@ -393,7 +402,8 @@
     "name": "burritobison",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/burritobison/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/burritobison/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/burritobison.png"
   },
   {
     "slug": "cactusmccoy",
@@ -470,21 +480,24 @@
     "name": "celeste",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/celeste/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/celeste/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/celeste.png"
   },
   {
     "slug": "cellmachine",
     "name": "cellmachine",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/cellmachine/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/cellmachine/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/cellmachine.png"
   },
   {
     "slug": "championisland",
     "name": "championisland",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/championisland/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/championisland/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/championisland.png"
   },
   {
     "slug": "changetype",
@@ -505,7 +518,8 @@
     "name": "chess",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/chess/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/chess/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/chess.png"
   },
   {
     "slug": "chibiknight",
@@ -568,7 +582,8 @@
     "name": "clusterrush",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/clusterrush/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/clusterrush/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/clusterrush.png"
   },
   {
     "slug": "colorswitch",
@@ -639,7 +654,8 @@
     "name": "crazytunnel3d",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/crazytunnel3d/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/crazytunnel3d/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/crazytunnel3d.png"
   },
   {
     "slug": "crimsonfantasia",
@@ -688,7 +704,8 @@
     "name": "cuttherope",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/cuttherope/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/cuttherope/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/cuttherope.png"
   },
   {
     "slug": "dadish",
@@ -709,7 +726,8 @@
     "name": "dadish3",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/dadish3/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/dadish3/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/dadish3.png"
   },
   {
     "slug": "dbzsupersonicwarriors",
@@ -730,7 +748,8 @@
     "name": "defendthetank",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/defendthetank/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/defendthetank/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/defendthetank.png"
   },
   {
     "slug": "diddykongracing",
@@ -814,7 +833,8 @@
     "name": "doodlejump",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/doodlejump/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/doodlejump/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/doodlejump.png"
   },
   {
     "slug": "doom",
@@ -849,14 +869,16 @@
     "name": "driftboss",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/driftboss/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/driftboss/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/driftboss.png"
   },
   {
     "slug": "drifthunters",
     "name": "drifthunters",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/drifthunters/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/drifthunters/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/drifthunters.png"
   },
   {
     "slug": "driftmania",
@@ -1087,7 +1109,8 @@
     "name": "flappy",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/flappy/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/flappy/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/flappy.png"
   },
   {
     "slug": "fleeingthecomplex",
@@ -1122,7 +1145,8 @@
     "name": "fnaf",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/fnaf/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/fnaf/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/fnaf.jpg"
   },
   {
     "slug": "fnaf-2",
@@ -1157,7 +1181,8 @@
     "name": "fnfmidfight",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/fnfmidfight/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/fnfmidfight/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/fnfmidfight.png"
   },
   {
     "slug": "fortnite",
@@ -1192,7 +1217,8 @@
     "name": "funnymadracing",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/funnymadracing/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/funnymadracing/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/funnymadracing.png"
   },
   {
     "slug": "funnyshooter2",
@@ -1227,7 +1253,8 @@
     "name": "gdlite",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/gdlite/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/gdlite/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/gdlite.png"
   },
   {
     "slug": "geometrydashsky",
@@ -1305,7 +1332,8 @@
     "name": "gunfest",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/gunfest/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/gunfest/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/gunfest.png"
   },
   {
     "slug": "gunmayhem",
@@ -1432,14 +1460,16 @@
     "name": "jetpackjoyride",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/jetpackjoyride/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/jetpackjoyride/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/jetpackjoyride.jpg"
   },
   {
     "slug": "justfalllol",
     "name": "justfalllol",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/justfalllol/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/justfalllol/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/justfalllol.jpg"
   },
   {
     "slug": "kidicarus",
@@ -1560,7 +1590,8 @@
     "name": "lowsadventures2",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/lowsadventures2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/lowsadventures2/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/lowsadventures2.png"
   },
   {
     "slug": "majorasmask",
@@ -1784,14 +1815,16 @@
     "name": "motox3m",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/motox3m/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/motox3m/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/motox3m.jpg"
   },
   {
     "slug": "motox3mpool",
     "name": "motox3mpool",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/motox3mpool/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/motox3mpool/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/motox3mpool.jpg"
   },
   {
     "slug": "motox3mspooky",
@@ -1882,7 +1915,8 @@
     "name": "offlineparadise",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/offlineparadise/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/offlineparadise/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/offlineparadise.png"
   },
   {
     "slug": "oodlegobs",
@@ -1967,7 +2001,8 @@
     "name": "papasburgeria",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/papasburgeria/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/papasburgeria/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/papasburgeria.jpg"
   },
   {
     "slug": "papascheeseria",
@@ -2066,7 +2101,8 @@
     "name": "paperio3d",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/paperio3d/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/paperio3d/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/paperio3d.jpg"
   },
   {
     "slug": "papermario",
@@ -2220,7 +2256,8 @@
     "name": "precisionclient",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/precisionclient/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/precisionclient/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/precisionclient.png"
   },
   {
     "slug": "professorlayton",
@@ -2248,7 +2285,8 @@
     "name": "rabbitsamurai",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/rabbitsamurai/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/rabbitsamurai/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/rabbitsamurai.png"
   },
   {
     "slug": "raftwars",
@@ -2283,7 +2321,8 @@
     "name": "recoil",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/recoil/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/recoil/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/recoil.jpg"
   },
   {
     "slug": "redball1",
@@ -2333,7 +2372,8 @@
     "name": "risehigher",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/risehigher/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/risehigher/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/risehigher.png"
   },
   {
     "slug": "ristar",
@@ -2361,7 +2401,8 @@
     "name": "rooftop",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/rooftop/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/rooftop/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/rooftop.png"
   },
   {
     "slug": "rooftop2",
@@ -2508,14 +2549,16 @@
     "name": "skibidi1v100",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/skibidi1v100/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/skibidi1v100/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/skibidi1v100.png"
   },
   {
     "slug": "skibiditoiletattack",
     "name": "skibiditoiletattack",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/skibiditoiletattack/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/skibiditoiletattack/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/skibiditoiletattack.png"
   },
   {
     "slug": "skywire",
@@ -2544,14 +2587,16 @@
     "name": "slope2",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/slope2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/slope2/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope2.png"
   },
   {
     "slug": "slopeball",
     "name": "slopeball",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/slopeball/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/slopeball/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slopeball.jpg"
   },
   {
     "slug": "slopecity",
@@ -2594,7 +2639,8 @@
     "name": "snowrider3d",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/snowrider3d/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/snowrider3d/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/snowrider3d.png"
   },
   {
     "slug": "soccerrandom",
@@ -2672,7 +2718,8 @@
     "name": "sortthecourt",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/sortthecourt/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/sortthecourt/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/sortthecourt.png"
   },
   {
     "slug": "spaceinvaders",
@@ -2763,14 +2810,16 @@
     "name": "stickmangolf",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/stickmangolf/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/stickmangolf/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/stickmangolf.png"
   },
   {
     "slug": "stickmanhook",
     "name": "stickmanhook",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/stickmanhook/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/stickmanhook/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/stickmanhook.jpg"
   },
   {
     "slug": "stickwar",
@@ -3031,7 +3080,8 @@
     "name": "tanukisunset",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/tanukisunset/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/tanukisunset/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/tanukisunset.png"
   },
   {
     "slug": "templerun2",
@@ -3116,7 +3166,8 @@
     "name": "thereisnogame",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/thereisnogame/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/thereisnogame/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/thereisnogame.png"
   },
   {
     "slug": "thesims2",
@@ -3165,7 +3216,8 @@
     "name": "timeshooter3",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/timeshooter3/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/timeshooter3/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/timeshooter3.png"
   },
   {
     "slug": "tinyfishing",
@@ -3180,7 +3232,8 @@
     "name": "townscaper",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/townscaper/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/townscaper/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/townscaper.jpg"
   },
   {
     "slug": "tron",
@@ -3194,7 +3247,8 @@
     "name": "tubejumpers",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/tubejumpers/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/tubejumpers/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/tubejumpers.jpg"
   },
   {
     "slug": "tunnelrush",
@@ -3293,28 +3347,32 @@
     "name": "vex6",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/vex6/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/vex6/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/vex6.png"
   },
   {
     "slug": "vex7",
     "name": "vex7",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/vex7/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/vex7/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/vex7.png"
   },
   {
     "slug": "volleyrandom",
     "name": "volleyrandom",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/volleyrandom/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/volleyrandom/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/volleyrandom.png"
   },
   {
     "slug": "wallsmash",
     "name": "wallsmash",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/wallsmash/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/wallsmash/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/wallsmash.png"
   },
   {
     "slug": "warioland4",
@@ -3370,7 +3428,8 @@
     "name": "waterworks",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/waterworks/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/waterworks/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/waterworks.png"
   },
   {
     "slug": "waverace64",
@@ -3384,14 +3443,16 @@
     "name": "wordle",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/wordle/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/wordle/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/wordle.png"
   },
   {
     "slug": "worldshardestgame",
     "name": "worldshardestgame",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/worldshardestgame/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/worldshardestgame/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/worldshardestgame.jpg"
   },
   {
     "slug": "worldshardestgame2",

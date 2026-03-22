@@ -236,6 +236,51 @@ function Get-LocalThumbnailUrl([hashtable]$StoredFiles, [string]$WrapperStem, [s
   return [string]$StoredFiles[$sourceFullPath]
 }
 
+function Get-MirrorCandidateScore($Candidate, [string]$Alias) {
+  $score = 0
+  $basename = ([string]$Candidate.basename).ToLowerInvariant()
+  $path = [string]$Candidate.path
+  $normalizedAlias = Normalize-Key $Alias
+  $normalizedBase = Normalize-Key $basename
+
+  if ($basename -match 'logo') {
+    $score += 22
+  } elseif ($basename -match '(thumb|thumbnail)') {
+    $score += 18
+  } elseif ($basename -match '(cover|banner|splash)') {
+    $score += 16
+  } elseif ($basename -match 'icon') {
+    $score += 12
+  }
+
+  if ($path -match '(?i)(logo|thumb|thumbnail|cover|banner|splash)') {
+    $score += 8
+  }
+
+  if ($normalizedAlias -and $normalizedBase -and ($normalizedBase.Contains($normalizedAlias) -or $normalizedAlias.Contains($normalizedBase))) {
+    $score += 12
+  }
+
+  try {
+    $length = (Get-Item $Candidate.path).Length
+    if ($length -ge 10240) {
+      $score += 6
+    } elseif ($length -ge 4096) {
+      $score += 3
+    }
+  } catch {
+  }
+
+  switch ([string]$Candidate.source) {
+    "truffled-mirror" { $score += 4 }
+    "seraph-2048" { $score += 3 }
+    "petezah" { $score += 2 }
+    "velara" { $score += 1 }
+  }
+
+  return $score
+}
+
 Ensure-Dir $thumbRoot
 
 $thumbnailByAlias = @{}
@@ -396,6 +441,83 @@ foreach ($wrapperFile in $wrapperManifest.files) {
   $autoDiscovered += 1
 }
 
+$mirrorRoots = @(
+  @{
+    name = "truffled-mirror"
+    root = "C:\Users\Raahim\truffled-temp\games"
+  },
+  @{
+    name = "seraph-2048"
+    root = "C:\Users\Raahim\seraph-2048\games"
+  },
+  @{
+    name = "petezah"
+    root = "C:\Users\Raahim\PeteZahGames\public\storage\ag\g"
+  },
+  @{
+    name = "velara"
+    root = "C:\Users\Raahim\velara-temp\public\hosted"
+  }
+)
+
+$mirrorCandidatesByAlias = @{}
+foreach ($mirror in $mirrorRoots) {
+  if (-not (Test-Path $mirror.root)) {
+    continue
+  }
+
+  $files = Get-ChildItem -Path $mirror.root -Recurse -File -Include icon.png,icon.jpg,logo.png,logo.jpg,logo.svg,thumb.png,thumb.jpg,thumbnail.png,thumbnail.jpg,cover.png,cover.jpg,splash.png,splash.jpg -ErrorAction SilentlyContinue
+  foreach ($file in $files) {
+    $relative = $file.FullName.Substring($mirror.root.Length).TrimStart("\")
+    if ([string]::IsNullOrWhiteSpace($relative)) {
+      continue
+    }
+
+    $topLevel = ($relative -split "[\\/]", 2)[0]
+    $alias = Normalize-Key $topLevel
+    if ([string]::IsNullOrWhiteSpace($alias)) {
+      continue
+    }
+
+    if (-not $mirrorCandidatesByAlias.ContainsKey($alias)) {
+      $mirrorCandidatesByAlias[$alias] = New-Object System.Collections.Generic.List[object]
+    }
+
+    $mirrorCandidatesByAlias[$alias].Add([pscustomobject]@{
+      source = [string]$mirror.name
+      path = $file.FullName
+      basename = $file.Name
+    }) | Out-Null
+  }
+}
+
+$mirrorDiscovered = 0
+foreach ($alias in $mirrorCandidatesByAlias.Keys) {
+  $best = $mirrorCandidatesByAlias[$alias] |
+    Sort-Object @{ Expression = { Get-MirrorCandidateScore $_ $alias }; Descending = $true } |
+    Select-Object -First 1
+
+  if ($null -eq $best) {
+    continue
+  }
+
+  $shouldReplace = -not $thumbnailByAlias.ContainsKey($alias)
+  if (-not $shouldReplace) {
+    $current = [string]$thumbnailByAlias[$alias]
+    if ($current -match '^https?://') {
+      $shouldReplace = $true
+    }
+  }
+
+  if (-not $shouldReplace) {
+    continue
+  }
+
+  $thumbUrl = Get-LocalThumbnailUrl -StoredFiles $storedFiles -WrapperStem $alias -SourcePath $best.path
+  Add-Alias -Table $thumbnailByAlias -Alias $alias -Value $thumbUrl -Force $true
+  $mirrorDiscovered += 1
+}
+
 $updated = 0
 Get-ChildItem $gamesRoot -Directory | ForEach-Object {
   $manifestFile = Join-Path $_.FullName "games.json"
@@ -430,4 +552,5 @@ Get-ChildItem $gamesRoot -Directory | ForEach-Object {
 }
 
 Write-Output ("auto_discovered=" + $autoDiscovered)
+Write-Output ("mirror_discovered=" + $mirrorDiscovered)
 Write-Output ("updated_entries=" + $updated)

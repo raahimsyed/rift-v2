@@ -125,7 +125,8 @@
     "name": "doodle jump",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/doodle-jump/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/doodle-jump/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/doodlejump.png"
   },
   {
     "slug": "fire-truck-dash",
@@ -160,7 +161,8 @@
     "name": "flappybird",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flappybird/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flappybird/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/flappybird.png"
   },
   {
     "slug": "friday-night-funkin-vs-ex",
@@ -279,7 +281,8 @@
     "name": "moto x3m",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/motox3m.jpg"
   },
   {
     "slug": "moto-x3m-pool-party",
@@ -437,7 +440,8 @@
     "name": "there is no game",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/there-is-no-game/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/there-is-no-game/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/thereisnogame.png"
   },
   {
     "slug": "unfair-dyne",
@@ -479,7 +483,8 @@
     "name": "volley random",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/volley-random/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/volley-random/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/volleyrandom.png"
   },
   {
     "slug": "webgl-rollingsky",
@@ -493,7 +498,8 @@
     "name": "wordle",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/wordle/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/wordle/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/wordle.png"
   },
   {
     "slug": "zombotron",

@@ -358,7 +358,8 @@
     "name": "celeste",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/celeste.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/celeste.png"
   },
   {
     "slug": "chat",
@@ -596,7 +597,8 @@
     "name": "driftboss",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/driftboss.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/driftboss.png"
   },
   {
     "slug": "drive-mad-main",
@@ -715,7 +717,8 @@
     "name": "fnaf",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fnaf.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/fnaf.jpg"
   },
   {
     "slug": "fnaf2",
@@ -1191,7 +1194,8 @@
     "name": "justfalllol",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/justfalllol/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/justfalllol/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/justfalllol.jpg"
   },
   {
     "slug": "k1",
@@ -1373,7 +1377,8 @@
     "name": "motox3m",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/motox3m.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/motox3m.jpg"
   },
   {
     "slug": "movie",
@@ -1549,7 +1554,8 @@
     "name": "polytrack",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/polytrack.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/polytrack.svg"
   },
   {
     "slug": "poppyplaytime",
@@ -1837,7 +1843,8 @@
     "name": "slope2",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slope2.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope2.png"
   },
   {
     "slug": "slowroad",
@@ -2359,7 +2366,8 @@
     "name": "timeshooter3",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/timeshooter3.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/timeshooter3.png"
   },
   {
     "slug": "tinyfishing",
@@ -2564,7 +2572,8 @@
     "name": "wordle",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wordle.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/wordle.png"
   },
   {
     "slug": "worldbox",

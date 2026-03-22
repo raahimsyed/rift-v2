@@ -11,7 +11,8 @@
     "name": "10minutestilldawn",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/10minutestilldawn/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/10minutestilldawn/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/10minutestilldawn.png"
   },
   {
     "slug": "2-3-4-player-game",
@@ -200,7 +201,8 @@
     "name": "baldis basics",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baldis-basics/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baldis-basics/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/baldisbasics.png"
   },
   {
     "slug": "ballistic",
@@ -546,7 +548,8 @@
     "name": "doodle jump",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/doodle%20jump/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/doodle%20jump/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/doodlejump.png"
   },
   {
     "slug": "down-the-mountain",
@@ -567,7 +570,8 @@
     "name": "drift hunters",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/drift-hunters/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/drift-hunters/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/drifthunters.png"
   },
   {
     "slug": "drunken-duel",
@@ -855,7 +859,8 @@
     "name": "gdlite",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gdlite/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gdlite/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/gdlite.png"
   },
   {
     "slug": "georgeandprinter",
@@ -1569,7 +1574,8 @@
     "name": "poly track",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poly%20track/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poly%20track/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/polytrack.svg"
   },
   {
     "slug": "poly-track-old",
@@ -1660,7 +1666,8 @@
     "name": "recoil",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/recoil/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/recoil/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/recoil.jpg"
   },
   {
     "slug": "redvsblue",
@@ -1779,7 +1786,8 @@
     "name": "rooftop snipers 2",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rooftop%20snipers%202/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rooftop%20snipers%202/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/rooftopsnipers2.png"
   },
   {
     "slug": "rouge-fable-3",
@@ -2088,7 +2096,8 @@
     "name": "stick merge",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick%20merge/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick%20merge/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/stickmerge.png"
   },
   {
     "slug": "stick-slasher",
@@ -2130,7 +2139,8 @@
     "name": "stickman hook",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman%20hook/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman%20hook/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/stickmanhook.jpg"
   },
   {
     "slug": "stickman-parkour-island",
