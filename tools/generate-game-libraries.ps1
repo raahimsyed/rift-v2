@@ -46,6 +46,49 @@ function Ensure-Dir([string]$Path) {
   }
 }
 
+function Build-SourceInfo([string]$Path, $Config, [string]$SourceBasePath) {
+  $encodedPath = Encode-Path $Path
+  $basePath = if ([string]::IsNullOrWhiteSpace($SourceBasePath)) {
+    (Split-Path $Path -Parent) -replace "\\", "/"
+  } else {
+    $SourceBasePath -replace "\\", "/"
+  }
+  $basePath = $basePath.Trim("/")
+  $encodedDir = Encode-Path $basePath
+
+  if ($Config.Provider -eq "github") {
+    if ($Config.LoadMode -eq "srcdoc") {
+      $sourceUrl = "https://raw.githubusercontent.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedPath"
+      $sourceBaseUrl = if ([string]::IsNullOrWhiteSpace($encodedDir)) {
+        "https://raw.githubusercontent.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/"
+      } else {
+        "https://raw.githubusercontent.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedDir/"
+      }
+    } else {
+      $sourceUrl = "https://rawcdn.githack.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedPath"
+      $sourceBaseUrl = if ([string]::IsNullOrWhiteSpace($encodedDir)) {
+        "https://rawcdn.githack.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/"
+      } else {
+        "https://rawcdn.githack.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedDir/"
+      }
+    }
+  } elseif ($Config.Provider -eq "gitlab") {
+    $sourceUrl = "https://gitlab.com/$($Config.Project)/-/raw/$($Config.Ref)/$encodedPath"
+    $sourceBaseUrl = if ([string]::IsNullOrWhiteSpace($encodedDir)) {
+      "https://gitlab.com/$($Config.Project)/-/raw/$($Config.Ref)/"
+    } else {
+      "https://gitlab.com/$($Config.Project)/-/raw/$($Config.Ref)/$encodedDir/"
+    }
+  } else {
+    throw "Unsupported provider: $($Config.Provider)"
+  }
+
+  return [pscustomobject]@{
+    sourceUrl = $sourceUrl
+    sourceBaseUrl = $sourceBaseUrl
+  }
+}
+
 function Get-RemoteTree([string]$RemoteUrl, [string[]]$RefsToTry) {
   $tempDir = Join-Path $env:TEMP ("rift-tree-" + [guid]::NewGuid().ToString("N"))
 
@@ -152,49 +195,44 @@ function Get-EntryFromPath([string]$Path, $Config, [hashtable]$Seen) {
     $name = $slug
   }
 
-  $encodedPath = Encode-Path $Path
-  $sourceUrl = ""
-  $sourceBaseUrl = ""
-
-  if ($Config.Provider -eq "github") {
-    if ($Config.LoadMode -eq "srcdoc") {
-      $sourceUrl = "https://raw.githubusercontent.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedPath"
-      $dirPath = Split-Path $Path -Parent
-      $encodedDir = Encode-Path ($dirPath -replace "\\", "/")
-      if ([string]::IsNullOrWhiteSpace($encodedDir)) {
-        $sourceBaseUrl = "https://raw.githubusercontent.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/"
-      } else {
-        $sourceBaseUrl = "https://raw.githubusercontent.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedDir/"
-      }
-    } else {
-      $sourceUrl = "https://rawcdn.githack.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedPath"
-      $dirPath = Split-Path $Path -Parent
-      $encodedDir = Encode-Path ($dirPath -replace "\\", "/")
-      if ([string]::IsNullOrWhiteSpace($encodedDir)) {
-        $sourceBaseUrl = "https://rawcdn.githack.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/"
-      } else {
-        $sourceBaseUrl = "https://rawcdn.githack.com/$($Config.Owner)/$($Config.Repo)/$($Config.Ref)/$encodedDir/"
-      }
-    }
-  } elseif ($Config.Provider -eq "gitlab") {
-    $projectPath = ($Config.Project -replace "/", "%2F")
-    $sourceUrl = "https://gitlab.com/$($Config.Project)/-/raw/$($Config.Ref)/$encodedPath"
-    $dirPath = Split-Path $Path -Parent
-    $encodedDir = Encode-Path ($dirPath -replace "\\", "/")
-    if ([string]::IsNullOrWhiteSpace($encodedDir)) {
-      $sourceBaseUrl = "https://gitlab.com/$($Config.Project)/-/raw/$($Config.Ref)/"
-    } else {
-      $sourceBaseUrl = "https://gitlab.com/$($Config.Project)/-/raw/$($Config.Ref)/$encodedDir/"
-    }
-  }
+  $sourceInfo = Build-SourceInfo $Path $Config $null
 
   return [pscustomobject]@{
     slug = $slug
     name = $name
     path = $Path
-    sourceUrl = $sourceUrl
-    sourceBaseUrl = $sourceBaseUrl
+    sourceUrl = $sourceInfo.sourceUrl
+    sourceBaseUrl = $sourceInfo.sourceBaseUrl
     loadMode = $Config.LoadMode
+  }
+}
+
+function Get-SyntheticEntry($Item, $Config, [hashtable]$Seen) {
+  $slug = Normalize-Slug $Item.slug
+  if ([string]::IsNullOrWhiteSpace($slug)) {
+    return $null
+  }
+
+  $originalSlug = $slug
+  $suffix = 2
+  while ($Seen.ContainsKey($slug)) {
+    $slug = "$originalSlug-$suffix"
+    $suffix += 1
+  }
+  $Seen[$slug] = $true
+
+  $name = if ([string]::IsNullOrWhiteSpace($Item.name)) { $slug } else { $Item.name }
+  $loadMode = if ([string]::IsNullOrWhiteSpace($Item.loadMode)) { $Config.LoadMode } else { $Item.loadMode }
+  $sourceInfo = Build-SourceInfo $Item.path $Config $Item.sourceBasePath
+
+  return [pscustomobject]@{
+    slug = $slug
+    name = $name
+    path = $Item.path
+    sourceUrl = $sourceInfo.sourceUrl
+    sourceBaseUrl = $sourceInfo.sourceBaseUrl
+    loadMode = $loadMode
+    sourceExtra = $Item.sourceExtra
   }
 }
 
@@ -256,6 +294,11 @@ function Write-LauncherPage($LibraryDir, $Config, $Entry) {
   $sourceUrl = Escape-Html $Entry.sourceUrl
   $sourceBaseUrl = Escape-Html $Entry.sourceBaseUrl
   $loadMode = Escape-Html $Entry.loadMode
+  $sourceExtraAttr = ""
+  if ($null -ne $Entry.sourceExtra) {
+    $sourceExtraJson = $Entry.sourceExtra | ConvertTo-Json -Depth 10 -Compress
+    $sourceExtraAttr = ' data-source-extra="' + (Escape-Html $sourceExtraJson) + '"'
+  }
 
   $html = @"
 <!doctype html>
@@ -268,7 +311,7 @@ function Write-LauncherPage($LibraryDir, $Config, $Entry) {
   <link rel="stylesheet" href="../../assets/css/fonts.css">
   <link rel="stylesheet" href="../../assets/css/game-frame.css">
 </head>
-<body data-library-slug="$($Config.Slug)" data-library-name="$title" data-game-slug="$gameSlug" data-game-name="$gameName" data-load-mode="$loadMode" data-source-url="$sourceUrl" data-source-base-url="$sourceBaseUrl">
+<body data-library-slug="$($Config.Slug)" data-library-name="$title" data-game-slug="$gameSlug" data-game-name="$gameName" data-load-mode="$loadMode" data-source-url="$sourceUrl" data-source-base-url="$sourceBaseUrl"$sourceExtraAttr>
   <header class="topbar">
     <div class="title-block">
       <h1 class="title" id="gameTitle">$gameName</h1>
@@ -498,6 +541,67 @@ $libraries = @(
       '^[^/]+/index\.html$',
       '^[^/]+/[^/]+\.(html|htm)$'
     )
+    SyntheticEntries = @(
+      @{
+        slug = "174"
+        name = "worldbox"
+        path = "174/worldbox.swf"
+        loadMode = "ruffle"
+      },
+      @{
+        slug = "175"
+        name = "run"
+        path = "175/Run.swf"
+        loadMode = "ruffle"
+      },
+      @{
+        slug = "176"
+        name = "run2"
+        path = "176/Run2.swf"
+        loadMode = "ruffle"
+      },
+      @{
+        slug = "178"
+        name = "178"
+        path = "178/178.swf"
+        loadMode = "ruffle"
+      },
+      @{
+        slug = "184"
+        name = "184"
+        path = "184/script.js"
+        loadMode = "script"
+      },
+      @{
+        slug = "186"
+        name = "186"
+        path = "186/Build/v111.loader.js"
+        sourceBasePath = "186/"
+        loadMode = "unity"
+        sourceExtra = @{
+          buildBaseUrl = "https://rawcdn.githack.com/gn-math/assets/main/186/Build/"
+          dataUrl = "https://rawcdn.githack.com/gn-math/assets/main/186/Build/6697b6deba8b617c67b69c55dcd07cb1.data.unityweb"
+          frameworkUrl = "https://rawcdn.githack.com/gn-math/assets/main/186/Build/0be3c3ee7115b26e1ae28e643afdf1f2.js.unityweb"
+          codeUrl = "https://rawcdn.githack.com/gn-math/assets/main/186/Build/b3397c29f6878557c1c614cbf9e196ea.wasm.unityweb"
+          streamingAssetsUrl = "https://rawcdn.githack.com/gn-math/assets/main/186/StreamingAssets/"
+          companyName = "gn-math"
+          productName = "186"
+          productVersion = "1.0"
+        }
+      },
+      @{
+        slug = "187"
+        name = "187"
+        path = "187/187.swf"
+        loadMode = "ruffle"
+      },
+      @{
+        slug = "197"
+        name = "197"
+        path = "197/face.js"
+        loadMode = "face"
+      }
+    )
     LoadMode = "url"
   },
   @{
@@ -629,12 +733,17 @@ foreach ($library in $libraries) {
   $entries = foreach ($path in $picked) {
     Get-EntryFromPath $path $library $seen
   }
+  if ($library.SyntheticEntries) {
+    foreach ($item in $library.SyntheticEntries) {
+      $entries += Get-SyntheticEntry $item $library $seen
+    }
+  }
   $entries = @($entries | Where-Object { $_ } | Sort-Object slug)
 
   $libraryDir = Join-Path $gamesRoot $library.Slug
   Ensure-Dir $libraryDir
 
-  $entries | Select-Object slug, name, sourceUrl, sourceBaseUrl, loadMode | ConvertTo-Json -Depth 5 | Set-Content -Path (Join-Path $libraryDir "games.json") -Encoding utf8
+  $entries | Select-Object slug, name, sourceUrl, sourceBaseUrl, loadMode, sourceExtra | ConvertTo-Json -Depth 10 | Set-Content -Path (Join-Path $libraryDir "games.json") -Encoding utf8
   Write-CatalogPage $libraryDir $library
 
   foreach ($entry in $entries) {
