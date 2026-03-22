@@ -4,7 +4,8 @@
     "name": "2048",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/2048/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/2048/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "a-dark-room",
@@ -340,7 +341,8 @@
     "name": "retro bowl",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/retro-bowl/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/retro-bowl/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/retro-bowl.jpg"
   },
   {
     "slug": "ritz",
@@ -375,14 +377,16 @@
     "name": "sm64",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/sm64/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/sm64/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/sm64.png"
   },
   {
     "slug": "soccer-random",
     "name": "soccer random",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/soccer-random/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/soccer-random/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/soccer-random.jpg"
   },
   {
     "slug": "spaceinvaders",
@@ -417,7 +421,8 @@
     "name": "superhot",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/unity/superhot/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/unity/superhot/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/superhot.png"
   },
   {
     "slug": "tanktrouble",

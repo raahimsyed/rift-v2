@@ -25,7 +25,8 @@
     "name": "1v1lol",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1v1lol/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1v1lol/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/1v1lol.png"
   },
   {
     "slug": "1v1space",
@@ -39,7 +40,8 @@
     "name": "2048",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/2048/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/2048/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "2048-multitask",
@@ -291,7 +293,8 @@
     "name": "bitlife",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bitlife/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bitlife/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/bitlife.png"
   },
   {
     "slug": "blacholesquare",
@@ -515,7 +518,8 @@
     "name": "cookie clicker",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cookie-clicker/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cookie-clicker/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/cookie-clicker.png"
   },
   {
     "slug": "core-ball",
@@ -718,7 +722,8 @@
     "name": "drive mad",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drive-mad/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drive-mad/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/drive-mad.jpg"
   },
   {
     "slug": "ducklife1",
@@ -1299,7 +1304,8 @@
     "name": "idle breakout",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idle-breakout/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idle-breakout/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/idle-breakout.png"
   },
   {
     "slug": "idle-shark",
@@ -1719,7 +1725,8 @@
     "name": "paperio2",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/paperio2/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/paperio2/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/paperio2.png"
   },
   {
     "slug": "papery-planes",
@@ -1838,7 +1845,8 @@
     "name": "retro bowl",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/retro-bowl/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/retro-bowl/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/retro-bowl.jpg"
   },
   {
     "slug": "rhythm-doctor",
@@ -2090,7 +2098,8 @@
     "name": "sm64",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sm64/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sm64/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/sm64.png"
   },
   {
     "slug": "smashkarts",
@@ -2125,7 +2134,8 @@
     "name": "soccer random",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soccer-random/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soccer-random/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/soccer-random.jpg"
   },
   {
     "slug": "soccer-skills",
@@ -2349,7 +2359,8 @@
     "name": "superhot",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superhot/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superhot/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/superhot.png"
   },
   {
     "slug": "supermarioconstruct",
@@ -2489,7 +2500,8 @@
     "name": "tiny fishing",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tiny-fishing/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tiny-fishing/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/tiny-fishing.png"
   },
   {
     "slug": "tiny-islands",

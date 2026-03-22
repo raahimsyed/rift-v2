@@ -459,7 +459,8 @@
     "name": "cookieclicker",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cookieclicker/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cookieclicker/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/cookie-clicker.png"
   },
   {
     "slug": "crazy-cars",
@@ -2216,7 +2217,8 @@
     "name": "superhot",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/superhot/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/superhot/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/superhot.png"
   },
   {
     "slug": "survival-race-v2",

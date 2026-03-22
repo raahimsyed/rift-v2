@@ -53,7 +53,8 @@
     "name": "1v1 lol",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/1v1-lol.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/1v1lol.png"
   },
   {
     "slug": "1v1lol5343e55new",
@@ -67,7 +68,8 @@
     "name": "2048",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/2048.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "2048-cupcakes",
@@ -823,7 +825,8 @@
     "name": "Bitlife",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Bitlife.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/bitlife.png"
   },
   {
     "slug": "blackjack",
@@ -1495,7 +1498,8 @@
     "name": "Cookie Clicker",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Cookie%20Clicker.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/cookie-clicker.png"
   },
   {
     "slug": "core-ball",
@@ -1894,7 +1898,8 @@
     "name": "Drive Mad",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Drive%20Mad.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/drive-mad.jpg"
   },
   {
     "slug": "duck-life",
@@ -2545,7 +2550,8 @@
     "name": "Gun Mayhem",
     "sourceUrl": "https://truffled.lol/games/funmayhem/index.html",
     "sourceBaseUrl": "",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/gun-mayhem.png"
   },
   {
     "slug": "funmayhem2",
@@ -2797,7 +2803,8 @@
     "name": "Gun Mayhem",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Gun%20Mayhem.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/gun-mayhem.png"
   },
   {
     "slug": "gun-mayhem-2",
@@ -3119,7 +3126,8 @@
     "name": "Idle Breakout",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Idle%20Breakout.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/idle-breakout.png"
   },
   {
     "slug": "idle-idle-game-dev",
@@ -4561,7 +4569,8 @@
     "name": "Retro Bowl",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Retro%20Bowl.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/retro-bowl.jpg"
   },
   {
     "slug": "retro-bowl-collegee",

@@ -18,7 +18,8 @@
     "name": "1v1.lol",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.lol/index.htm",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.lol/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/1v1lol.png"
   },
   {
     "slug": "1v1lol-main",
@@ -32,7 +33,8 @@
     "name": "2048",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/2048.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "99nights",
@@ -214,7 +216,8 @@
     "name": "bitlife",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/bitlife.png"
   },
   {
     "slug": "bitlifeservice",
@@ -1880,7 +1883,8 @@
     "name": "soccer random",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccer-random.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/soccer-random.jpg"
   },
   {
     "slug": "soccerbros",
@@ -2041,7 +2045,8 @@
     "name": "superhot",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/superhot.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/superhot.png"
   },
   {
     "slug": "supersf",
@@ -2300,7 +2305,8 @@
     "name": "tetris",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tetris.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/tetris.png"
   },
   {
     "slug": "the1",
@@ -2356,7 +2362,8 @@
     "name": "tinyfishing",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tinyfishing.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/tiny-fishing.png"
   },
   {
     "slug": "tloz",
@@ -2468,7 +2475,8 @@
     "name": "vex",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/vex.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/vex.png"
   },
   {
     "slug": "vex8",

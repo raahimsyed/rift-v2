@@ -46,6 +46,23 @@ function Ensure-Dir([string]$Path) {
   }
 }
 
+function Read-JsonFile([string]$Path) {
+  if (-not (Test-Path $Path)) {
+    return $null
+  }
+
+  $raw = [System.IO.File]::ReadAllText($Path)
+  if ($raw.Length -gt 0 -and $raw[0] -eq [char]0xFEFF) {
+    $raw = $raw.Substring(1)
+  }
+
+  if ([string]::IsNullOrWhiteSpace($raw)) {
+    return $null
+  }
+
+  return $raw | ConvertFrom-Json
+}
+
 function Build-SourceInfo([string]$Path, $Config, [string]$SourceBasePath) {
   $encodedPath = Encode-Path $Path
   $basePath = if ([string]::IsNullOrWhiteSpace($SourceBasePath)) {
@@ -743,7 +760,28 @@ foreach ($library in $libraries) {
   $libraryDir = Join-Path $gamesRoot $library.Slug
   Ensure-Dir $libraryDir
 
-  $entries | Select-Object slug, name, sourceUrl, sourceBaseUrl, loadMode, sourceExtra | ConvertTo-Json -Depth 10 | Set-Content -Path (Join-Path $libraryDir "games.json") -Encoding utf8
+  $existingManifestPath = Join-Path $libraryDir "games.json"
+  $existingEntries = @(Read-JsonFile $existingManifestPath)
+  $existingBySlug = @{}
+  foreach ($existing in $existingEntries) {
+    if ($existing.slug) {
+      $existingBySlug[[string]$existing.slug] = $existing
+    }
+  }
+
+  foreach ($entry in $entries) {
+    $slug = [string]$entry.slug
+    if (-not $existingBySlug.ContainsKey($slug)) {
+      continue
+    }
+
+    $existing = $existingBySlug[$slug]
+    if ($existing.PSObject.Properties["thumbnailUrl"]) {
+      $entry | Add-Member -NotePropertyName thumbnailUrl -NotePropertyValue ([string]$existing.thumbnailUrl) -Force
+    }
+  }
+
+  $entries | Select-Object slug, name, sourceUrl, sourceBaseUrl, loadMode, sourceExtra, thumbnailUrl | ConvertTo-Json -Depth 10 | Set-Content -Path (Join-Path $libraryDir "games.json") -Encoding utf8
   Write-CatalogPage $libraryDir $library
 
   foreach ($entry in $entries) {

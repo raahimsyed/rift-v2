@@ -11,14 +11,16 @@
     "name": "1v1lol",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1v1lol/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1v1lol/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/1v1lol.png"
   },
   {
     "slug": "2048",
     "name": "2048",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2048/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2048/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "2drocketleague",
@@ -228,7 +230,8 @@
     "name": "bitlife",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bitlife/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bitlife/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/bitlife.png"
   },
   {
     "slug": "bloodtournament",
@@ -417,7 +420,8 @@
     "name": "cookieclicker",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cookieclicker/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cookieclicker/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/cookie-clicker.png"
   },
   {
     "slug": "crossyroad",
@@ -564,7 +568,8 @@
     "name": "drivemad",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drivemad/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drivemad/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/drive-mad.jpg"
   },
   {
     "slug": "ducklife1",
@@ -900,7 +905,8 @@
     "name": "gunmayhem",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/gun-mayhem.png"
   },
   {
     "slug": "gunmayhem2",
@@ -970,7 +976,8 @@
     "name": "idlebreakout",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/idlebreakout/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/idlebreakout/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/idle-breakout.png"
   },
   {
     "slug": "inf",
@@ -1446,7 +1453,8 @@
     "name": "retrobowl",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowl/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowl/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/retro-bowl.jpg"
   },
   {
     "slug": "retrobowlcollege",
@@ -1670,7 +1678,8 @@
     "name": "soccerrandom",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/soccer-random.jpg"
   },
   {
     "slug": "solitaire",
@@ -1761,7 +1770,8 @@
     "name": "superhot",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/superhot/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/superhot/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/superhot.png"
   },
   {
     "slug": "supermario64",
@@ -1810,7 +1820,8 @@
     "name": "tetris",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tetris/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tetris/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/tetris.png"
   },
   {
     "slug": "tetrisweeper",
@@ -1908,7 +1919,8 @@
     "name": "tinyfishing",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tinyfishing/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tinyfishing/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/tiny-fishing.png"
   },
   {
     "slug": "townscaper",
@@ -1971,7 +1983,8 @@
     "name": "vex",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/vex.png"
   },
   {
     "slug": "vex2",

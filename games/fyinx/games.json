@@ -18,7 +18,8 @@
     "name": "2048",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/2048.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "adgac",
@@ -620,7 +621,8 @@
     "name": "sm64",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/sm64.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/sm64.png"
   },
   {
     "slug": "smash",
@@ -662,7 +664,8 @@
     "name": "superhot",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/superhot.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/superhot.png"
   },
   {
     "slug": "tattle",

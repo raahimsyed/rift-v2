@@ -4,14 +4,16 @@
     "name": "1v1lol",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/1v1lol.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/1v1lol.png"
   },
   {
     "slug": "2048",
     "name": "2048",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/2048.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
   },
   {
     "slug": "amongus",
@@ -151,7 +153,8 @@
     "name": "bitlife",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bitlife.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/bitlife.png"
   },
   {
     "slug": "blackjack",
@@ -263,7 +266,8 @@
     "name": "cookieclicker",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cookieclicker.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/cookie-clicker.png"
   },
   {
     "slug": "crazyc3d",
@@ -396,7 +400,8 @@
     "name": "drivemad",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/drivemad.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/drive-mad.jpg"
   },
   {
     "slug": "ducklife",
@@ -627,7 +632,8 @@
     "name": "gunmayhem",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gunmayhem.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/gun-mayhem.png"
   },
   {
     "slug": "hacker-tetris",
@@ -1019,7 +1025,8 @@
     "name": "retrobowl",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/retrobowl.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/retro-bowl.jpg"
   },
   {
     "slug": "riddlems",
@@ -1103,7 +1110,8 @@
     "name": "sm64",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sm64.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/sm64.png"
   },
   {
     "slug": "smk",

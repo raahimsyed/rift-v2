@@ -1,331 +1,333 @@
-﻿[
-    {
-        "slug":  "1v1-lol",
-        "name":  "1v1 lol",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/1v1-lol.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "2048",
-        "name":  "2048",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/2048.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "33-maze",
-        "name":  "33 maze",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/33-maze.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ball-in-the-hole",
-        "name":  "ball in the hole",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/ball-in-the-hole.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "b-cubed",
-        "name":  "b cubed",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/b-cubed.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "braains-io",
-        "name":  "braains io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/braains-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "build-royale",
-        "name":  "build royale",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/build-royale.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "castles-cc",
-        "name":  "castles cc",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/castles-cc.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cavegame-io",
-        "name":  "cavegame io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/cavegame-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crossy-road",
-        "name":  "crossy road",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/crossy-road.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "deeeep-io",
-        "name":  "deeeep io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/deeeep-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "devast-io",
-        "name":  "devast io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/devast-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "flappy-bird",
-        "name":  "flappy bird",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/flappy-bird.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "frozen-tower",
-        "name":  "frozen tower",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/frozen-tower.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "geometry-dash",
-        "name":  "geometry dash",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/geometry-dash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gobattle-io",
-        "name":  "gobattle io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/gobattle-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gravity-dash",
-        "name":  "gravity dash",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/gravity-dash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gulper-io",
-        "name":  "gulper io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/gulper-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hole-io",
-        "name":  "hole io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/hole-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "junon-io",
-        "name":  "junon io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/junon-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "krew-io",
-        "name":  "krew io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/krew-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "krunker-io",
-        "name":  "krunker io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/krunker-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "lordz-io",
-        "name":  "lordz io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/lordz-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "microgravity-io",
-        "name":  "microgravity io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/microgravity-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "moomoo-io",
-        "name":  "moomoo io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/moomoo-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "paper-io",
-        "name":  "paper io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/paper-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "paper-minecraft",
-        "name":  "paper minecraft",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/paper-minecraft.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "royalz-io",
-        "name":  "royalz io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/royalz-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "shapez-io",
-        "name":  "shapez io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/shapez-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "shell-shockers",
-        "name":  "shell shockers",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/shell-shockers.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "skribbl-io",
-        "name":  "skribbl io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/skribbl-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope",
-        "name":  "slope",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/slope.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "space-is-key",
-        "name":  "space is key",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/space-is-key.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "splix-io",
-        "name":  "splix io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/splix-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "squad-royale",
-        "name":  "squad royale",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/squad-royale.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "starve-io",
-        "name":  "starve io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/starve-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "surviv-io",
-        "name":  "surviv io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/surviv-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "takepoint-io",
-        "name":  "takepoint io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/takepoint-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "trapz-io",
-        "name":  "trapz io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/trapz-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "t-rex-game",
-        "name":  "t rex game",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/t-rex-game.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "unblock-me",
-        "name":  "unblock me",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/unblock-me.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "warbrokers-io",
-        "name":  "warbrokers io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/warbrokers-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "warscrap-io",
-        "name":  "warscrap io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/warscrap-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "witz-io",
-        "name":  "witz io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/witz-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "worlds-hardest-game",
-        "name":  "worlds hardest game",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/worlds-hardest-game.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wormate-io",
-        "name":  "wormate io",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/wormate-io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "zombs-royale",
-        "name":  "zombs royale",
-        "sourceUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/zombs-royale.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-        "loadMode":  "url"
-    }
+[
+  {
+    "slug": "1v1-lol",
+    "name": "1v1 lol",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/1v1-lol.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/1v1lol.png"
+  },
+  {
+    "slug": "2048",
+    "name": "2048",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/2048.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/2048.png"
+  },
+  {
+    "slug": "33-maze",
+    "name": "33 maze",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/33-maze.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ball-in-the-hole",
+    "name": "ball in the hole",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/ball-in-the-hole.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "b-cubed",
+    "name": "b cubed",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/b-cubed.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "braains-io",
+    "name": "braains io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/braains-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "build-royale",
+    "name": "build royale",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/build-royale.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "castles-cc",
+    "name": "castles cc",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/castles-cc.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cavegame-io",
+    "name": "cavegame io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/cavegame-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crossy-road",
+    "name": "crossy road",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/crossy-road.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deeeep-io",
+    "name": "deeeep io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/deeeep-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "devast-io",
+    "name": "devast io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/devast-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "flappy-bird",
+    "name": "flappy bird",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/flappy-bird.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "frozen-tower",
+    "name": "frozen tower",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/frozen-tower.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "geometry-dash",
+    "name": "geometry dash",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/geometry-dash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gobattle-io",
+    "name": "gobattle io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/gobattle-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gravity-dash",
+    "name": "gravity dash",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/gravity-dash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gulper-io",
+    "name": "gulper io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/gulper-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hole-io",
+    "name": "hole io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/hole-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "junon-io",
+    "name": "junon io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/junon-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "krew-io",
+    "name": "krew io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/krew-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "krunker-io",
+    "name": "krunker io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/krunker-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "lordz-io",
+    "name": "lordz io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/lordz-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "microgravity-io",
+    "name": "microgravity io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/microgravity-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "moomoo-io",
+    "name": "moomoo io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/moomoo-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "paper-io",
+    "name": "paper io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/paper-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "paper-minecraft",
+    "name": "paper minecraft",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/paper-minecraft.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "royalz-io",
+    "name": "royalz io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/royalz-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "shapez-io",
+    "name": "shapez io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/shapez-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "shell-shockers",
+    "name": "shell shockers",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/shell-shockers.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skribbl-io",
+    "name": "skribbl io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/skribbl-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope",
+    "name": "slope",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/slope.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "space-is-key",
+    "name": "space is key",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/space-is-key.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "splix-io",
+    "name": "splix io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/splix-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "squad-royale",
+    "name": "squad royale",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/squad-royale.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "starve-io",
+    "name": "starve io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/starve-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "surviv-io",
+    "name": "surviv io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/surviv-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "takepoint-io",
+    "name": "takepoint io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/takepoint-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "trapz-io",
+    "name": "trapz io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/trapz-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "t-rex-game",
+    "name": "t rex game",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/t-rex-game.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "unblock-me",
+    "name": "unblock me",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/unblock-me.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "warbrokers-io",
+    "name": "warbrokers io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/warbrokers-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "warscrap-io",
+    "name": "warscrap io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/warscrap-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "witz-io",
+    "name": "witz io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/witz-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "worlds-hardest-game",
+    "name": "worlds hardest game",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/worlds-hardest-game.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wormate-io",
+    "name": "wormate io",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/wormate-io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "zombs-royale",
+    "name": "zombs royale",
+    "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/zombs-royale.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
+    "loadMode": "url"
+  }
 ]
