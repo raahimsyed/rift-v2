@@ -40,7 +40,12 @@ async function registerSW() {
   }
 
   // Keep SW scoped to /browser/ so it doesn't mess with the rest of Rift.
-  await navigator.serviceWorker.register("./sw.js", { scope: "./" });
+  const registration = await navigator.serviceWorker.register("./sw.js", {
+    scope: "./",
+    updateViaCache: "none"
+  });
+  await registration.update();
+  return registration;
 }
 
 let scramjet = null;
