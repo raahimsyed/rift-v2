@@ -29,31 +29,30 @@ body::before,
 body::after {
   content: "";
   position: fixed;
-  inset: -18%;
+  inset: -10%;
   pointer-events: none;
   z-index: -1;
-  mix-blend-mode: screen;
+  will-change: transform, opacity;
+  transform: translateZ(0);
 }
 
 body::before {
   background:
-    radial-gradient(40vw 34vh at 18% 28%, rgba(255, 255, 255, 0.17) 0%, rgba(214, 214, 214, 0.12) 24%, rgba(88, 88, 88, 0.05) 48%, transparent 72%),
-    radial-gradient(34vw 32vh at 78% 62%, rgba(246, 246, 246, 0.13) 0%, rgba(176, 176, 176, 0.09) 26%, rgba(68, 68, 68, 0.04) 50%, transparent 74%),
-    radial-gradient(46vw 40vh at 52% 84%, rgba(132, 132, 132, 0.08) 0%, transparent 72%);
-  filter: blur(84px);
-  opacity: 0.88;
+    radial-gradient(34vw 30vh at 18% 28%, rgba(255, 255, 255, 0.11) 0%, rgba(214, 214, 214, 0.08) 24%, rgba(88, 88, 88, 0.03) 52%, transparent 76%),
+    radial-gradient(28vw 27vh at 78% 62%, rgba(246, 246, 246, 0.08) 0%, rgba(176, 176, 176, 0.06) 28%, rgba(68, 68, 68, 0.025) 54%, transparent 76%),
+    radial-gradient(42vw 36vh at 52% 84%, rgba(132, 132, 132, 0.05) 0%, transparent 74%);
+  opacity: 0.72;
   transform-origin: 50% 50%;
-  animation: riftAmbientDrift 18s ease-in-out infinite alternate;
+  animation: riftAmbientDrift 28s ease-in-out infinite alternate;
 }
 
 body::after {
-  inset: -24%;
+  inset: -14%;
   background:
-    radial-gradient(30vw 28vh at 62% 24%, rgba(255, 255, 255, 0.10) 0%, rgba(162, 162, 162, 0.08) 30%, transparent 72%),
-    radial-gradient(28vw 26vh at 28% 76%, rgba(210, 210, 210, 0.09) 0%, rgba(116, 116, 116, 0.06) 30%, transparent 70%);
-  filter: blur(118px);
-  opacity: 0.6;
-  animation: riftAmbientPulse 24s ease-in-out infinite;
+    radial-gradient(26vw 24vh at 62% 24%, rgba(255, 255, 255, 0.07) 0%, rgba(162, 162, 162, 0.05) 32%, transparent 74%),
+    radial-gradient(24vw 22vh at 28% 76%, rgba(210, 210, 210, 0.06) 0%, rgba(116, 116, 116, 0.045) 32%, transparent 72%);
+  opacity: 0.44;
+  animation: riftAmbientPulse 36s ease-in-out infinite;
 }
 
 @keyframes riftAmbientDrift {
