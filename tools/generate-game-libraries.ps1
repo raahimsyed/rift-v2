@@ -398,8 +398,11 @@ $libraries = @(
     Owner = "gn-math"
     Repo = "assets"
     Ref = "main"
-    Mode = "TopLevelIndex"
-    Pattern = '^[^/]+/index\.html$'
+    Mode = "Mixed"
+    Patterns = @(
+      '^[^/]+/index\.html$',
+      '^[^/]+/[^/]+\.(html|htm)$'
+    )
     LoadMode = "url"
   },
   @{

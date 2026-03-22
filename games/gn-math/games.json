@@ -98,6 +98,13 @@
         "loadMode":  "url"
     },
     {
+        "slug":  "203-dos",
+        "name":  "dos",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/203/dos.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/203/",
+        "loadMode":  "url"
+    },
+    {
         "slug":  "255",
         "name":  "255",
         "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/255/index.html",
@@ -123,6 +130,13 @@
         "name":  "260",
         "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/260/index.html",
         "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/260/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "286-endoparasitic",
+        "name":  "endoparasitic",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/286/endoparasitic.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/286/",
         "loadMode":  "url"
     },
     {
@@ -228,6 +242,13 @@
         "name":  "347",
         "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/347/index.html",
         "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/347/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "351-runner",
+        "name":  "runner",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/351/runner.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/351/",
         "loadMode":  "url"
     },
     {
