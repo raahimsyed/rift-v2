@@ -313,6 +313,11 @@ body::after {
   text-align: center;
 }
 
+.empty[hidden],
+.grid[hidden] {
+  display: none !important;
+}
+
 .empty-hint {
   display: block;
   margin-top: 8px;
@@ -322,7 +327,7 @@ body::after {
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
+  gap: 14px;
 }
 
 .game-card {
@@ -330,19 +335,18 @@ body::after {
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.04);
-  padding: 14px 14px 12px;
+  padding: 12px;
   cursor: pointer;
   color: rgba(255, 255, 255, 0.92);
   font-family: inherit;
   display: grid;
-  grid-template-columns: 38px 1fr;
   gap: 12px;
-  align-items: center;
   box-shadow:
     0 18px 34px rgba(0, 0, 0, 0.45),
     inset 0 1px 0 rgba(255, 255, 255, 0.05);
   transition: transform 140ms ease, background 140ms ease, border-color 140ms ease, box-shadow 140ms ease;
   text-align: left;
+  overflow: hidden;
 }
 
 .game-card:hover {
@@ -355,21 +359,66 @@ body::after {
     inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
+.game-thumb-wrap {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.10), rgba(255, 255, 255, 0.03)),
+    radial-gradient(120% 120% at 18% 12%, rgba(216, 160, 111, 0.32) 0%, rgba(216, 160, 111, 0) 54%),
+    radial-gradient(100% 100% at 84% 90%, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0) 58%),
+    #121212;
+}
+
+.game-thumb-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.22) 100%);
+  pointer-events: none;
+}
+
+.game-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  background: #141414;
+}
+
 .game-ico {
-  width: 38px;
-  height: 38px;
+  width: 40px;
+  height: 40px;
   border-radius: 14px;
   display: grid;
   place-items: center;
   border: 1px solid rgba(255, 255, 255, 0.14);
-  background: rgba(0, 0, 0, 0.28);
+  background: rgba(0, 0, 0, 0.44);
   color: rgba(255, 255, 255, 0.88);
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  z-index: 1;
+  backdrop-filter: blur(10px);
+}
+
+.game-thumb-wrap.is-fallback .game-thumb {
+  opacity: 0;
+}
+
+.game-copy {
+  display: grid;
+  gap: 2px;
 }
 
 .game-name {
   text-transform: lowercase;
   letter-spacing: 0.02em;
   font-weight: 400;
+  line-height: 1.15;
 }
 
 .game-meta {

@@ -22,6 +22,11 @@ const escapeHtml = (s) =>
     .replaceAll("'", "&#39;");
 
 const normalize = (s) => String(s || "").trim().toLowerCase();
+const buildThumbnailUrl = (sourceUrl) => {
+  const url = String(sourceUrl || "").trim();
+  if (!url) return "";
+  return `https://image.thum.io/get/width/1200/crop/720/noanimate/${url}`;
+};
 
 const fetchJson = async (url) => {
   const res = await fetch(url, { credentials: "same-origin", cache: "no-cache" });
@@ -52,10 +57,14 @@ const render = (games, query) => {
   els.grid.innerHTML = filtered.map((game) => {
     const name = escapeHtml(game.name);
     const slug = escapeHtml(game.slug);
+    const thumb = escapeHtml(buildThumbnailUrl(game.sourceUrl));
     return `
       <button class="game-card" type="button" data-open-local="./${slug}.html">
-        <span class="game-ico" aria-hidden="true"><i class="fa-solid fa-gamepad"></i></span>
-        <span>
+        <span class="game-thumb-wrap">
+          <img class="game-thumb" src="${thumb}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          <span class="game-ico" aria-hidden="true"><i class="fa-solid fa-gamepad"></i></span>
+        </span>
+        <span class="game-copy">
           <span class="game-name">${name}</span>
           <span class="game-meta">${escapeHtml(libraryMeta)}</span>
         </span>
@@ -96,6 +105,12 @@ const main = async () => {
     const href = button.getAttribute("data-open-local");
     if (href) window.location.href = href;
   });
+
+  document.addEventListener("error", (e) => {
+    const img = e.target;
+    if (!(img instanceof HTMLImageElement) || !img.classList.contains("game-thumb")) return;
+    img.closest(".game-thumb-wrap")?.classList.add("is-fallback");
+  }, true);
 };
 
 main();
