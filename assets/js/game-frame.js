@@ -1,5 +1,5 @@
 const backButton = document.getElementById("backToLibrary");
-const openButton = document.getElementById("openHostedGame");
+const fpsCounter = document.getElementById("fpsCounter");
 const titleEl = document.getElementById("gameTitle");
 const subEl = document.getElementById("gameSub");
 const frameEl = document.getElementById("gameFrame");
@@ -21,14 +21,30 @@ if (titleEl) titleEl.textContent = name.toLowerCase();
 if (subEl) subEl.textContent = slug ? `selenite / ${slug}` : "selenite";
 if (frameEl && sourceUrl) frameEl.src = sourceUrl;
 
+let frames = 0;
+let sampleStart = performance.now();
+
+const updateFps = (fps) => {
+  if (!fpsCounter) return;
+  fpsCounter.textContent = `${fps} fps`;
+};
+
+const tick = (now) => {
+  frames += 1;
+  if (now - sampleStart >= 3000) {
+    const fps = Math.max(1, Math.round((frames * 1000) / (now - sampleStart)));
+    updateFps(fps);
+    frames = 0;
+    sampleStart = now;
+  }
+  requestAnimationFrame(tick);
+};
+
+updateFps("--");
+requestAnimationFrame(tick);
+
 if (backButton) {
   backButton.addEventListener("click", () => {
     window.location.href = libraryUrl;
-  });
-}
-
-if (openButton) {
-  openButton.addEventListener("click", () => {
-    if (sourceUrl) window.open(sourceUrl, "_blank", "noopener,noreferrer");
   });
 }

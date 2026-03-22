@@ -98,6 +98,18 @@ body {
   font-size: 0.92rem;
 }
 
+.fps-pill {
+  cursor: default;
+  min-width: 96px;
+  justify-content: center;
+}
+
+.fps-pill:hover {
+  transform: none;
+  background: rgba(0, 0, 0, 0.35);
+  border-color: var(--stroke);
+}
+
 .icon-btn {
   width: 42px;
   height: 42px;
