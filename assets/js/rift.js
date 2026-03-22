@@ -28,6 +28,7 @@ const isFile = location.protocol === "file:";
 const urlForFeature = (key) => {
   if (!key) return null;
   if (key === "games") return isFile ? "../games/index.html" : "/games/";
+  if (key === "browser") return isFile ? "../browser/index.html" : "/browser/";
   return null;
 };
 

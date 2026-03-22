@@ -323,6 +323,7 @@ const navCurtain = document.getElementById("navCurtain");
 const prefersReduceNav = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const riftUrl = (location.protocol === "file:") ? "./rift/index.html" : "/rift/";
 const gamesUrl = (location.protocol === "file:") ? "./games/index.html" : "/games/";
+const browserUrl = (location.protocol === "file:") ? "./browser/index.html" : "/browser/";
 let navInFlight = false;
 
 const swapToRiftDocument = async () => {
@@ -384,6 +385,11 @@ const routeKeyword = (raw) => {
     return true;
   }
 
+  if (value === "browser" || value === "web" || value === "search") {
+    animateThenNavigate(browserUrl);
+    return true;
+  }
+
   if (value === "rift" || value === "enter" || value === "enter the rift") {
     enterRift();
     return true;
@@ -405,6 +411,8 @@ document.addEventListener("click", (e) => {
   const label = (navBtn.getAttribute("aria-label") || "").trim().toLowerCase();
   if (label === "games") {
     animateThenNavigate(gamesUrl);
+  } else if (label === "browser") {
+    animateThenNavigate(browserUrl);
   }
 });
 

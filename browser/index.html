@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rift v2 / browser</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/fonts.css">
+  <link rel="stylesheet" href="../assets/css/browser.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-left">rift /browser</div>
+
+    <form class="urlbar" id="urlForm" autocomplete="off">
+      <button class="url-btn" id="navBack" type="button" aria-label="Back">
+        <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+      </button>
+      <button class="url-btn" id="navForward" type="button" aria-label="Forward">
+        <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+      </button>
+      <button class="url-btn" id="navReload" type="button" aria-label="Reload">
+        <i class="fa-solid fa-rotate-right" aria-hidden="true"></i>
+      </button>
+
+      <div class="url-input-wrap" role="search">
+        <i class="fa-solid fa-globe url-ico" aria-hidden="true"></i>
+        <input id="urlInput" class="url-input" type="text" placeholder="Search or enter URL" spellcheck="false" aria-label="URL bar">
+      </div>
+
+      <button class="go-btn" type="submit" aria-label="Go">
+        <i class="fa-solid fa-arrow-turn-down" aria-hidden="true"></i>
+      </button>
+    </form>
+
+    <div class="topbar-right">
+      <button class="icon-btn" id="backToRift" type="button" aria-label="Back to rift">
+        <i class="fa-solid fa-door-open" aria-hidden="true"></i>
+      </button>
+    </div>
+  </header>
+
+  <main class="stage">
+    <div class="hint" id="browserHint">
+      <div class="hint-title">browser</div>
+      <div class="hint-body">
+        this uses your scramjet + baremux + wisp stack.
+        <span class="hint-sub">if you’re not on https (or localhost), service worker registration will fail.</span>
+      </div>
+    </div>
+    <div class="frame-wrap" id="frameWrap" aria-label="Browser frame"></div>
+  </main>
+
+  <script src="../scram/scramjet.all.js"></script>
+  <script src="../baremux/index.js"></script>
+  <script defer src="../assets/js/browser.js"></script>
+</body>
+</html>
+
