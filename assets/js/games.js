@@ -78,15 +78,27 @@ const renderFNFMods = (mods, q) => {
   if (!els.gamesGrid || !els.gamesEmpty) return;
   const query = normalize(q);
 
+  if (!query) {
+    els.gamesGrid.hidden = true;
+    els.gamesEmpty.hidden = false;
+    els.gamesEmpty.innerHTML = `
+      please choose a library to play
+      <span class="empty-hint">search still works if you want a specific fnf mod.</span>
+    `;
+    return;
+  }
+
   const filtered = (mods || []).filter((m) => {
-    if (!query) return true;
     return normalize(m.name).includes(query) || normalize(m.file).includes(query);
   });
 
   if (!filtered.length) {
     els.gamesGrid.hidden = true;
     els.gamesEmpty.hidden = false;
-    els.gamesEmpty.textContent = "no matches.";
+    els.gamesEmpty.innerHTML = `
+      no matches.
+      <span class="empty-hint">choose a library on the left or search for a mod file.</span>
+    `;
     return;
   }
 

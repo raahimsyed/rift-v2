@@ -554,6 +554,12 @@ $libraries = @(
     Mode = "RootAndTopLevelIndex"
     RootPattern = '^[^/]+\.(html|htm)$'
     IndexPattern = '^[^/]+/index\.(html|htm)$'
+    TrimPrefix = "Games/"
+    ExtraPaths = @(
+      'Games/1v1lol-main/index.html',
+      'Games/cubeshot-io-main/index.html',
+      'Games/drive-mad-main/index.html'
+    )
     ExcludePatterns = @(
       '(^|/)404\.(html|htm)$',
       '^admin\.(html|htm)$',

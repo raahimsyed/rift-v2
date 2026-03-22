@@ -234,6 +234,11 @@ body::after {
   padding: 14px;
 }
 
+.collection {
+  min-height: 520px;
+  align-content: start;
+}
+
 .source-list {
   display: grid;
   gap: 10px;
@@ -296,10 +301,16 @@ body::after {
 .empty {
   border: 1px dashed rgba(255, 255, 255, 0.18);
   border-radius: 18px;
-  padding: 18px 16px;
+  padding: 22px 18px;
   color: rgba(255, 255, 255, 0.80);
   text-transform: lowercase;
   letter-spacing: 0.02em;
+  background: rgba(255, 255, 255, 0.018);
+  backdrop-filter: blur(8px);
+  min-height: 220px;
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
 .empty-hint {

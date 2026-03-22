@@ -1,2214 +1,2235 @@
-﻿[
-    {
-        "slug":  "10min",
-        "name":  "10min",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/10min.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "1v1",
-        "name":  "1v1",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "1v1.lol",
-        "name":  "1v1.lol",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.lol/index.htm",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.lol/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "2048",
-        "name":  "2048",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/2048.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "99nights",
-        "name":  "99nights",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/99nights.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "a",
-        "name":  "a",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/a.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "adscript",
-        "name":  "adscript",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/adscript.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ai",
-        "name":  "ai",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ai2",
-        "name":  "ai2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "amanda",
-        "name":  "amanda",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/amanda.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "andr",
-        "name":  "andr",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/andr.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "apposs",
-        "name":  "apposs",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/apposs.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "axe",
-        "name":  "axe",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/axe.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "b",
-        "name":  "b",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/b.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "backrooms",
-        "name":  "backrooms",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/backrooms.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bacon",
-        "name":  "bacon",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bacon.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badparenting",
-        "name":  "badparenting",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/badparenting.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baldi",
-        "name":  "baldi",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/baldi.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "balditrip",
-        "name":  "balditrip",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/balditrip.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ban",
-        "name":  "ban",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ban.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "barry",
-        "name":  "barry",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/barry.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baseball",
-        "name":  "baseball",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/baseball.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basket",
-        "name":  "basket",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basket.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketbros",
-        "name":  "basketbros",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basketbros.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketrandom",
-        "name":  "basketrandom",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basketrandom.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bendy",
-        "name":  "bendy",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bendy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bitlife",
-        "name":  "bitlife",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bitlifeservice",
-        "name":  "bitlifeService",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlifeService.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bitplane",
-        "name":  "bitplane",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitplane.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blckhax99",
-        "name":  "blckhax99",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blckhax99.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blckterm",
-        "name":  "blckterm",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blckterm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blcktut",
-        "name":  "blcktut",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blcktut.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blight",
-        "name":  "blight",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blight.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blk",
-        "name":  "blk",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blk.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "block",
-        "name":  "block",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/block.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bowl",
-        "name":  "bowl",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bowl.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "box",
-        "name":  "box",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/box.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "brainrot",
-        "name":  "brainrot",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/brainrot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "browser",
-        "name":  "browser",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/browser.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "buckshot",
-        "name":  "buckshot",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/buckshot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "buildnow",
-        "name":  "buildnow",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/buildnow.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bullet",
-        "name":  "bullet",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bullet.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "burgeria",
-        "name":  "burgeria",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/burgeria.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "calc",
-        "name":  "calc",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/calc.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "capybara",
-        "name":  "capybara",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/capybara.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "celeste",
-        "name":  "celeste",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/celeste.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "chat",
-        "name":  "chat",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/chat.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "chat3",
-        "name":  "chat3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/chat3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "chat4",
-        "name":  "chat4",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/chat4.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "choose",
-        "name":  "choose",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/choose.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cine",
-        "name":  "cine",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cine.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "clash",
-        "name":  "clash",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/clash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "class",
-        "name":  "class",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/class.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "code",
-        "name":  "code",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/code.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cookie",
-        "name":  "cookie",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cookie.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "core",
-        "name":  "core",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/core.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crazycars",
-        "name":  "crazycars",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycars.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crazycattle",
-        "name":  "crazycattle",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycattle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crazycattle3d",
-        "name":  "crazycattle3d",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycattle3d/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycattle3d/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crazykitty",
-        "name":  "crazykitty",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazykitty.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crossy",
-        "name":  "crossy",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crossy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cubeshot",
-        "name":  "cubeshot",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cubeshot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cuphead",
-        "name":  "cuphead",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cuphead.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "d",
-        "name":  "d",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/d.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "deathrun",
-        "name":  "deathrun",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/deathrun.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dino",
-        "name":  "dino",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dino.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dinogame",
-        "name":  "dinogame",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dinogame/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dinogame/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "discord",
-        "name":  "discord",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/discord.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "div",
-        "name":  "div",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/div.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dmad",
-        "name":  "dmad",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dmad.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doodle",
-        "name":  "doodle",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/doodle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doom",
-        "name":  "doom",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/doom.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "draw",
-        "name":  "draw",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/draw.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drawjoust",
-        "name":  "drawjoust",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/drawjoust.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "driftboss",
-        "name":  "driftboss",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/driftboss.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "duck",
-        "name":  "duck",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/duck.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "duel",
-        "name":  "duel",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/duel.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "elastic",
-        "name":  "elastic",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/elastic.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "emulatorjs",
-        "name":  "emulatorjs",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "emulatorjs-2",
-        "name":  "emulatorjs",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "encrypted",
-        "name":  "encrypted",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/encrypted.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "escape2",
-        "name":  "escape2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/escape2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fifa10",
-        "name":  "fifa10",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fifa10.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fifa11",
-        "name":  "fifa11",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fifa11.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "flip",
-        "name":  "flip",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/flip.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf",
-        "name":  "fnaf",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fnaf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf2",
-        "name":  "fnaf2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fnaf2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "football",
-        "name":  "football",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/football.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fortzone",
-        "name":  "fortzone",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fortzone.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "friday",
-        "name":  "friday",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/friday.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "funnyshooter",
-        "name":  "funnyshooter",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/funnyshooter.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "g",
-        "name":  "g",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "g2",
-        "name":  "g2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "g3",
-        "name":  "g3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "g4",
-        "name":  "g4",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g4.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "g5",
-        "name":  "g5",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g5.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "g6",
-        "name":  "g6",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g6.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "game",
-        "name":  "game",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/game.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gameos4",
-        "name":  "gameos4",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gameos4.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "games",
-        "name":  "games",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/games.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gamesos",
-        "name":  "gamesos",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gamesos.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gamesos2",
-        "name":  "gamesos2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gamesos2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gamesos3",
-        "name":  "gamesos3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gamesos3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "garden",
-        "name":  "garden",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/garden.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "generator",
-        "name":  "generator",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/generator.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "geodash",
-        "name":  "geodash",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/geodash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "geom",
-        "name":  "geom",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/geom.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "getawayshoot",
-        "name":  "getawayshoot",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/getawayshoot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gladihopper",
-        "name":  "gladihopper",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gladihopper.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gnmath",
-        "name":  "gnmath",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gnmath.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gnmath2",
-        "name":  "gnmath2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gnmath2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "goball",
-        "name":  "goball",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/goball.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "golf",
-        "name":  "golf",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/golf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "google",
-        "name":  "google",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/google.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "grandvegas",
-        "name":  "grandvegas",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/grandvegas.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "granny",
-        "name":  "granny",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/granny.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "granny2",
-        "name":  "granny2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/granny2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogj",
-        "name":  "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogj",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogj.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogjj",
-        "name":  "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogjj",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogjj.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gta5",
-        "name":  "gta5",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gta5.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gtag",
-        "name":  "gtag",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gtag.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gtavc",
-        "name":  "gtavc",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gtavc.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gunspin",
-        "name":  "gunspin",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gunspin.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "halflife",
-        "name":  "halflife",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/halflife.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hallow",
-        "name":  "hallow",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hallow.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hallowknite",
-        "name":  "hallowknite",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hallowknite.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hard",
-        "name":  "hard",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hard.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "helix",
-        "name":  "helix",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/helix.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hohazards",
-        "name":  "hohazards",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hohazards.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "holeio",
-        "name":  "holeio",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/holeio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hunter",
-        "name":  "hunter",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hunter.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ic",
-        "name":  "ic",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ic.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "icedodo",
-        "name":  "icedodo",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/icedodo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "idk",
-        "name":  "idk",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/idk.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "index",
-        "name":  "index",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "intro",
-        "name":  "intro",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/intro.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "islamabadneo",
-        "name":  "islamabadneo",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/islamabadneo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "java",
-        "name":  "java",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/java.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jellydrift",
-        "name":  "jellydrift",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/jellydrift.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jellytruck",
-        "name":  "jellytruck",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/jellytruck.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jet",
-        "name":  "jet",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/jet.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "johnny",
-        "name":  "johnny",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/johnny.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "just",
-        "name":  "just",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/just.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "justfalllol",
-        "name":  "justfalllol",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/justfalllol/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/justfalllol/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "k1",
-        "name":  "k1",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/k1.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "k2",
-        "name":  "k2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/k2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "k3",
-        "name":  "k3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/k3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "karlson",
-        "name":  "karlson",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/karlson.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "kartz",
-        "name":  "kartz",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/kartz.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "kings",
-        "name":  "kings",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/kings.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "knife",
-        "name":  "knife",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/knife.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "l2f",
-        "name":  "l2f",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/l2f.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "leaderboard",
-        "name":  "leaderboard",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/leaderboard.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "leveld",
-        "name":  "leveld",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/leveld.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "lit",
-        "name":  "lit",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/lit.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "load",
-        "name":  "load",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/load.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "manic",
-        "name":  "manic",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/manic.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mario64",
-        "name":  "mario64",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/mario64.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "melon",
-        "name":  "melon",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/melon.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "miami",
-        "name":  "miami",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/miami.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "minecraft",
-        "name":  "minecraft",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/minecraft.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mod",
-        "name":  "mod",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/mod.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "moneyroll",
-        "name":  "moneyroll",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/moneyroll.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "monstertrucks",
-        "name":  "monstertrucks",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/monstertrucks.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3m",
-        "name":  "motox3m",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/motox3m.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "movie",
-        "name":  "movie",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/movie.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "movie2",
-        "name":  "movie2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/movie2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "music",
-        "name":  "music",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/music.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "music2",
-        "name":  "music2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/music2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "music3",
-        "name":  "music3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/music3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "news",
-        "name":  "news",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/news.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ninjanf",
-        "name":  "ninjaNF",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ninjaNF.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "nos",
-        "name":  "nos",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/nos.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "notneighbor",
-        "name":  "notneighbor",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/notneighbor.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "onlyup",
-        "name":  "onlyup",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/onlyup.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "osu",
-        "name":  "osu",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/osu.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo",
-        "name":  "ovo",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ovo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pacman",
-        "name":  "pacman",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pacman.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papacheese",
-        "name":  "papacheese",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/papacheese.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papapiza",
-        "name":  "papapiza",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/papapiza.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "paper2",
-        "name":  "paper2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/paper2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "people",
-        "name":  "people",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/people.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pixel",
-        "name":  "pixel",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pixel.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "plantvszomb",
-        "name":  "plantvszomb",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/plantvszomb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon",
-        "name":  "pokemon",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pokemon.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemonem",
-        "name":  "pokemonem",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pokemonem.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "polytrack",
-        "name":  "polytrack",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/polytrack.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pou",
-        "name":  "pou",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pou.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "premium",
-        "name":  "premium",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/premium.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "president",
-        "name":  "president",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/president.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ptest",
-        "name":  "ptest",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ptest.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "r",
-        "name":  "r",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/r.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ragdollarch",
-        "name":  "ragdollarch",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ragdollarch.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ragdollhit",
-        "name":  "ragdollhit",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ragdollhit.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rfjrihrfhrhf",
-        "name":  "rfjrihrfhrhf",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rfjrihrfhrhf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddle",
-        "name":  "riddle",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/riddle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddle2",
-        "name":  "riddle2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/riddle2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddle3",
-        "name":  "riddle3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/riddle3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rob",
-        "name":  "rob",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rob.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "robber",
-        "name":  "robber",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/robber.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rockets",
-        "name":  "rockets",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rockets.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rocketsoccer",
-        "name":  "rocketsoccer",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rocketsoccer.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rooftop2",
-        "name":  "rooftop2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rooftop2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ruffle",
-        "name":  "ruffle",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ruffle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run",
-        "name":  "run",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/run.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run2",
-        "name":  "run2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/run2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run3",
-        "name":  "run3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/run3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sausage",
-        "name":  "sausage",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sausage.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "scaryteach",
-        "name":  "scaryteach",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/scaryteach.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "search",
-        "name":  "search",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/search/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/search/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "secret",
-        "name":  "secret",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/secret.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sender",
-        "name":  "sender",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sender.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "settings",
-        "name":  "settings",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/settings.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "settings7",
-        "name":  "settings7",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/settings7.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "shell",
-        "name":  "shell",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/shell.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "shortlife",
-        "name":  "shortlife",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/shortlife.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "shortride",
-        "name":  "shortride",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/shortride.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "silk",
-        "name":  "silk",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/silk.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "skyriders",
-        "name":  "skyriders",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/skyriders.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope",
-        "name":  "slope",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slope.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope2",
-        "name":  "slope2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slope2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slowroad",
-        "name":  "slowroad",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slowroad.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snakeio",
-        "name":  "snakeio",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/snakeio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sniper",
-        "name":  "sniper",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sniper.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snowball",
-        "name":  "snowball",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/snowball.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snowrider",
-        "name":  "snowrider",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/snowrider.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "soccer",
-        "name":  "soccer",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccer.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "soccerbros",
-        "name":  "soccerbros",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccerbros.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "soccer-random",
-        "name":  "soccer random",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccer-random.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "solarsmash",
-        "name":  "solarsmash",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/solarsmash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic3",
-        "name":  "sonic3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sonic3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sorry",
-        "name":  "sorry",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sorry.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "spacewaves",
-        "name":  "spacewaves",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/spacewaves.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "speedstars",
-        "name":  "speedstars",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/speedstars.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "spookymoto",
-        "name":  "spookymoto",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/spookymoto.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stack",
-        "name":  "stack",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stack.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stack-2",
-        "name":  "stack",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stack/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stack/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stair",
-        "name":  "stair",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stair.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "start",
-        "name":  "start",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/start.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "startl",
-        "name":  "startl",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/startl.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "station",
-        "name":  "station",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/station.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stick",
-        "name":  "stick",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stick.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stick2",
-        "name":  "stick2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stick2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickhook",
-        "name":  "stickhook",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stickhook.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stumble",
-        "name":  "stumble",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stumble.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "subway",
-        "name":  "subway",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/subway.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "subwayhw",
-        "name":  "subwayHW",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/subwayHW.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "superhot",
-        "name":  "superhot",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/superhot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "supersf",
-        "name":  "supersf",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/supersf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "synctest",
-        "name":  "synctest",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/synctest.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "t",
-        "name":  "t",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "t9",
-        "name":  "t9",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t9.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "t9os",
-        "name":  "t9os",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t9os.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "t9tv",
-        "name":  "t9tv",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t9tv.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tanuki",
-        "name":  "tanuki",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tanuki.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tapgoal",
-        "name":  "tapgoal",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tapgoal.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "temple",
-        "name":  "temple",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/temple.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "terminal",
-        "name":  "terminal",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terminal.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "terms",
-        "name":  "terms",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terms.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "terraria",
-        "name":  "terraria",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terraria.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "territorial",
-        "name":  "territorial",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/territorial.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test",
-        "name":  "test",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test100",
-        "name":  "test100",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test100.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test2",
-        "name":  "test2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test200",
-        "name":  "test200",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test200.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test22",
-        "name":  "test22",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test22.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test3",
-        "name":  "test3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test300",
-        "name":  "test300",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test300.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test33",
-        "name":  "test33",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test33.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test4",
-        "name":  "test4",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test4.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test5",
-        "name":  "test5",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test5.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test6",
-        "name":  "test6",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test6.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test77",
-        "name":  "test77",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test77.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test88",
-        "name":  "test88",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test88.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test99",
-        "name":  "test99",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test99.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test999",
-        "name":  "test999",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test999.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "test99-copy",
-        "name":  "test99 copy",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test99%20copy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "testh",
-        "name":  "testh",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/testh.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "testing",
-        "name":  "testing",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/testing.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "testproxy",
-        "name":  "testproxy",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/testproxy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "teststart",
-        "name":  "teststart",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/teststart.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "teststart2",
-        "name":  "teststart2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/teststart2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tetris",
-        "name":  "tetris",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tetris.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "the1",
-        "name":  "the1",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/the1.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "the2",
-        "name":  "the2",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/the2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thetestbase99",
-        "name":  "thetestbase99",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/thetestbase99.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thrill",
-        "name":  "thrill",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/thrill.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tiktok",
-        "name":  "tiktok",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tiktok.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "time",
-        "name":  "time",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/time.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "timeshooter3",
-        "name":  "timeshooter3",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/timeshooter3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tinyfishing",
-        "name":  "tinyfishing",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tinyfishing.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tombmask",
-        "name":  "tombmask",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tombmask.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "truck",
-        "name":  "truck",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/truck.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tt",
-        "name":  "tt",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tt.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tunnel",
-        "name":  "tunnel",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tunnel.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "uh7gbram",
-        "name":  "uh7gbram",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/uh7gbram.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ultrakill",
-        "name":  "ultrakill",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ultrakill.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "undertale",
-        "name":  "undertale",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/undertale.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "uno",
-        "name":  "uno",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/uno.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "upload",
-        "name":  "upload",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/upload.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "usjframe",
-        "name":  "usjframe",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/usjframe.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "usservice",
-        "name":  "usService",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/usService.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex",
-        "name":  "vex",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/vex.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "volleyball-random",
-        "name":  "volleyball random",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/volleyball-random/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/volleyball-random/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "warn",
-        "name":  "warn",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/warn.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "webretro",
-        "name":  "webretro",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/webretro.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wheelie",
-        "name":  "wheelie",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wheelie.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wheels",
-        "name":  "wheels",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wheels.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "window",
-        "name":  "window",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/window.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "windows11",
-        "name":  "windows11",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/windows11.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "windows11-2",
-        "name":  "windows11",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/windows11/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/windows11/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wordle",
-        "name":  "wordle",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wordle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "worldbox",
-        "name":  "worldbox",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/worldbox.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "worldcup",
-        "name":  "worldcup",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/worldcup.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "xploits",
-        "name":  "xploits",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/xploits/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/xploits/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "yt",
-        "name":  "yt",
-        "sourceUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/yt.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-        "loadMode":  "url"
-    }
+[
+  {
+    "slug": "10min",
+    "name": "10min",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/10min.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "1v1",
+    "name": "1v1",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "1v1.lol",
+    "name": "1v1.lol",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.lol/index.htm",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/1v1.lol/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "1v1lol-main",
+    "name": "1v1lol main",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/Games/1v1lol-main/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/Games/1v1lol-main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "2048",
+    "name": "2048",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/2048.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "99nights",
+    "name": "99nights",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/99nights.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "a",
+    "name": "a",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/a.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "adscript",
+    "name": "adscript",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/adscript.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ai",
+    "name": "ai",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ai2",
+    "name": "ai2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ai2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "amanda",
+    "name": "amanda",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/amanda.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "andr",
+    "name": "andr",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/andr.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "apposs",
+    "name": "apposs",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/apposs.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "axe",
+    "name": "axe",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/axe.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "b",
+    "name": "b",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/b.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "backrooms",
+    "name": "backrooms",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/backrooms.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bacon",
+    "name": "bacon",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bacon.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badparenting",
+    "name": "badparenting",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/badparenting.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baldi",
+    "name": "baldi",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/baldi.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "balditrip",
+    "name": "balditrip",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/balditrip.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ban",
+    "name": "ban",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ban.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "barry",
+    "name": "barry",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/barry.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baseball",
+    "name": "baseball",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/baseball.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basket",
+    "name": "basket",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basket.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketbros",
+    "name": "basketbros",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basketbros.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketrandom",
+    "name": "basketrandom",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basketrandom.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bendy",
+    "name": "bendy",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bendy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bitlife",
+    "name": "bitlife",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bitlifeservice",
+    "name": "bitlifeService",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlifeService.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bitplane",
+    "name": "bitplane",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitplane.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blckhax99",
+    "name": "blckhax99",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blckhax99.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blckterm",
+    "name": "blckterm",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blckterm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blcktut",
+    "name": "blcktut",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blcktut.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blight",
+    "name": "blight",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blight.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blk",
+    "name": "blk",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/blk.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "block",
+    "name": "block",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/block.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bowl",
+    "name": "bowl",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bowl.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "box",
+    "name": "box",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/box.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "brainrot",
+    "name": "brainrot",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/brainrot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "browser",
+    "name": "browser",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/browser.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "buckshot",
+    "name": "buckshot",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/buckshot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "buildnow",
+    "name": "buildnow",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/buildnow.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bullet",
+    "name": "bullet",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bullet.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "burgeria",
+    "name": "burgeria",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/burgeria.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "calc",
+    "name": "calc",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/calc.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "capybara",
+    "name": "capybara",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/capybara.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "celeste",
+    "name": "celeste",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/celeste.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "chat",
+    "name": "chat",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/chat.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "chat3",
+    "name": "chat3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/chat3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "chat4",
+    "name": "chat4",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/chat4.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "choose",
+    "name": "choose",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/choose.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cine",
+    "name": "cine",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cine.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "clash",
+    "name": "clash",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/clash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "class",
+    "name": "class",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/class.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "code",
+    "name": "code",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/code.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cookie",
+    "name": "cookie",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cookie.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "core",
+    "name": "core",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/core.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crazycars",
+    "name": "crazycars",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycars.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crazycattle",
+    "name": "crazycattle",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycattle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crazycattle3d",
+    "name": "crazycattle3d",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycattle3d/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazycattle3d/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crazykitty",
+    "name": "crazykitty",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crazykitty.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crossy",
+    "name": "crossy",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crossy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cubeshot",
+    "name": "cubeshot",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cubeshot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cubeshot-io-main",
+    "name": "cubeshot io main",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/Games/cubeshot-io-main/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/Games/cubeshot-io-main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cuphead",
+    "name": "cuphead",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/cuphead.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "d",
+    "name": "d",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/d.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deathrun",
+    "name": "deathrun",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/deathrun.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dino",
+    "name": "dino",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dino.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dinogame",
+    "name": "dinogame",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dinogame/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dinogame/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "discord",
+    "name": "discord",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/discord.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "div",
+    "name": "div",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/div.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dmad",
+    "name": "dmad",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/dmad.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doodle",
+    "name": "doodle",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/doodle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doom",
+    "name": "doom",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/doom.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "draw",
+    "name": "draw",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/draw.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drawjoust",
+    "name": "drawjoust",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/drawjoust.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "driftboss",
+    "name": "driftboss",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/driftboss.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drive-mad-main",
+    "name": "drive mad main",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/Games/drive-mad-main/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/Games/drive-mad-main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "duck",
+    "name": "duck",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/duck.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "duel",
+    "name": "duel",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/duel.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "elastic",
+    "name": "elastic",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/elastic.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "emulatorjs",
+    "name": "emulatorjs",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "emulatorjs-2",
+    "name": "emulatorjs",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "encrypted",
+    "name": "encrypted",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/encrypted.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "escape2",
+    "name": "escape2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/escape2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fifa10",
+    "name": "fifa10",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fifa10.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fifa11",
+    "name": "fifa11",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fifa11.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "flip",
+    "name": "flip",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/flip.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf",
+    "name": "fnaf",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fnaf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf2",
+    "name": "fnaf2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fnaf2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "football",
+    "name": "football",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/football.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fortzone",
+    "name": "fortzone",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fortzone.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "friday",
+    "name": "friday",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/friday.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "funnyshooter",
+    "name": "funnyshooter",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/funnyshooter.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "g",
+    "name": "g",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "g2",
+    "name": "g2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "g3",
+    "name": "g3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "g4",
+    "name": "g4",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g4.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "g5",
+    "name": "g5",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g5.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "g6",
+    "name": "g6",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/g6.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "game",
+    "name": "game",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/game.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gameos4",
+    "name": "gameos4",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gameos4.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "games",
+    "name": "games",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/games.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gamesos",
+    "name": "gamesos",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gamesos.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gamesos2",
+    "name": "gamesos2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gamesos2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gamesos3",
+    "name": "gamesos3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gamesos3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "garden",
+    "name": "garden",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/garden.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "generator",
+    "name": "generator",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/generator.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "geodash",
+    "name": "geodash",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/geodash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "geom",
+    "name": "geom",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/geom.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "getawayshoot",
+    "name": "getawayshoot",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/getawayshoot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gladihopper",
+    "name": "gladihopper",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gladihopper.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gnmath",
+    "name": "gnmath",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gnmath.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gnmath2",
+    "name": "gnmath2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gnmath2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "goball",
+    "name": "goball",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/goball.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "golf",
+    "name": "golf",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/golf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "google",
+    "name": "google",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/google.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "grandvegas",
+    "name": "grandvegas",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/grandvegas.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "granny",
+    "name": "granny",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/granny.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "granny2",
+    "name": "granny2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/granny2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogj",
+    "name": "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogj",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogj.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogjj",
+    "name": "grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogjj",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/grkrkrigjorjodjgriojgojgojgirdjgodrgjiogkjorgirjgorjgrgrodgjdogjj.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gta5",
+    "name": "gta5",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gta5.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gtag",
+    "name": "gtag",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gtag.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gtavc",
+    "name": "gtavc",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gtavc.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gunspin",
+    "name": "gunspin",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gunspin.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "halflife",
+    "name": "halflife",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/halflife.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hallow",
+    "name": "hallow",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hallow.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hallowknite",
+    "name": "hallowknite",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hallowknite.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hard",
+    "name": "hard",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hard.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "helix",
+    "name": "helix",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/helix.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hohazards",
+    "name": "hohazards",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hohazards.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "holeio",
+    "name": "holeio",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/holeio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hunter",
+    "name": "hunter",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hunter.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ic",
+    "name": "ic",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ic.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "icedodo",
+    "name": "icedodo",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/icedodo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "idk",
+    "name": "idk",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/idk.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "index",
+    "name": "index",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "intro",
+    "name": "intro",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/intro.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "islamabadneo",
+    "name": "islamabadneo",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/islamabadneo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "java",
+    "name": "java",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/java.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jellydrift",
+    "name": "jellydrift",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/jellydrift.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jellytruck",
+    "name": "jellytruck",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/jellytruck.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jet",
+    "name": "jet",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/jet.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "johnny",
+    "name": "johnny",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/johnny.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "just",
+    "name": "just",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/just.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "justfalllol",
+    "name": "justfalllol",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/justfalllol/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/justfalllol/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "k1",
+    "name": "k1",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/k1.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "k2",
+    "name": "k2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/k2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "k3",
+    "name": "k3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/k3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "karlson",
+    "name": "karlson",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/karlson.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "kartz",
+    "name": "kartz",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/kartz.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "kings",
+    "name": "kings",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/kings.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "knife",
+    "name": "knife",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/knife.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "l2f",
+    "name": "l2f",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/l2f.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "leaderboard",
+    "name": "leaderboard",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/leaderboard.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "leveld",
+    "name": "leveld",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/leveld.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "lit",
+    "name": "lit",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/lit.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "load",
+    "name": "load",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/load.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "manic",
+    "name": "manic",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/manic.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mario64",
+    "name": "mario64",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/mario64.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "melon",
+    "name": "melon",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/melon.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "miami",
+    "name": "miami",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/miami.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "minecraft",
+    "name": "minecraft",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/minecraft.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mod",
+    "name": "mod",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/mod.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "moneyroll",
+    "name": "moneyroll",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/moneyroll.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "monstertrucks",
+    "name": "monstertrucks",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/monstertrucks.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3m",
+    "name": "motox3m",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/motox3m.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "movie",
+    "name": "movie",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/movie.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "movie2",
+    "name": "movie2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/movie2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "music",
+    "name": "music",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/music.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "music2",
+    "name": "music2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/music2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "music3",
+    "name": "music3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/music3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "news",
+    "name": "news",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/news.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ninjanf",
+    "name": "ninjaNF",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ninjaNF.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "nos",
+    "name": "nos",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/nos.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "notneighbor",
+    "name": "notneighbor",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/notneighbor.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "onlyup",
+    "name": "onlyup",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/onlyup.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "osu",
+    "name": "osu",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/osu.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo",
+    "name": "ovo",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ovo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pacman",
+    "name": "pacman",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pacman.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papacheese",
+    "name": "papacheese",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/papacheese.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papapiza",
+    "name": "papapiza",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/papapiza.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "paper2",
+    "name": "paper2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/paper2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "people",
+    "name": "people",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/people.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pixel",
+    "name": "pixel",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pixel.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "plantvszomb",
+    "name": "plantvszomb",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/plantvszomb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon",
+    "name": "pokemon",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pokemon.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemonem",
+    "name": "pokemonem",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pokemonem.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "polytrack",
+    "name": "polytrack",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/polytrack.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pou",
+    "name": "pou",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pou.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "premium",
+    "name": "premium",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/premium.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "president",
+    "name": "president",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/president.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ptest",
+    "name": "ptest",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ptest.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "r",
+    "name": "r",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/r.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ragdollarch",
+    "name": "ragdollarch",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ragdollarch.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ragdollhit",
+    "name": "ragdollhit",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ragdollhit.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rfjrihrfhrhf",
+    "name": "rfjrihrfhrhf",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rfjrihrfhrhf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddle",
+    "name": "riddle",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/riddle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddle2",
+    "name": "riddle2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/riddle2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddle3",
+    "name": "riddle3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/riddle3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rob",
+    "name": "rob",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rob.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "robber",
+    "name": "robber",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/robber.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rockets",
+    "name": "rockets",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rockets.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rocketsoccer",
+    "name": "rocketsoccer",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rocketsoccer.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rooftop2",
+    "name": "rooftop2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/rooftop2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ruffle",
+    "name": "ruffle",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ruffle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run",
+    "name": "run",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/run.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run2",
+    "name": "run2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/run2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run3",
+    "name": "run3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/run3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sausage",
+    "name": "sausage",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sausage.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "scaryteach",
+    "name": "scaryteach",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/scaryteach.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "search",
+    "name": "search",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/search/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/search/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "secret",
+    "name": "secret",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/secret.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sender",
+    "name": "sender",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sender.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "settings",
+    "name": "settings",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/settings.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "settings7",
+    "name": "settings7",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/settings7.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "shell",
+    "name": "shell",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/shell.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "shortlife",
+    "name": "shortlife",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/shortlife.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "shortride",
+    "name": "shortride",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/shortride.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "silk",
+    "name": "silk",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/silk.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skyriders",
+    "name": "skyriders",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/skyriders.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope",
+    "name": "slope",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slope.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope2",
+    "name": "slope2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slope2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slowroad",
+    "name": "slowroad",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slowroad.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snakeio",
+    "name": "snakeio",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/snakeio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sniper",
+    "name": "sniper",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sniper.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snowball",
+    "name": "snowball",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/snowball.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snowrider",
+    "name": "snowrider",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/snowrider.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "soccer",
+    "name": "soccer",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccer.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "soccer-random",
+    "name": "soccer random",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccer-random.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "soccerbros",
+    "name": "soccerbros",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccerbros.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "solarsmash",
+    "name": "solarsmash",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/solarsmash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic3",
+    "name": "sonic3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sonic3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sorry",
+    "name": "sorry",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/sorry.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "spacewaves",
+    "name": "spacewaves",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/spacewaves.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "speedstars",
+    "name": "speedstars",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/speedstars.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "spookymoto",
+    "name": "spookymoto",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/spookymoto.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stack",
+    "name": "stack",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stack.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stack-2",
+    "name": "stack",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stack/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stack/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stair",
+    "name": "stair",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stair.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "start",
+    "name": "start",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/start.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "startl",
+    "name": "startl",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/startl.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "station",
+    "name": "station",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/station.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stick",
+    "name": "stick",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stick.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stick2",
+    "name": "stick2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stick2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickhook",
+    "name": "stickhook",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stickhook.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stumble",
+    "name": "stumble",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/stumble.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "subway",
+    "name": "subway",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/subway.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "subwayhw",
+    "name": "subwayHW",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/subwayHW.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "superhot",
+    "name": "superhot",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/superhot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "supersf",
+    "name": "supersf",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/supersf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "synctest",
+    "name": "synctest",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/synctest.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "t",
+    "name": "t",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "t9",
+    "name": "t9",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t9.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "t9os",
+    "name": "t9os",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t9os.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "t9tv",
+    "name": "t9tv",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/t9tv.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tanuki",
+    "name": "tanuki",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tanuki.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tapgoal",
+    "name": "tapgoal",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tapgoal.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "temple",
+    "name": "temple",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/temple.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "terminal",
+    "name": "terminal",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terminal.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "terms",
+    "name": "terms",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terms.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "terraria",
+    "name": "terraria",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terraria.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "territorial",
+    "name": "territorial",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/territorial.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test",
+    "name": "test",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test100",
+    "name": "test100",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test100.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test2",
+    "name": "test2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test200",
+    "name": "test200",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test200.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test22",
+    "name": "test22",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test22.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test3",
+    "name": "test3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test300",
+    "name": "test300",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test300.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test33",
+    "name": "test33",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test33.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test4",
+    "name": "test4",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test4.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test5",
+    "name": "test5",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test5.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test6",
+    "name": "test6",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test6.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test77",
+    "name": "test77",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test77.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test88",
+    "name": "test88",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test88.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test99",
+    "name": "test99",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test99.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test99-copy",
+    "name": "test99 copy",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test99%20copy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "test999",
+    "name": "test999",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/test999.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "testh",
+    "name": "testh",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/testh.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "testing",
+    "name": "testing",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/testing.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "testproxy",
+    "name": "testproxy",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/testproxy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "teststart",
+    "name": "teststart",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/teststart.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "teststart2",
+    "name": "teststart2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/teststart2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tetris",
+    "name": "tetris",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tetris.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "the1",
+    "name": "the1",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/the1.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "the2",
+    "name": "the2",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/the2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thetestbase99",
+    "name": "thetestbase99",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/thetestbase99.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thrill",
+    "name": "thrill",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/thrill.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tiktok",
+    "name": "tiktok",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tiktok.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "time",
+    "name": "time",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/time.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "timeshooter3",
+    "name": "timeshooter3",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/timeshooter3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tinyfishing",
+    "name": "tinyfishing",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tinyfishing.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tombmask",
+    "name": "tombmask",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tombmask.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "truck",
+    "name": "truck",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/truck.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tt",
+    "name": "tt",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tt.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tunnel",
+    "name": "tunnel",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tunnel.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "uh7gbram",
+    "name": "uh7gbram",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/uh7gbram.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ultrakill",
+    "name": "ultrakill",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ultrakill.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "undertale",
+    "name": "undertale",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/undertale.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "uno",
+    "name": "uno",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/uno.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "upload",
+    "name": "upload",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/upload.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "usjframe",
+    "name": "usjframe",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/usjframe.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "usservice",
+    "name": "usservice",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/usservice.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex",
+    "name": "vex",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/vex.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "volleyball-random",
+    "name": "volleyball random",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/volleyball-random/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/volleyball-random/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "warn",
+    "name": "warn",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/warn.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "webretro",
+    "name": "webretro",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/webretro.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wheelie",
+    "name": "wheelie",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wheelie.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wheels",
+    "name": "wheels",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wheels.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "window",
+    "name": "window",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/window.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "windows11",
+    "name": "windows11",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/windows11.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "windows11-2",
+    "name": "windows11",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/windows11/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/windows11/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wordle",
+    "name": "wordle",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wordle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "worldbox",
+    "name": "worldbox",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/worldbox.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "worldcup",
+    "name": "worldcup",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/worldcup.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "xploits",
+    "name": "xploits",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/xploits/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/xploits/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "yt",
+    "name": "yt",
+    "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/yt.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  }
 ]
