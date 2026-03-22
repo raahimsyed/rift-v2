@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name":  "selenite (old)",
         "url":  "https://github.com/selenite-cc/selenite-old",
@@ -103,5 +103,12 @@
         "tag":  "tree",
         "localHref":  "./crunchingmath/",
         "note":  "184 local launchers"
+    },
+    {
+        "name":  "rift v1 missing",
+        "url":  "https://truffled.lol/",
+        "tag":  "recovered",
+        "localHref":  "./rift-v1-missing/",
+        "note":  "140 recovered launchers"
     }
 ]

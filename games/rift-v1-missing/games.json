@@ -1,0 +1,982 @@
+[
+    {
+        "slug":  "30dolar",
+        "name":  "DON\u0027T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE",
+        "sourceUrl":  "https://truffled.lol/games/30dolar/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "amanda-the-adventurer",
+        "name":  "Amanda The Adventurer",
+        "sourceUrl":  "https://truffled.lol/games/amanda-the-adventurer/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "arthur",
+        "name":  "Arthur\u0027s Nightmare",
+        "sourceUrl":  "https://truffled.lol/gamefile/arthur.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "avhport",
+        "name":  "Apes vs Helium",
+        "sourceUrl":  "https://truffled.lol/games/AVHPort/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "baldurs-gate-2",
+        "name":  "baldurs gate 2",
+        "sourceUrl":  "https://truffled.lol/games/baldurs-gate-2/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "balls",
+        "name":  "balls",
+        "sourceUrl":  "https://truffled.lol/gamefile/balls.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "baseballbros",
+        "name":  "BASEBALL BROS! | Official Site",
+        "sourceUrl":  "https://truffled.lol/games/baseballbros/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "batim",
+        "name":  "OldCh2RippedTwo",
+        "sourceUrl":  "https://truffled.lol/games/BATIM/BATIM/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bbcr",
+        "name":  "Baldi\u0027s Basics Classic Remastered",
+        "sourceUrl":  "https://truffled.lol/games/BBCR/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bbp",
+        "name":  "Baldi\u0027s Basics Plus",
+        "sourceUrl":  "https://truffled.lol/games/BBP/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bergentruck",
+        "name":  "BERGENTRUCK_201X",
+        "sourceUrl":  "https://truffled.lol/games/bergentruck/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bfdia-5b",
+        "name":  "HTML5b - Battle for Dream Island",
+        "sourceUrl":  "https://truffled.lol/games/bfdia 5b/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bfs",
+        "name":  "Baldi\u0027s Fun New School Plus Ultimate Edition",
+        "sourceUrl":  "https://truffled.lol/games/bfs/",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "binding-of-isaac",
+        "name":  "Binding of Isaac| BCHS Unblocked Games",
+        "sourceUrl":  "https://truffled.lol/games/binding-of-isaac/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bloodmoney",
+        "name":  "BLOODMONEY!",
+        "sourceUrl":  "https://truffled.lol/games/bloodmoney/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bogtruffled",
+        "name":  "MadnessMelee",
+        "sourceUrl":  "https://truffled.lol/games/bogtruffled/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bopcity",
+        "name":  "BopCity",
+        "sourceUrl":  "https://truffled.lol/gamefile/bopcity.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "boxing",
+        "name":  "Boxing Random",
+        "sourceUrl":  "https://truffled.lol/gamefile/boxing.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bts",
+        "name":  "Bad Time Simulator (Sans Fight)",
+        "sourceUrl":  "https://truffled.lol/games/bts/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cluster",
+        "name":  "Clustertruck",
+        "sourceUrl":  "https://truffled.lol/games/cluster/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cod",
+        "name":  "cod",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/cod.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "crk",
+        "name":  "crk",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/crk.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "customersupport",
+        "name":  "Customer Support WebPort",
+        "sourceUrl":  "https://truffled.lol/games/CustomerSupport/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dadish3d",
+        "name":  "dadish3d",
+        "sourceUrl":  "https://truffled.lol/gamefile/dadish3d.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "daily",
+        "name":  "daily",
+        "sourceUrl":  "https://truffled.lol/gamefile/daily.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "danganronpa",
+        "name":  "danganronpa",
+        "sourceUrl":  "https://truffled.lol/games/danganronpa/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "deadseat",
+        "name":  "The Deadseat",
+        "sourceUrl":  "https://truffled.lol/games/deadseat/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "deadtapesfinal",
+        "name":  "TimelessRewind",
+        "sourceUrl":  "https://truffled.lol/games/deadtapesfinal/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "deltatr",
+        "name":  "DELTATRAVELER",
+        "sourceUrl":  "https://truffled.lol/gamefile/deltatr.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "donottakethiscathome",
+        "name":  "Do NOT Take This Cat Home",
+        "sourceUrl":  "https://truffled.lol/games/donottakethiscathome/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dread",
+        "name":  "Dreadhead Parkour",
+        "sourceUrl":  "https://truffled.lol/gamefile/dread.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ducklife7",
+        "name":  "Wix Games | Duck Life: Battle",
+        "sourceUrl":  "https://truffled.lol/games/ducklife7/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ducklifeadv",
+        "name":  "Adventure",
+        "sourceUrl":  "https://truffled.lol/games/ducklifeadv/",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "em",
+        "name":  "em",
+        "sourceUrl":  "https://truffled.lol/gamefile/em.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "falling",
+        "name":  "Super Falling Fred Unblocked - ubg235 Poki",
+        "sourceUrl":  "https://truffled.lol/games/falling/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "falloutt",
+        "name":  "Fallout",
+        "sourceUrl":  "https://truffled.lol/gamefile/falloutt.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ffvii",
+        "name":  "ffvii",
+        "sourceUrl":  "https://truffled.lol/gamefile/ffvii.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnac",
+        "name":  "Five Nights at Candy\u0027s 1",
+        "sourceUrl":  "https://truffled.lol/gamefile/fnac.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnac2",
+        "name":  "Five Nights at Candy\u0027s 2",
+        "sourceUrl":  "https://truffled.lol/gamefile/fnac2.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnae-2",
+        "name":  "Five Night\u0027s at BIG E",
+        "sourceUrl":  "https://truffled.lol/gamefile/fnae.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnafs",
+        "name":  "Five Nights at Freddy\u0027s Sister Location",
+        "sourceUrl":  "https://truffled.lol/gamefile/fnafs.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnafu",
+        "name":  "Five Nights at Freddy\u0027s UCN",
+        "sourceUrl":  "https://truffled.lol/gamefile/fnafu.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnafw",
+        "name":  "Five Nights at Freddy\u0027s World",
+        "sourceUrl":  "https://truffled.lol/gamefile/fnafw.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fpa3",
+        "name":  "fpa3",
+        "sourceUrl":  "https://truffled.lol/gamefile/fpa3.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fred",
+        "name":  "Running Fred",
+        "sourceUrl":  "https://truffled.lol/games/fred/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ftf",
+        "name":  "Fears To Fathom: Home Alone",
+        "sourceUrl":  "https://truffled.lol/games/ftf/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "funmayhem",
+        "name":  "Gun Mayhem",
+        "sourceUrl":  "https://truffled.lol/games/funmayhem/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "funmayhem2",
+        "name":  "Gun Mayhem 2",
+        "sourceUrl":  "https://truffled.lol/games/funmayhem2/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "funmayhemredux",
+        "name":  "Gun Mayhem Redux",
+        "sourceUrl":  "https://truffled.lol/games/funmayhemredux/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fused240",
+        "name":  "Fused 240",
+        "sourceUrl":  "https://truffled.lol/games/fused240/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gbase",
+        "name":  "gbase",
+        "sourceUrl":  "https://truffled.lol/gamefile/gbase.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "genshin",
+        "name":  "genshin",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/genshin.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gladihoppers",
+        "name":  "Gladihoppers",
+        "sourceUrl":  "https://truffled.lol/gamefile/Gladihoppers.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "goi",
+        "name":  "Getting Over It",
+        "sourceUrl":  "https://truffled.lol/gamefile/goi.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gravity-run",
+        "name":  "Play Gravity Run Game: Free Online Gravity Switching Running Video Game for Kids \u0026 Adults",
+        "sourceUrl":  "https://truffled.lol/games/gravity-run/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "graybox",
+        "name":  "Grey-Box Testing",
+        "sourceUrl":  "https://truffled.lol/games/graybox/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gtb",
+        "name":  "Go To Bed web port",
+        "sourceUrl":  "https://truffled.lol/games/GTB/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hl-main",
+        "name":  "Pixelsuft hl",
+        "sourceUrl":  "https://truffled.lol/games/hl-main/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hlof",
+        "name":  "Pixelsuft hl",
+        "sourceUrl":  "https://truffled.lol/gamefile/hlof.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hol",
+        "name":  "Cut the Rope: Holiday Gift",
+        "sourceUrl":  "https://truffled.lol/gamefile/hol.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hollowknight-2",
+        "name":  "Hollow Knight",
+        "sourceUrl":  "https://truffled.lol/games/hollowknight/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "honkai",
+        "name":  "honkai",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/honkai.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "human",
+        "name":  "HUMAN EXPENDITURE PROGRAM",
+        "sourceUrl":  "https://truffled.lol/gamefile/human.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ironlung",
+        "name":  "IRON LUNG",
+        "sourceUrl":  "https://truffled.lol/games/ironlung/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jelly",
+        "name":  "Jelly Drift",
+        "sourceUrl":  "https://truffled.lol/gamefile/jelly.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jumbomario",
+        "name":  "jumbo mario",
+        "sourceUrl":  "https://truffled.lol/games/JumboMario/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "karlson2d",
+        "name":  "Karlson",
+        "sourceUrl":  "https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "kindergarten",
+        "name":  "Kindergarten",
+        "sourceUrl":  "https://truffled.lol/games/kindergarten/1/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "kindergarten-2",
+        "name":  "Kindergarten2",
+        "sourceUrl":  "https://truffled.lol/games/kindergarten/2/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "kindergarten3",
+        "name":  "Kindergarten3",
+        "sourceUrl":  "https://truffled.lol/games/Kindergarten3/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lacy",
+        "name":  "Lacey\u0027s Flash Games",
+        "sourceUrl":  "https://truffled.lol/gamefile/lacy.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lbp",
+        "name":  "Quasar PSP Loader",
+        "sourceUrl":  "https://truffled.lol/games/lbp/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "life",
+        "name":  "life",
+        "sourceUrl":  "https://truffled.lol/gamefile/life.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lvldevil",
+        "name":  "Level Devil Unblocked - ClassRoom6x",
+        "sourceUrl":  "https://truffled.lol/games/lvldevil/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "meatboy",
+        "name":  "Binding of Isaac| BCHS Unblocked Games",
+        "sourceUrl":  "https://truffled.lol/games/meatboy/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mergerot",
+        "name":  "Merge Rot - Poki",
+        "sourceUrl":  "https://truffled.lol/games/mergerot/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "milk",
+        "name":  "MilkmanKarlson",
+        "sourceUrl":  "https://truffled.lol/games/milk/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mineplus",
+        "name":  "MinesweeperPlus",
+        "sourceUrl":  "https://truffled.lol/gamefile/mineplus.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "minesweepermania",
+        "name":  "minesweepermania",
+        "sourceUrl":  "https://truffled.lol/gamefile/minesweepermania.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "monkey",
+        "name":  "monkey",
+        "sourceUrl":  "https://truffled.lol/gamefile/monkey.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mysingingmonster",
+        "name":  "Truffled - Interactive Learning Resources",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/mysingingmonster.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mytear",
+        "name":  "myTeardrop",
+        "sourceUrl":  "https://truffled.lol/gamefile/mytear.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "nsmb",
+        "name":  "nsmb",
+        "sourceUrl":  "https://truffled.lol/games/nsmb/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "nso",
+        "name":  "NSO",
+        "sourceUrl":  "https://truffled.lol/games/nso/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "omori",
+        "name":  "OMORI",
+        "sourceUrl":  "https://truffled.lol/gamefile/OMORI.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "onshi",
+        "name":  "OshiOshiPunch",
+        "sourceUrl":  "https://truffled.lol/gamefile/onshi.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ovodimensions",
+        "name":  "OvO Dimensions",
+        "sourceUrl":  "https://truffled.lol/games/OvoDimensions/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "papaspizza",
+        "name":  "Papas Pizzeria",
+        "sourceUrl":  "https://truffled.lol/games/papaspizza/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "paps",
+        "name":  "paps",
+        "sourceUrl":  "https://truffled.lol/games/paps/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pixl",
+        "name":  "Pixl Gun 3D",
+        "sourceUrl":  "https://truffled.lol/games/pixl/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "poppyplaytime",
+        "name":  "poppyplaytime",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/poppyplaytime.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "postal",
+        "name":  "POSTAL: Play FREE on the web",
+        "sourceUrl":  "https://truffled.lol/gamefile/postal.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pretenditsnotthere",
+        "name":  "Pretend It\u0027s Not There",
+        "sourceUrl":  "https://truffled.lol/games/pretenditsnotthere/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "psp",
+        "name":  "cs",
+        "sourceUrl":  "https://truffled.lol/games/psp/cs/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "psp-2",
+        "name":  "tja",
+        "sourceUrl":  "https://truffled.lol/games/psp/tja/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "psp-3",
+        "name":  "TBOI:R",
+        "sourceUrl":  "https://truffled.lol/games/psp/tboir/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pts",
+        "name":  "Pizza Tower: Scoutdigo Mod",
+        "sourceUrl":  "https://truffled.lol/gamefile/pts.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pubg",
+        "name":  "pubg",
+        "sourceUrl":  "https://truffled.lol/gamefile/nowgg/pubg.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pvs",
+        "name":  "pvs",
+        "sourceUrl":  "https://truffled.lol/gamefile/pvs.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pvs2",
+        "name":  "PvZ2 Gardendless Online | 0.4.2",
+        "sourceUrl":  "https://truffled.lol/gamefile/pvs2.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "quakeiii",
+        "name":  "Quake III Arena",
+        "sourceUrl":  "https://truffled.lol/gamefile/quakeiii.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rbcollege",
+        "name":  "rbcollege",
+        "sourceUrl":  "https://truffled.lol/games/rbcollege/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rerun",
+        "name":  "RERUN",
+        "sourceUrl":  "https://truffled.lol/games/rerun/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "scary-path",
+        "name":  "Play Scary Path Game: Free Online Obstacle Avoiding Halloween Vertical Running Video Game for Kids \u0026 Adults",
+        "sourceUrl":  "https://truffled.lol/games/scary-path/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sfge",
+        "name":  "slither.io",
+        "sourceUrl":  "https://truffled.lol/gamefile/sfge.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "skibidi-shooter",
+        "name":  "Skibidi Shooter Unblocked - ClassRoom6x",
+        "sourceUrl":  "https://truffled.lol/games/skibidi-shooter/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slender",
+        "name":  "Slender",
+        "sourceUrl":  "https://truffled.lol/games/slender/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slendy",
+        "name":  "Slendytubbies2",
+        "sourceUrl":  "https://truffled.lol/games/slendy/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slimerancher",
+        "name":  "Slime Rancher Decompiled v0.2.1",
+        "sourceUrl":  "https://truffled.lol/games/slimerancher/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "snowrider3d-main",
+        "name":  "Snow Rider 3D",
+        "sourceUrl":  "https://truffled.lol/games/snowrider3D-main/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "solar",
+        "name":  "solar",
+        "sourceUrl":  "https://truffled.lol/gamefile/solar.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "srb2",
+        "name":  "Sonic Robo Blast 2",
+        "sourceUrl":  "https://truffled.lol/games/srb2/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sriddleschool2",
+        "name":  "Riddle School 2",
+        "sourceUrl":  "https://truffled.lol/games/sriddleschool2/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ssf",
+        "name":  "ssf",
+        "sourceUrl":  "https://truffled.lol/gamefile/ssf.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "survivor",
+        "name":  "survivor.io",
+        "sourceUrl":  "https://truffled.lol/gamefile/survivor.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tattletail",
+        "name":  "Tattletail",
+        "sourceUrl":  "https://truffled.lol/games/tattletail/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ten-basket",
+        "name":  "Ten Basket - Silvergames",
+        "sourceUrl":  "https://truffled.lol/games/ten-basket/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "terraria-wrapper",
+        "name":  "terraria wrapper",
+        "sourceUrl":  "https://truffled.lol/games/terraria/terraria-wrapper.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tetrisweeper",
+        "name":  "Tetrisweeper",
+        "sourceUrl":  "https://truffled.lol/games/tetrisweeper/",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "time1",
+        "name":  "Time Shooter",
+        "sourceUrl":  "https://truffled.lol/gamefile/time1.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "timeshoot3",
+        "name":  "Time Shooter SWAT",
+        "sourceUrl":  "https://truffled.lol/games/timeshoot3/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tloz",
+        "name":  "tloz",
+        "sourceUrl":  "https://truffled.lol/gamefile/tloz.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tothecore",
+        "name":  "ToTheCore",
+        "sourceUrl":  "https://truffled.lol/games/tothecore/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "touhoumother",
+        "name":  "Youhou Mother",
+        "sourceUrl":  "https://truffled.lol/games/touhoumother/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tube",
+        "name":  "tube",
+        "sourceUrl":  "https://truffled.lol/gamefile/tube.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "twhg",
+        "name":  "twhg",
+        "sourceUrl":  "https://truffled.lol/gamefile/twhg.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "untitledgoosegamebog",
+        "name":  "Untitled Goose Game",
+        "sourceUrl":  "https://truffled.lol/games/UntitledGooseGameBog/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "verse",
+        "name":  "verse",
+        "sourceUrl":  "https://truffled.lol/gamefile/verse.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "vex8",
+        "name":  "Vex 8",
+        "sourceUrl":  "https://truffled.lol/gamefile/vex8.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "vicecity",
+        "name":  "Grand Theft Auto: Vice City",
+        "sourceUrl":  "https://truffled.lol/games/vicecity/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "watergirl-1",
+        "name":  "Fireboy \u0026 Watergirl 1 Forest Temple",
+        "sourceUrl":  "https://truffled.lol/games/watergirl-1/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "watergirl-2",
+        "name":  "Fireboy \u0026 Watergirl 2 Light Temple",
+        "sourceUrl":  "https://truffled.lol/games/watergirl-2/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "watergirl-3",
+        "name":  "AlgebraHelper",
+        "sourceUrl":  "https://truffled.lol/games/watergirl-3/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "watergirl-4",
+        "name":  "Fireboy \u0026 Watergirl 4 Crystal Temple",
+        "sourceUrl":  "https://truffled.lol/games/watergirl-4/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ween",
+        "name":  "Five Nights at Freddy\u0027s 4 Halloween",
+        "sourceUrl":  "https://truffled.lol/gamefile/ween.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "whores",
+        "name":  "HOTLINE MIAMI",
+        "sourceUrl":  "https://truffled.lol/games/whores/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "wordle-unlimited",
+        "name":  "Wordle Unlimited Unblocked - ClassRoom6x",
+        "sourceUrl":  "https://truffled.lol/games/wordle-unlimited/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "worlds-hardest-game-3",
+        "name":  "Words Hardest Game 3 Unblocked - ClassRoom6x",
+        "sourceUrl":  "https://truffled.lol/games/worlds-hardest-game-3/index.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "yoked",
+        "name":  "yoked",
+        "sourceUrl":  "https://truffled.lol/gamefile/yoked.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "yume",
+        "name":  "Yume Nikki",
+        "sourceUrl":  "https://truffled.lol/gamefile/yume.html",
+        "sourceBaseUrl":  "",
+        "loadMode":  "url"
+    }
+]
