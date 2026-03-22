@@ -47,6 +47,82 @@ let scramjet = null;
 let connection = null;
 let frame = null;
 
+let didFixIDB = false;
+const SCRAMJET_DB_NAMES = [
+  "$scramjet",
+  `${location.origin}@$scramjet`
+];
+
+const idbOpen = (name, version, onUpgrade) =>
+  new Promise((resolve, reject) => {
+    let req;
+    try {
+      req = version ? indexedDB.open(name, version) : indexedDB.open(name);
+    } catch (err) {
+      reject(err);
+      return;
+    }
+
+    req.onerror = () => reject(req.error || new Error("IDB open failed"));
+    req.onupgradeneeded = () => {
+      try {
+        onUpgrade?.(req.result);
+      } catch (err) {
+        reject(err);
+      }
+    };
+    req.onsuccess = () => resolve(req.result);
+  });
+
+const idbDelete = (name) =>
+  new Promise((resolve) => {
+    const req = indexedDB.deleteDatabase(name);
+    req.onsuccess = () => resolve(true);
+    req.onerror = () => resolve(false);
+    req.onblocked = () => resolve(false);
+  });
+
+const ensureScramjetStores = async (dbName) => {
+  // If the DB exists but doesn't have the expected stores, Scramjet will throw:
+  // "Failed to execute 'transaction' ... object stores was not found".
+  let db;
+  try {
+    db = await idbOpen(dbName);
+  } catch {
+    db = null;
+  }
+
+  if (db) {
+    const hasConfig = db.objectStoreNames.contains("config");
+    db.close();
+    if (hasConfig) return;
+  }
+
+  // Delete any broken/empty DB (often created by the SW before Scramjet init runs).
+  await idbDelete(dbName);
+
+  // Recreate with the expected schema (v1).
+  const fresh = await idbOpen(dbName, 1, (upgradeDb) => {
+    const needed = ["config", "cookies", "redirectTrackers", "referrerPolicies", "publicSuffixList"];
+    for (const store of needed) {
+      if (!upgradeDb.objectStoreNames.contains(store)) upgradeDb.createObjectStore(store);
+    }
+  });
+  fresh.close();
+};
+
+const fixScramjetIDBOnce = async () => {
+  if (didFixIDB) return;
+  didFixIDB = true;
+  for (const name of SCRAMJET_DB_NAMES) {
+    try {
+      await ensureScramjetStores(name);
+    } catch {
+      // ignore
+    }
+  }
+};
+
 const ensureStack = async () => {
   if (scramjet && connection) return;
   if (typeof $scramjetLoadController !== "function") throw new Error("scramjet not loaded");
@@ -63,7 +139,9 @@ const ensureStack = async () => {
     }
   });
 
-  scramjet.init();
+  // Important: init is async and creates the IDB schema + seeds config.
+  // If we don't await it, the SW can race and create a broken DB (no stores).
+  await scramjet.init();
 
   connection = new BareMux.BareMuxConnection("/baremux/worker.js");
 };
@@ -97,6 +175,7 @@ const goTo = async (raw) => {
   if (!url) return;
 
   try {
+    await fixScramjetIDBOnce();
     await registerSW();
     await ensureStack();
     await ensureTransport();
@@ -140,4 +219,3 @@ if (els.forward) els.forward.addEventListener("click", () => navTry((w) => w.his
 if (els.reload) els.reload.addEventListener("click", () => navTry((w) => w.location.reload()));
 
 if (els.urlInput) els.urlInput.focus();
-
