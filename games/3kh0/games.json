@@ -1673,6 +1673,13 @@
     "loadMode": "srcdoc"
   },
   {
+    "slug": "omori",
+    "name": "OMORI",
+    "sourceUrl": "https://truffled.lol/gamefile/OMORI.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "osu",
     "name": "osu!",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/osu%21/index.html",
@@ -2359,6 +2366,13 @@
     "loadMode": "srcdoc"
   },
   {
+    "slug": "survivor",
+    "name": "survivor.io",
+    "sourceUrl": "https://truffled.lol/gamefile/survivor.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "sushi-unroll",
     "name": "sushi unroll",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sushi-unroll/index.html",
@@ -2686,6 +2700,13 @@
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/worlds-hardest-game-2/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/worlds-hardest-game-2/",
     "loadMode": "srcdoc"
+  },
+  {
+    "slug": "worlds-hardest-game-3",
+    "name": "Words Hardest Game 3 Unblocked - ClassRoom6x",
+    "sourceUrl": "https://truffled.lol/games/worlds-hardest-game-3/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
   },
   {
     "slug": "wounded-summer-baby-edition",

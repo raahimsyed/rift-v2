@@ -238,6 +238,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "donottakethiscathome",
+    "name": "Do NOT Take This Cat Home",
+    "sourceUrl": "https://truffled.lol/games/donottakethiscathome/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "doom",
     "name": "doom",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/doom.html",
@@ -595,6 +602,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "slimerancher",
+    "name": "Slime Rancher Decompiled v0.2.1",
+    "sourceUrl": "https://truffled.lol/games/slimerancher/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "slope",
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/slope.html",
@@ -655,6 +669,13 @@
     "name": "tattle",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/tattle.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tattletail",
+    "name": "Tattletail",
+    "sourceUrl": "https://truffled.lol/games/tattletail/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {

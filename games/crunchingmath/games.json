@@ -1,1290 +1,1318 @@
-﻿[
-    {
-        "slug":  "1v1lol",
-        "name":  "1v1lol",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/1v1lol.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "2048",
-        "name":  "2048",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/2048.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "amongus",
-        "name":  "amongus",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/amongus.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "angrybirds",
-        "name":  "angrybirds",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/angrybirds.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "aquaparkio",
-        "name":  "aquaparkio",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/aquaparkio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "asmallworldcup",
-        "name":  "asmallworldcup",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/asmallworldcup.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baconmaydie",
-        "name":  "baconmaydie",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/baconmaydie.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badbodyguards",
-        "name":  "badbodyguards",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/badbodyguards.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badparenting",
-        "name":  "badparenting",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/badparenting.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badts",
-        "name":  "badts",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/badts.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baldibasics",
-        "name":  "baldibasics",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/baldibasics.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ballh",
-        "name":  "ballh",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ballh/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ballh/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baskbros",
-        "name":  "baskbros",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/baskbros.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketballfrvr",
-        "name":  "basketballfrvr",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketballfrvr.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketballlegends",
-        "name":  "basketballlegends",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketballlegends.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketballstars",
-        "name":  "basketballstars",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketballstars.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketrandom",
-        "name":  "basketrandom",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketrandom.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketslamdunk2",
-        "name":  "basketslamdunk2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketslamdunk2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bbbros",
-        "name":  "bbbros",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bbbros.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bestgameever",
-        "name":  "BESTGAMEEVER",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/BESTGAMEEVER.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bfdibranches",
-        "name":  "bfdibranches",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bfdibranches.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bitlife",
-        "name":  "bitlife",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bitlife.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blackjack",
-        "name":  "blackjack",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blackjack.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blockblast",
-        "name":  "blockblast",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blockblast.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blockblast2",
-        "name":  "blockblast2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blockblast2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blockydd",
-        "name":  "blockydd",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blockydd.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bloon6",
-        "name":  "bloon6",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bloon6.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bloonstds3",
-        "name":  "bloonstds3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bloonstds3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bowm",
-        "name":  "bowm",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bowm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "brawlstars",
-        "name":  "Brawlstars",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Brawlstars.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "buildnowgg",
-        "name":  "buildnowgg",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/buildnowgg.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "carcrash3",
-        "name":  "carcrash3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/carcrash3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "carkingarenea",
-        "name":  "carkingarenea",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/carkingarenea.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cc3",
-        "name":  "cc3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cc3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "civiballs",
-        "name":  "civiballs",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/civiballs.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "clashofvikings",
-        "name":  "clashofvikings",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/clashofvikings.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "clusterrush",
-        "name":  "clusterrush",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/clusterrush.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cookieclicker",
-        "name":  "cookieclicker",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cookieclicker.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crazyc3d",
-        "name":  "crazyc3d",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crazyc3d.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crazymotorcycle",
-        "name":  "crazymotorcycle",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crazymotorcycle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crossyr",
-        "name":  "crossyr",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crossyr.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crossy-road",
-        "name":  "Crossy Road",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Crossy-Road/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Crossy-Road/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crunchblox",
-        "name":  "crunchblox",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crunchblox/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crunchblox/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cuttr",
-        "name":  "cuttr",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cuttr.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ddcr",
-        "name":  "ddcr",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ddcr.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "deadfrontob",
-        "name":  "deadfrontob",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/deadfrontob.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "deltarune",
-        "name":  "deltarune",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/deltarune.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dino",
-        "name":  "dino",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dino.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dk64",
-        "name":  "dk64",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dk64.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dogeminer",
-        "name":  "dogeminer",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dogeminer.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doge-miner",
-        "name":  "Doge Miner",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Doge-Miner/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Doge-Miner/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dokidoki",
-        "name":  "dokidoki",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dokidoki.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doom",
-        "name":  "doom",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/doom.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doom64",
-        "name":  "Doom64",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Doom64.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "driftboss",
-        "name":  "driftboss",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/driftboss.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drifthunters",
-        "name":  "drifthunters",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/drifthunters.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drivemad",
-        "name":  "drivemad",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/drivemad.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife",
-        "name":  "ducklife",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ducklife.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklifeb",
-        "name":  "ducklifeb",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ducklifeb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "epstein",
-        "name":  "epstein",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/epstein.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "escaper2",
-        "name":  "escaper2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/escaper2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "escaperoad",
-        "name":  "escaperoad",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/escaperoad.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fallout",
-        "name":  "fallout",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fallout.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fifa99",
-        "name":  "FIFA99",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FIFA99.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fifas95",
-        "name":  "FIFAS95",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FIFAS95.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "flappyb",
-        "name":  "flappyb",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/flappyb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf",
-        "name":  "FNaF",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FNaF.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf2",
-        "name":  "fnaf2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnaf2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf3",
-        "name":  "fnaf3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnaf3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf4",
-        "name":  "fnaf4",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnaf4.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnafpizzas",
-        "name":  "fnafpizzas",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnafpizzas.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnafsister",
-        "name":  "fnafsister",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnafsister.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnafunc",
-        "name":  "FnafUNC",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FnafUNC.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnf",
-        "name":  "FNF",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FNF.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "footballbros",
-        "name":  "footballbros",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/footballbros.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "footballl",
-        "name":  "footballl",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/footballl.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fruitninja",
-        "name":  "fruitninja",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fruitninja.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gd",
-        "name":  "gd",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gd.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gdsz",
-        "name":  "gdsz",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gdsz.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "getawso",
-        "name":  "getawso",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/getawso.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gorillatag",
-        "name":  "gorillatag",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gorillatag.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "granny",
-        "name":  "granny",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/granny.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "granny2",
-        "name":  "granny2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/granny2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "granny3",
-        "name":  "granny3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/granny3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "grant2",
-        "name":  "grant2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/grant2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "growag",
-        "name":  "growag",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/growag.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gtaripoff",
-        "name":  "gtaripoff",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gtaripoff/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gtaripoff/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gunmayhem",
-        "name":  "gunmayhem",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gunmayhem.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hacker-tetris",
-        "name":  "Hacker Tetris",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hacker-Tetris/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hacker-Tetris/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "halflife",
-        "name":  "halflife",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/halflife.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "happywheels",
-        "name":  "happywheels",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/happywheels.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hextris",
-        "name":  "Hextris",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hextris/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hextris/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "highwayracer",
-        "name":  "highwayracer",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/highwayracer.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hobo",
-        "name":  "hobo",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/hobo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "indev",
-        "name":  "indev",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/indev.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "infinitecraft",
-        "name":  "infinitecraft",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/infinitecraft.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jetpackjoyride",
-        "name":  "jetpackjoyride",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/jetpackjoyride.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jetskiracing",
-        "name":  "jetskiracing",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/jetskiracing.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "konkr.io",
-        "name":  "konkr.io",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/konkr.io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "learntf",
-        "name":  "learntf",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/learntf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "learntf2",
-        "name":  "learntf2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/learntf2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "learntf3",
-        "name":  "learntf3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/learntf3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "madskillsmotocross2",
-        "name":  "madskillsmotocross2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/madskillsmotocross2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "madstuntc2",
-        "name":  "madstuntc2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/madstuntc2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mario",
-        "name":  "mario",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mario.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mariokart64",
-        "name":  "mariokart64",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mariokart64.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "maskedforcesunlimited",
-        "name":  "maskedforcesunlimited",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/maskedforcesunlimited.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mc173",
-        "name":  "mc173",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mc173.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mc188",
-        "name":  "mc188",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mc188.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "melonplayground",
-        "name":  "melonplayground",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/melonplayground.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "monkeym",
-        "name":  "monkeym",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/monkeym.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mortalk4",
-        "name":  "mortalk4",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mortalk4.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "moto3xm",
-        "name":  "moto3xm",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/moto3xm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "moto3xmm",
-        "name":  "moto3xmm",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/moto3xmm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3mpoolparty",
-        "name":  "motox3mpoolparty",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/motox3mpoolparty.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3mspookyland",
-        "name":  "motox3mspookyland",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/motox3mspookyland.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mrracer",
-        "name":  "mrracer",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mrracer.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mytd",
-        "name":  "mytd",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mytd.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "nbahangtime",
-        "name":  "NBAHangtime",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/NBAHangtime.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "nbalive2000",
-        "name":  "nbalive2000",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/nbalive2000.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "nfl2002",
-        "name":  "nfl2002",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/nfl2002.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "oret",
-        "name":  "oret",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/oret.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "osu",
-        "name":  "osu",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/osu.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo",
-        "name":  "ovo",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo2",
-        "name":  "ovo2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo3",
-        "name":  "ovo3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papabakeria",
-        "name":  "papabakeria",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papabakeria.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papalwba",
-        "name":  "papalwba",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papalwba.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papalwpa",
-        "name":  "papalwpa",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papalwpa.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "paperio",
-        "name":  "paperio",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/paperio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papermario",
-        "name":  "papermario",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papermario.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "parappatherapper",
-        "name":  "parappatherapper",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/parappatherapper.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pizzatower",
-        "name":  "pizzatower",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/pizzatower.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "polytrack",
-        "name":  "polytrack",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/polytrack.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "portal2d",
-        "name":  "portal2d",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/portal2d.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pou",
-        "name":  "pou",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/pou.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "puppethockey",
-        "name":  "puppethockey",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/puppethockey.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pvz",
-        "name":  "pvz",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/pvz.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ragdollarchers",
-        "name":  "ragdollarchers",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ragdollarchers.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rbcol",
-        "name":  "rbcol",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/rbcol.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "realflightsim",
-        "name":  "realflightsim",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/realflightsim.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "residentevil",
-        "name":  "residentevil",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/residentevil.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "retrobowl",
-        "name":  "retrobowl",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/retrobowl.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddlems",
-        "name":  "riddlems",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/riddlems.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rocketgoal.io",
-        "name":  "rocketgoal.io",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/rocketgoal.io.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "roofts",
-        "name":  "roofts",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/roofts.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rsd",
-        "name":  "rsd",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/rsd.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run3",
-        "name":  "run3",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/run3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sandboxels",
-        "name":  "sandboxels",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sandboxels.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "skis",
-        "name":  "skis",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/skis.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slitherio",
-        "name":  "slitherio",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slitherio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope",
-        "name":  "slope",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slope.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slowroads",
-        "name":  "slowroads",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slowroads.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sm64",
-        "name":  "sm64",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sm64.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "smk",
-        "name":  "smk",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/smk.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snake",
-        "name":  "snake",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/snake.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snowrider",
-        "name":  "snowrider",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/snowrider.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic",
-        "name":  "Sonic",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic2",
-        "name":  "Sonic2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic2011",
-        "name":  "Sonic2011",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic2011.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic22011",
-        "name":  "Sonic22011",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic22011.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic3hedgehog",
-        "name":  "sonic3hedgehog",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sonic3hedgehog.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "soniccd",
-        "name":  "soniccd",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/soniccd.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonicmania",
-        "name":  "sonicmania",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sonicmania.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonicrb2",
-        "name":  "sonicrb2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sonicrb2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stack",
-        "name":  "Stack",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Stack/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Stack/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickmanhook",
-        "name":  "stickmanhook",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmanhook.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickmina",
-        "name":  "stickmina",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmina.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickminb",
-        "name":  "stickminb",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickminb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickmind",
-        "name":  "stickmind",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmind.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickminesp",
-        "name":  "stickminesp",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickminesp.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stumbleg",
-        "name":  "stumbleg",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stumbleg.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "subwaysurfers",
-        "name":  "subwaysurfers",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/subwaysurfers.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "templerun2",
-        "name":  "templerun2",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/templerun2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "terraria",
-        "name":  "terraria",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/terraria.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "territorialio",
-        "name":  "territorialio",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/territorialio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tombofthemask",
-        "name":  "tombofthemask",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/tombofthemask.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "undertaley",
-        "name":  "undertaley",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/undertaley.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "uno",
-        "name":  "uno",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/uno.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "waterpoolio",
-        "name":  "waterpoolio",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/waterpoolio.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wordle",
-        "name":  "wordle",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/wordle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "worldcup08",
-        "name":  "worldcup08",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/worldcup08.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wrestleb",
-        "name":  "wrestleb",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/wrestleb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "zmm",
-        "name":  "zmm",
-        "sourceUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/zmm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-        "loadMode":  "url"
-    }
+[
+  {
+    "slug": "1v1lol",
+    "name": "1v1lol",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/1v1lol.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "2048",
+    "name": "2048",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/2048.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "amongus",
+    "name": "amongus",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/amongus.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "angrybirds",
+    "name": "angrybirds",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/angrybirds.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "aquaparkio",
+    "name": "aquaparkio",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/aquaparkio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "asmallworldcup",
+    "name": "asmallworldcup",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/asmallworldcup.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baconmaydie",
+    "name": "baconmaydie",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/baconmaydie.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badbodyguards",
+    "name": "badbodyguards",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/badbodyguards.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badparenting",
+    "name": "badparenting",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/badparenting.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badts",
+    "name": "badts",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/badts.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baldibasics",
+    "name": "baldibasics",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/baldibasics.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ballh",
+    "name": "ballh",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ballh/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ballh/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baskbros",
+    "name": "baskbros",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/baskbros.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketballfrvr",
+    "name": "basketballfrvr",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketballfrvr.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketballlegends",
+    "name": "basketballlegends",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketballlegends.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketballstars",
+    "name": "basketballstars",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketballstars.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketrandom",
+    "name": "basketrandom",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketrandom.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketslamdunk2",
+    "name": "basketslamdunk2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketslamdunk2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bbbros",
+    "name": "bbbros",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bbbros.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bestgameever",
+    "name": "BESTGAMEEVER",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/BESTGAMEEVER.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bfdibranches",
+    "name": "bfdibranches",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bfdibranches.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bitlife",
+    "name": "bitlife",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bitlife.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blackjack",
+    "name": "blackjack",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blackjack.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blockblast",
+    "name": "blockblast",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blockblast.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blockblast2",
+    "name": "blockblast2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blockblast2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blockydd",
+    "name": "blockydd",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/blockydd.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bloon6",
+    "name": "bloon6",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bloon6.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bloonstds3",
+    "name": "bloonstds3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bloonstds3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bowm",
+    "name": "bowm",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/bowm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "brawlstars",
+    "name": "Brawlstars",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Brawlstars.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "buildnowgg",
+    "name": "buildnowgg",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/buildnowgg.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "carcrash3",
+    "name": "carcrash3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/carcrash3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "carkingarenea",
+    "name": "carkingarenea",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/carkingarenea.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cc3",
+    "name": "cc3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cc3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "civiballs",
+    "name": "civiballs",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/civiballs.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "clashofvikings",
+    "name": "clashofvikings",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/clashofvikings.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "clusterrush",
+    "name": "clusterrush",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/clusterrush.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cookieclicker",
+    "name": "cookieclicker",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cookieclicker.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crazyc3d",
+    "name": "crazyc3d",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crazyc3d.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crazymotorcycle",
+    "name": "crazymotorcycle",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crazymotorcycle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crossy-road",
+    "name": "Crossy Road",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Crossy-Road/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Crossy-Road/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crossyr",
+    "name": "crossyr",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crossyr.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crunchblox",
+    "name": "crunchblox",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crunchblox/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/crunchblox/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cuttr",
+    "name": "cuttr",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/cuttr.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ddcr",
+    "name": "ddcr",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ddcr.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deadfrontob",
+    "name": "deadfrontob",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/deadfrontob.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deltarune",
+    "name": "deltarune",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/deltarune.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dino",
+    "name": "dino",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dino.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dk64",
+    "name": "dk64",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dk64.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doge-miner",
+    "name": "Doge Miner",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Doge-Miner/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Doge-Miner/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dogeminer",
+    "name": "dogeminer",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dogeminer.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dokidoki",
+    "name": "dokidoki",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/dokidoki.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doom",
+    "name": "doom",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/doom.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doom64",
+    "name": "Doom64",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Doom64.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "driftboss",
+    "name": "driftboss",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/driftboss.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drifthunters",
+    "name": "drifthunters",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/drifthunters.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drivemad",
+    "name": "drivemad",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/drivemad.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife",
+    "name": "ducklife",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ducklife.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklifeb",
+    "name": "ducklifeb",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ducklifeb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "epstein",
+    "name": "epstein",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/epstein.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "escaper2",
+    "name": "escaper2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/escaper2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "escaperoad",
+    "name": "escaperoad",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/escaperoad.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fallout",
+    "name": "fallout",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fallout.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "falloutt",
+    "name": "Fallout",
+    "sourceUrl": "https://truffled.lol/gamefile/falloutt.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fifa99",
+    "name": "FIFA99",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FIFA99.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fifas95",
+    "name": "FIFAS95",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FIFAS95.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "flappyb",
+    "name": "flappyb",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/flappyb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf",
+    "name": "FNaF",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FNaF.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf2",
+    "name": "fnaf2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnaf2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf3",
+    "name": "fnaf3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnaf3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf4",
+    "name": "fnaf4",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnaf4.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnafpizzas",
+    "name": "fnafpizzas",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnafpizzas.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnafs",
+    "name": "Five Nights at Freddy's Sister Location",
+    "sourceUrl": "https://truffled.lol/gamefile/fnafs.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnafsister",
+    "name": "fnafsister",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fnafsister.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnafunc",
+    "name": "FnafUNC",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FnafUNC.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnf",
+    "name": "FNF",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/FNF.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "footballbros",
+    "name": "footballbros",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/footballbros.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "footballl",
+    "name": "footballl",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/footballl.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fruitninja",
+    "name": "fruitninja",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/fruitninja.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gd",
+    "name": "gd",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gd.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gdsz",
+    "name": "gdsz",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gdsz.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "getawso",
+    "name": "getawso",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/getawso.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gorillatag",
+    "name": "gorillatag",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gorillatag.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "granny",
+    "name": "granny",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/granny.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "granny2",
+    "name": "granny2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/granny2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "granny3",
+    "name": "granny3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/granny3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "grant2",
+    "name": "grant2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/grant2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "growag",
+    "name": "growag",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/growag.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gtaripoff",
+    "name": "gtaripoff",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gtaripoff/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gtaripoff/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gunmayhem",
+    "name": "gunmayhem",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/gunmayhem.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hacker-tetris",
+    "name": "Hacker Tetris",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hacker-Tetris/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hacker-Tetris/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "halflife",
+    "name": "halflife",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/halflife.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "happywheels",
+    "name": "happywheels",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/happywheels.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hextris",
+    "name": "Hextris",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hextris/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Hextris/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "highwayracer",
+    "name": "highwayracer",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/highwayracer.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hobo",
+    "name": "hobo",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/hobo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "indev",
+    "name": "indev",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/indev.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "infinitecraft",
+    "name": "infinitecraft",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/infinitecraft.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jetpackjoyride",
+    "name": "jetpackjoyride",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/jetpackjoyride.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jetskiracing",
+    "name": "jetskiracing",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/jetskiracing.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "konkr.io",
+    "name": "konkr.io",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/konkr.io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "learntf",
+    "name": "learntf",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/learntf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "learntf2",
+    "name": "learntf2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/learntf2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "learntf3",
+    "name": "learntf3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/learntf3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "madskillsmotocross2",
+    "name": "madskillsmotocross2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/madskillsmotocross2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "madstuntc2",
+    "name": "madstuntc2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/madstuntc2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mario",
+    "name": "mario",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mario.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mariokart64",
+    "name": "mariokart64",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mariokart64.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "maskedforcesunlimited",
+    "name": "maskedforcesunlimited",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/maskedforcesunlimited.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mc173",
+    "name": "mc173",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mc173.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mc188",
+    "name": "mc188",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mc188.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "melonplayground",
+    "name": "melonplayground",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/melonplayground.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "monkeym",
+    "name": "monkeym",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/monkeym.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mortalk4",
+    "name": "mortalk4",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mortalk4.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "moto3xm",
+    "name": "moto3xm",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/moto3xm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "moto3xmm",
+    "name": "moto3xmm",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/moto3xmm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3mpoolparty",
+    "name": "motox3mpoolparty",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/motox3mpoolparty.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3mspookyland",
+    "name": "motox3mspookyland",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/motox3mspookyland.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mrracer",
+    "name": "mrracer",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mrracer.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mytd",
+    "name": "mytd",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/mytd.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "nbahangtime",
+    "name": "NBAHangtime",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/NBAHangtime.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "nbalive2000",
+    "name": "nbalive2000",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/nbalive2000.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "nfl2002",
+    "name": "nfl2002",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/nfl2002.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "oret",
+    "name": "oret",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/oret.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "osu",
+    "name": "osu",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/osu.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo",
+    "name": "ovo",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo2",
+    "name": "ovo2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo3",
+    "name": "ovo3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papabakeria",
+    "name": "papabakeria",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papabakeria.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papalwba",
+    "name": "papalwba",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papalwba.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papalwpa",
+    "name": "papalwpa",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papalwpa.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "paperio",
+    "name": "paperio",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/paperio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papermario",
+    "name": "papermario",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/papermario.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "parappatherapper",
+    "name": "parappatherapper",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/parappatherapper.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pizzatower",
+    "name": "pizzatower",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/pizzatower.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "polytrack",
+    "name": "polytrack",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/polytrack.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "portal2d",
+    "name": "portal2d",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/portal2d.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pou",
+    "name": "pou",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/pou.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "puppethockey",
+    "name": "puppethockey",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/puppethockey.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pvz",
+    "name": "pvz",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/pvz.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ragdollarchers",
+    "name": "ragdollarchers",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ragdollarchers.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rbcol",
+    "name": "rbcol",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/rbcol.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rbcollege",
+    "name": "rbcollege",
+    "sourceUrl": "https://truffled.lol/games/rbcollege/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "realflightsim",
+    "name": "realflightsim",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/realflightsim.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "residentevil",
+    "name": "residentevil",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/residentevil.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "retrobowl",
+    "name": "retrobowl",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/retrobowl.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddlems",
+    "name": "riddlems",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/riddlems.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rocketgoal.io",
+    "name": "rocketgoal.io",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/rocketgoal.io.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "roofts",
+    "name": "roofts",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/roofts.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rsd",
+    "name": "rsd",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/rsd.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run3",
+    "name": "run3",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/run3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sandboxels",
+    "name": "sandboxels",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sandboxels.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sfge",
+    "name": "slither.io",
+    "sourceUrl": "https://truffled.lol/gamefile/sfge.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skis",
+    "name": "skis",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/skis.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slitherio",
+    "name": "slitherio",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slitherio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope",
+    "name": "slope",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slope.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slowroads",
+    "name": "slowroads",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slowroads.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sm64",
+    "name": "sm64",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sm64.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "smk",
+    "name": "smk",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/smk.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snake",
+    "name": "snake",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/snake.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snowrider",
+    "name": "snowrider",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/snowrider.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic",
+    "name": "Sonic",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic2",
+    "name": "Sonic2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic2011",
+    "name": "Sonic2011",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic2011.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic22011",
+    "name": "Sonic22011",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Sonic22011.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic3hedgehog",
+    "name": "sonic3hedgehog",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sonic3hedgehog.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "soniccd",
+    "name": "soniccd",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/soniccd.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonicmania",
+    "name": "sonicmania",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sonicmania.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonicrb2",
+    "name": "sonicrb2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/sonicrb2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stack",
+    "name": "Stack",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Stack/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/Stack/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickmanhook",
+    "name": "stickmanhook",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmanhook.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickmina",
+    "name": "stickmina",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmina.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickminb",
+    "name": "stickminb",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickminb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickmind",
+    "name": "stickmind",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickmind.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickminesp",
+    "name": "stickminesp",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stickminesp.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stumbleg",
+    "name": "stumbleg",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/stumbleg.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "subwaysurfers",
+    "name": "subwaysurfers",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/subwaysurfers.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "templerun2",
+    "name": "templerun2",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/templerun2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "terraria",
+    "name": "terraria",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/terraria.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "territorialio",
+    "name": "territorialio",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/territorialio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tombofthemask",
+    "name": "tombofthemask",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/tombofthemask.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "undertaley",
+    "name": "undertaley",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/undertaley.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "uno",
+    "name": "uno",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/uno.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "waterpoolio",
+    "name": "waterpoolio",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/waterpoolio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wordle",
+    "name": "wordle",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/wordle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "worldcup08",
+    "name": "worldcup08",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/worldcup08.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wrestleb",
+    "name": "wrestleb",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/wrestleb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "zmm",
+    "name": "zmm",
+    "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/zmm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
+    "loadMode": "url"
+  }
 ]

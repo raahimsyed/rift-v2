@@ -147,6 +147,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "avhport",
+    "name": "Apes vs Helium",
+    "sourceUrl": "https://truffled.lol/games/AVHPort/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "aviamaster-fun",
     "name": "FUN",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/aviamaster/FUN.html",
@@ -221,6 +228,13 @@
     "name": "baseball bros",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baseball%20bros/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baseball%20bros/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baseballbros",
+    "name": "BASEBALL BROS! | Official Site",
+    "sourceUrl": "https://truffled.lol/games/baseballbros/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -665,6 +679,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "falling",
+    "name": "Super Falling Fred Unblocked - ubg235 Poki",
+    "sourceUrl": "https://truffled.lol/games/falling/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "falling-fred",
     "name": "falling fred",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/falling-fred/index.html",
@@ -791,6 +812,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "fred",
+    "name": "Running Fred",
+    "sourceUrl": "https://truffled.lol/games/fred/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "fruit-ninja",
     "name": "fruit ninja",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fruit%20ninja/index.html",
@@ -907,6 +935,13 @@
     "name": "fcgravity",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gravity/fcgravity.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gravity/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "graybox",
+    "name": "Grey-Box Testing",
+    "sourceUrl": "https://truffled.lol/games/graybox/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1124,6 +1159,13 @@
     "name": "jumbo mario",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jumbo-mario/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jumbo-mario/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jumbomario",
+    "name": "jumbo mario",
+    "sourceUrl": "https://truffled.lol/games/JumboMario/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1848,6 +1890,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "slender",
+    "name": "Slender",
+    "sourceUrl": "https://truffled.lol/games/slender/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "slender-multiplayer",
     "name": "slender multiplayer",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slender%20multiplayer/index.html",
@@ -2489,6 +2538,13 @@
     "name": "wrestle bros",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/wrestle%20bros/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/wrestle%20bros/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "yoked",
+    "name": "yoked",
+    "sourceUrl": "https://truffled.lol/gamefile/yoked.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {

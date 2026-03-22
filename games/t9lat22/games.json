@@ -77,6 +77,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "amanda-the-adventurer",
+    "name": "Amanda The Adventurer",
+    "sourceUrl": "https://truffled.lol/games/amanda-the-adventurer/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "andr",
     "name": "andr",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/andr.html",
@@ -88,6 +95,13 @@
     "name": "apposs",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/apposs.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "arthur",
+    "name": "Arthur's Nightmare",
+    "sourceUrl": "https://truffled.lol/gamefile/arthur.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -189,6 +203,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "bergentruck",
+    "name": "BERGENTRUCK_201X",
+    "sourceUrl": "https://truffled.lol/games/bergentruck/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "bitlife",
     "name": "bitlife",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/bitlife/index.html",
@@ -249,6 +270,13 @@
     "name": "block",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/block.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bopcity",
+    "name": "BopCity",
+    "sourceUrl": "https://truffled.lol/gamefile/bopcity.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -378,6 +406,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "cod",
+    "name": "cod",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/cod.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "code",
     "name": "code",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/code.html",
@@ -427,6 +462,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "crk",
+    "name": "crk",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/crk.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "crossy",
     "name": "crossy",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/crossy.html",
@@ -462,10 +504,24 @@
     "loadMode": "url"
   },
   {
+    "slug": "daily",
+    "name": "daily",
+    "sourceUrl": "https://truffled.lol/gamefile/daily.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "deathrun",
     "name": "deathrun",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/deathrun.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deltatr",
+    "name": "DELTATRAVELER",
+    "sourceUrl": "https://truffled.lol/gamefile/deltatr.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -567,6 +623,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "em",
+    "name": "em",
+    "sourceUrl": "https://truffled.lol/gamefile/em.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "emulatorjs",
     "name": "emulatorjs",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/emulatorjs.html",
@@ -595,6 +658,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "ffvii",
+    "name": "ffvii",
+    "sourceUrl": "https://truffled.lol/gamefile/ffvii.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "fifa10",
     "name": "fifa10",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fifa10.html",
@@ -613,6 +683,27 @@
     "name": "flip",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/flip.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnac",
+    "name": "Five Nights at Candy's 1",
+    "sourceUrl": "https://truffled.lol/gamefile/fnac.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnac2",
+    "name": "Five Nights at Candy's 2",
+    "sourceUrl": "https://truffled.lol/gamefile/fnac2.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnae-2",
+    "name": "Five Night's at BIG E",
+    "sourceUrl": "https://truffled.lol/gamefile/fnae.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -641,6 +732,13 @@
     "name": "fortzone",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/fortzone.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fpa3",
+    "name": "fpa3",
+    "sourceUrl": "https://truffled.lol/gamefile/fpa3.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -749,10 +847,24 @@
     "loadMode": "url"
   },
   {
+    "slug": "gbase",
+    "name": "gbase",
+    "sourceUrl": "https://truffled.lol/gamefile/gbase.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "generator",
     "name": "generator",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/generator.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "genshin",
+    "name": "genshin",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/genshin.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -784,6 +896,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "gladihoppers",
+    "name": "Gladihoppers",
+    "sourceUrl": "https://truffled.lol/gamefile/Gladihoppers.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "gnmath",
     "name": "gnmath",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/gnmath.html",
@@ -802,6 +921,13 @@
     "name": "goball",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/goball.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "goi",
+    "name": "Getting Over It",
+    "sourceUrl": "https://truffled.lol/gamefile/goi.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -917,6 +1043,20 @@
     "loadMode": "url"
   },
   {
+    "slug": "hl-main",
+    "name": "Pixelsuft hl",
+    "sourceUrl": "https://truffled.lol/games/hl-main/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hlof",
+    "name": "Pixelsuft hl",
+    "sourceUrl": "https://truffled.lol/gamefile/hlof.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "hohazards",
     "name": "hohazards",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/hohazards.html",
@@ -928,6 +1068,20 @@
     "name": "holeio",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/holeio.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "honkai",
+    "name": "honkai",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/honkai.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "human",
+    "name": "HUMAN EXPENDITURE PROGRAM",
+    "sourceUrl": "https://truffled.lol/gamefile/human.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -984,6 +1138,13 @@
     "name": "java",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/java.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jelly",
+    "name": "Jelly Drift",
+    "sourceUrl": "https://truffled.lol/gamefile/jelly.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1057,6 +1218,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "karlson2d",
+    "name": "Karlson",
+    "sourceUrl": "https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "kartz",
     "name": "kartz",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/kartz.html",
@@ -1085,6 +1253,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "lacy",
+    "name": "Lacey's Flash Games",
+    "sourceUrl": "https://truffled.lol/gamefile/lacy.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "leaderboard",
     "name": "leaderboard",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/leaderboard.html",
@@ -1096,6 +1271,13 @@
     "name": "leveld",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/leveld.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "life",
+    "name": "life",
+    "sourceUrl": "https://truffled.lol/gamefile/life.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1127,6 +1309,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "meatboy",
+    "name": "Binding of Isaac| BCHS Unblocked Games",
+    "sourceUrl": "https://truffled.lol/games/meatboy/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "melon",
     "name": "melon",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/melon.html",
@@ -1138,6 +1327,13 @@
     "name": "miami",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/miami.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "milk",
+    "name": "MilkmanKarlson",
+    "sourceUrl": "https://truffled.lol/games/milk/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1211,6 +1407,20 @@
     "loadMode": "url"
   },
   {
+    "slug": "mysingingmonster",
+    "name": "Truffled - Interactive Learning Resources",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/mysingingmonster.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mytear",
+    "name": "myTeardrop",
+    "sourceUrl": "https://truffled.lol/gamefile/mytear.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "news",
     "name": "news",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/news.html",
@@ -1243,6 +1453,13 @@
     "name": "onlyup",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/onlyup.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "onshi",
+    "name": "OshiOshiPunch",
+    "sourceUrl": "https://truffled.lol/gamefile/onshi.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1330,6 +1547,20 @@
     "loadMode": "url"
   },
   {
+    "slug": "poppyplaytime",
+    "name": "poppyplaytime",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/poppyplaytime.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "postal",
+    "name": "POSTAL: Play FREE on the web",
+    "sourceUrl": "https://truffled.lol/gamefile/postal.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "pou",
     "name": "pou",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/pou.html",
@@ -1355,6 +1586,27 @@
     "name": "ptest",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ptest.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pubg",
+    "name": "pubg",
+    "sourceUrl": "https://truffled.lol/gamefile/nowgg/pubg.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pvs",
+    "name": "pvs",
+    "sourceUrl": "https://truffled.lol/gamefile/pvs.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pvs2",
+    "name": "PvZ2 Gardendless Online | 0.4.2",
+    "sourceUrl": "https://truffled.lol/gamefile/pvs2.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1477,6 +1729,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "scary-path",
+    "name": "Play Scary Path Game: Free Online Obstacle Avoiding Halloween Vertical Running Video Game for Kids & Adults",
+    "sourceUrl": "https://truffled.lol/games/scary-path/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "scaryteach",
     "name": "scaryteach",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/scaryteach.html",
@@ -1544,6 +1803,13 @@
     "name": "silk",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/silk.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skibidi-shooter",
+    "name": "Skibidi Shooter Unblocked - ClassRoom6x",
+    "sourceUrl": "https://truffled.lol/games/skibidi-shooter/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1624,6 +1890,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "solar",
+    "name": "solar",
+    "sourceUrl": "https://truffled.lol/gamefile/solar.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "solarsmash",
     "name": "solarsmash",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/solarsmash.html",
@@ -1663,6 +1936,20 @@
     "name": "spookymoto",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/spookymoto.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "srb2",
+    "name": "Sonic Robo Blast 2",
+    "sourceUrl": "https://truffled.lol/games/srb2/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ssf",
+    "name": "ssf",
+    "sourceUrl": "https://truffled.lol/gamefile/ssf.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1820,6 +2107,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "ten-basket",
+    "name": "Ten Basket - Silvergames",
+    "sourceUrl": "https://truffled.lol/games/ten-basket/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "terminal",
     "name": "terminal",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terminal.html",
@@ -1838,6 +2132,13 @@
     "name": "terraria",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/terraria.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "terraria-wrapper",
+    "name": "terraria wrapper",
+    "sourceUrl": "https://truffled.lol/games/terraria/terraria-wrapper.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -2058,6 +2359,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "tloz",
+    "name": "tloz",
+    "sourceUrl": "https://truffled.lol/gamefile/tloz.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "tombmask",
     "name": "tombmask",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tombmask.html",
@@ -2079,10 +2387,24 @@
     "loadMode": "url"
   },
   {
+    "slug": "tube",
+    "name": "tube",
+    "sourceUrl": "https://truffled.lol/gamefile/tube.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "tunnel",
     "name": "tunnel",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/tunnel.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "twhg",
+    "name": "twhg",
+    "sourceUrl": "https://truffled.lol/gamefile/twhg.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -2135,10 +2457,24 @@
     "loadMode": "url"
   },
   {
+    "slug": "verse",
+    "name": "verse",
+    "sourceUrl": "https://truffled.lol/gamefile/verse.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "vex",
     "name": "vex",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/vex.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex8",
+    "name": "Vex 8",
+    "sourceUrl": "https://truffled.lol/gamefile/vex8.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -2163,6 +2499,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "ween",
+    "name": "Five Nights at Freddy's 4 Halloween",
+    "sourceUrl": "https://truffled.lol/gamefile/ween.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "wheelie",
     "name": "wheelie",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wheelie.html",
@@ -2174,6 +2517,13 @@
     "name": "wheels",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/wheels.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "whores",
+    "name": "HOTLINE MIAMI",
+    "sourceUrl": "https://truffled.lol/games/whores/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -2230,6 +2580,13 @@
     "name": "yt",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/yt.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "yume",
+    "name": "Yume Nikki",
+    "sourceUrl": "https://truffled.lol/gamefile/yume.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   }
 ]

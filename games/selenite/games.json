@@ -28,6 +28,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "30dolar",
+    "name": "DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE",
+    "sourceUrl": "https://truffled.lol/games/30dolar/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "60sburgerrun",
     "name": "60sburgerrun",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/60sburgerrun/index.html",
@@ -189,6 +196,27 @@
     "loadMode": "url"
   },
   {
+    "slug": "bbcr",
+    "name": "Baldi's Basics Classic Remastered",
+    "sourceUrl": "https://truffled.lol/games/BBCR/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bbp",
+    "name": "Baldi's Basics Plus",
+    "sourceUrl": "https://truffled.lol/games/BBP/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bfs",
+    "name": "Baldi's Fun New School Plus Ultimate Edition",
+    "sourceUrl": "https://truffled.lol/games/bfs/",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "bit-planes",
     "name": "bit planes",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bit-planes/index.html",
@@ -214,6 +242,13 @@
     "name": "bobtherobber2",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bobtherobber2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bobtherobber2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bogtruffled",
+    "name": "MadnessMelee",
+    "sourceUrl": "https://truffled.lol/games/bogtruffled/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -438,6 +473,13 @@
     "name": "dadish3",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish3/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dadish3d",
+    "name": "dadish3d",
+    "sourceUrl": "https://truffled.lol/gamefile/dadish3d.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1064,10 +1106,24 @@
     "loadMode": "url"
   },
   {
+    "slug": "mineplus",
+    "name": "MinesweeperPlus",
+    "sourceUrl": "https://truffled.lol/gamefile/mineplus.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "minesweeper",
     "name": "minesweeper",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minesweeper/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minesweeper/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "minesweepermania",
+    "name": "minesweepermania",
+    "sourceUrl": "https://truffled.lol/gamefile/minesweepermania.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1208,6 +1264,13 @@
     "name": "papasfreezeria",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasfreezeria/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasfreezeria/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papaspizza",
+    "name": "Papas Pizzeria",
+    "sourceUrl": "https://truffled.lol/games/papaspizza/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1596,6 +1659,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "snowrider3d-main",
+    "name": "Snow Rider 3D",
+    "sourceUrl": "https://truffled.lol/games/snowrider3D-main/index.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "soccerrandom",
     "name": "soccerrandom",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/index.html",
@@ -1743,6 +1813,13 @@
     "loadMode": "url"
   },
   {
+    "slug": "tetrisweeper",
+    "name": "Tetrisweeper",
+    "sourceUrl": "https://truffled.lol/games/tetrisweeper/",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
     "slug": "thefinalearth2",
     "name": "thefinalearth2",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thefinalearth2/index.html",
@@ -1789,6 +1866,20 @@
     "name": "thisistheonlylevel2",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "time1",
+    "name": "Time Shooter",
+    "sourceUrl": "https://truffled.lol/gamefile/time1.html",
+    "sourceBaseUrl": "",
+    "loadMode": "url"
+  },
+  {
+    "slug": "timeshoot3",
+    "name": "Time Shooter SWAT",
+    "sourceUrl": "https://truffled.lol/games/timeshoot3/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
@@ -1971,6 +2062,13 @@
     "name": "wordle",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordle/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordle/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wordle-unlimited",
+    "name": "Wordle Unlimited Unblocked - ClassRoom6x",
+    "sourceUrl": "https://truffled.lol/games/wordle-unlimited/index.html",
+    "sourceBaseUrl": "",
     "loadMode": "url"
   },
   {
