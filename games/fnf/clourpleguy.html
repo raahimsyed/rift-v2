@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loading...</title>
+<script>
+(async () => {
+  const modFile = "clourpleguy.html";
+  const res = await fetch("./mod.html", { credentials: "same-origin", cache: "no-cache" });
+  const html = (await res.text()).replaceAll("__RIFT_MOD_FILE__", modFile);
+  document.open(); document.write(html); document.close();
+})();
+</script>
+

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rift v2 / fnf</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../../assets/css/fonts.css">
+  <link rel="stylesheet" href="../../assets/css/games.css">
+  <style>
+    .mod-wrap { padding: 26px 22px 36px; display: grid; justify-items: center; }
+    .mod-panel { width: min(920px, 96vw); }
+    .mod-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .mod-title { margin: 0; text-transform: lowercase; letter-spacing: 0.02em; font-weight: 400; }
+    .mod-sub { margin: 10px 0 0; opacity: 0.75; text-transform: lowercase; }
+    .mod-box { margin-top: 14px; border: 1px dashed rgba(255,255,255,0.18); border-radius: 18px; padding: 16px; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-left">rift /games /fnf</div>
+    <div class="topbar-center"></div>
+    <div class="topbar-right">
+      <button class="icon-btn" id="backToGames" type="button" aria-label="Back to games">
+        <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+      </button>
+    </div>
+  </header>
+
+  <main class="mod-wrap">
+    <section class="panel mod-panel">
+      <div class="mod-head">
+        <h1 class="mod-title" id="modName">fnf mod</h1>
+        <button class="pill" id="openFile" type="button">
+          <i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i>
+          open url
+        </button>
+      </div>
+      <p class="mod-sub">launcher stub. hook the real assets here later.</p>
+
+      <div class="mod-box">
+        <div>file:</div>
+        <div class="mono" id="modFile">__RIFT_MOD_FILE__</div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const MOD_FILE = "__RIFT_MOD_FILE__";
+    const byId = (id) => document.getElementById(id);
+    const isFile = location.protocol === "file:";
+    const gamesUrl = isFile ? "../index.html" : "/games/";
+
+    byId("modFile").textContent = MOD_FILE;
+    byId("backToGames").addEventListener("click", () => {
+      window.location.href = gamesUrl;
+    });
+
+    byId("openFile").addEventListener("click", () => {
+      // If you later host the actual mod at a stable URL, swap this.
+      window.location.href = (isFile ? gamesUrl + "fnf/" : "/games/fnf/") + MOD_FILE;
+    });
+
+    (async () => {
+      try {
+        const res = await fetch("../fnf-mods.json", { credentials: "same-origin", cache: "no-cache" });
+        if (!res.ok) return;
+        const mods = await res.json();
+        const match = Array.isArray(mods) ? mods.find((m) => m && m.file === MOD_FILE) : null;
+        if (match && match.name) byId("modName").textContent = String(match.name).toLowerCase();
+      } catch {
+        // ignore
+      }
+    })();
+  </script>
+</body>
+</html>
+

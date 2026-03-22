@@ -71,6 +71,40 @@ const renderSources = (sources, q) => {
   }).join("");
 };
 
+const renderFNFMods = (mods, q) => {
+  if (!els.gamesGrid || !els.gamesEmpty) return;
+  const query = normalize(q);
+
+  const filtered = (mods || []).filter((m) => {
+    if (!query) return true;
+    return normalize(m.name).includes(query) || normalize(m.file).includes(query);
+  });
+
+  if (!filtered.length) {
+    els.gamesGrid.hidden = true;
+    els.gamesEmpty.hidden = false;
+    els.gamesEmpty.textContent = "no matches.";
+    return;
+  }
+
+  els.gamesGrid.hidden = false;
+  els.gamesEmpty.hidden = true;
+  els.gamesGrid.innerHTML = filtered.map((m) => {
+    const name = escapeHtml(m.name || "fnf mod");
+    const file = escapeHtml(m.file || "");
+    const href = `./fnf/${file}`;
+    return `
+      <button class="game-card" type="button" data-open-local="${escapeHtml(href)}">
+        <span class="game-ico" aria-hidden="true"><i class="fa-solid fa-music"></i></span>
+        <span>
+          <span class="game-name">${name}</span>
+          <span class="game-meta">${file}</span>
+        </span>
+      </button>
+    `;
+  }).join("");
+};
+
 const main = async () => {
   if (els.back) {
     els.back.addEventListener("click", () => {
@@ -87,11 +121,25 @@ const main = async () => {
     }
   }
 
-  renderSources(sources, "");
+  let fnfMods = [];
+  try {
+    fnfMods = await fetchJson("./fnf-mods.json");
+  } catch (err) {
+    if (els.gamesEmpty) {
+      els.gamesEmpty.textContent = "failed to load fnf-mods.json.";
+    }
+  }
+
+  const renderAll = (q) => {
+    renderSources(sources, q);
+    renderFNFMods(fnfMods, q);
+  };
+
+  renderAll("");
 
   if (els.search) {
     els.search.addEventListener("input", () => {
-      renderSources(sources, els.search.value);
+      renderAll(els.search.value);
     });
   }
 
@@ -112,14 +160,16 @@ const main = async () => {
         // No-op if clipboard is blocked; user can still open.
       }
     }
+
+    const openLocal = e.target.closest?.("[data-open-local]");
+    if (openLocal) {
+      const href = openLocal.getAttribute("data-open-local");
+      if (href) window.location.href = href;
+      return;
+    }
   });
 
-  // Games list will be wired once you send the library manifests.
-  if (els.gamesGrid && els.gamesEmpty) {
-    els.gamesGrid.hidden = true;
-    els.gamesEmpty.hidden = false;
-  }
+  if (els.search) els.search.focus();
 };
 
 main();
-

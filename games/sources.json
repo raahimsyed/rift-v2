@@ -4,6 +4,75 @@
     "url": "https://github.com/selenite-cc/selenite-old",
     "tag": "library",
     "note": "user-provided: lots of games"
+  },
+  {
+    "name": "elite gamez games",
+    "url": "https://github.com/elite-gamez/Elite_gamez_games",
+    "tag": "library"
+  },
+  {
+    "name": "fyinx (g)",
+    "url": "https://github.com/aukak/fyinx/tree/main/g",
+    "tag": "tree"
+  },
+  {
+    "name": "pokemon html games",
+    "url": "https://github.com/AlexBoops/HTML-Games/tree/main/Pokemon%20HTML%20Games",
+    "tag": "tree"
+  },
+  {
+    "name": "ugs assets",
+    "url": "https://github.com/bubbls/UGS-Assets",
+    "tag": "assets"
+  },
+  {
+    "name": "radon games assets",
+    "url": "https://github.com/Radon-Games/Radon-Games-Assets",
+    "tag": "assets"
+  },
+  {
+    "name": "3kh0 assets (gitlab)",
+    "url": "https://gitlab.com/3kh0/3kh0-assets",
+    "tag": "assets"
+  },
+  {
+    "name": "ccported games",
+    "url": "https://github.com/ccported/games",
+    "tag": "library"
+  },
+  {
+    "name": "gn-math assets",
+    "url": "https://github.com/gn-math/assets",
+    "tag": "assets"
+  },
+  {
+    "name": "seraph (games)",
+    "url": "https://github.com/a456pur/seraph/tree/main/games",
+    "tag": "tree"
+  },
+  {
+    "name": "unblockedgames (games)",
+    "url": "https://github.com/Fluffygirlwoman/UnblockedGames/tree/main/Games",
+    "tag": "tree"
+  },
+  {
+    "name": "artclass v2 (games)",
+    "url": "https://github.com/proudparrot2/artclass-v2/tree/main/games",
+    "tag": "tree"
+  },
+  {
+    "name": "t9lat22.github.io",
+    "url": "https://github.com/t9lat22/t9lat22.github.io",
+    "tag": "site"
+  },
+  {
+    "name": "noahs calculus tutor (games)",
+    "url": "https://github.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/tree/master/games",
+    "tag": "tree"
+  },
+  {
+    "name": "crunchingmath (games)",
+    "url": "https://github.com/UGBONTOP/crunchingmath/tree/main/main/games",
+    "tag": "tree"
   }
 ]
-

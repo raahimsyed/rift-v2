@@ -191,6 +191,7 @@ if (sessionsRoot) {
     const btn = e.target.closest?.(".suggestions [data-value]");
     if (!btn) return;
     const value = btn.getAttribute("data-value") || "";
+    if (routeKeyword(value)) return;
     const session = btn.closest(".session-view");
     const sessionInput = session?.querySelector(".search-input");
     if (!sessionInput) return;
@@ -299,7 +300,12 @@ if (topMenu) {
     if (!btn) return;
     const input = getActiveSearchInput();
     if (!input) return;
-    input.value = btn.getAttribute("data-value") || "";
+    const value = btn.getAttribute("data-value") || "";
+    if (routeKeyword(value)) {
+      setTopMenuOpen(false);
+      return;
+    }
+    input.value = value;
     showSuggestionsForInput(input);
     input.focus();
     setTopMenuOpen(false);
