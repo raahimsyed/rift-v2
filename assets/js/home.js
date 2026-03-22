@@ -78,10 +78,8 @@
     const dt = Math.min(34, now - state.lastT); // clamp for tab switches
     state.lastT = now;
 
-    // Fade previous frame slightly to create trails without washing the screen gray.
-    ctx.globalCompositeOperation = "source-over";
-    ctx.fillStyle = "rgba(0, 0, 0, 0.16)";
-    ctx.fillRect(0, 0, state.w, state.h);
+    // Keep the canvas transparent so it doesn't darken the animated page background.
+    ctx.clearRect(0, 0, state.w, state.h);
 
     if (now >= state.nextSpawnAt) spawnComet(now);
 
