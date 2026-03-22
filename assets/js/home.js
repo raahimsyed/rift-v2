@@ -399,12 +399,6 @@ const routeKeyword = (raw) => {
 };
 
 document.addEventListener("click", (e) => {
-  const btn = e.target.closest?.(".enter-btn");
-  if (!btn) return;
-  enterRift();
-});
-
-document.addEventListener("click", (e) => {
   const navBtn = e.target.closest?.(".side-nav .icon-btn");
   if (!navBtn) return;
 

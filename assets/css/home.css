@@ -414,40 +414,6 @@ body {
   font-size: 0.86rem;
 }
 
-.enter-wrap {
-  width: min(640px, calc(100vw - 64px));
-  margin: 14px auto 0;
-  display: flex;
-  justify-content: center;
-}
-
-.enter-btn {
-  padding: 12px 18px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  color: rgba(255, 255, 255, 0.92);
-  font-family: "Leoscar Sans", Arial, sans-serif;
-  font-size: 1.05rem;
-  letter-spacing: 0.10em;
-  text-transform: lowercase;
-  box-shadow:
-    0 12px 26px rgba(0, 0, 0, 0.62),
-    inset 0 1px 0 rgba(255, 255, 255, 0.04);
-  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
-}
-
-.enter-btn:hover,
-.enter-btn:focus-visible {
-  outline: none;
-  border-color: rgba(216, 160, 111, 0.55);
-  box-shadow:
-    0 14px 30px rgba(0, 0, 0, 0.7),
-    0 0 0 4px rgba(216, 160, 111, 0.12),
-    inset 0 1px 0 rgba(255, 255, 255, 0.04);
-  transform: translateY(-1px);
-}
-
 /* "Page" navigation: home -> rift (same URL) */
 .home-app {
   position: relative;
@@ -491,4 +457,3 @@ body.is-navigating .nav-curtain {
     animation: none !important;
   }
 }
-
