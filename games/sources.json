@@ -3,7 +3,8 @@
     "name": "selenite (old)",
     "url": "https://github.com/selenite-cc/selenite-old",
     "tag": "library",
-    "note": "user-provided: lots of games"
+    "note": "269 local launchers",
+    "localHref": "./selenite/"
   },
   {
     "name": "elite gamez games",

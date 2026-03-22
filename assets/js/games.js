@@ -46,8 +46,11 @@ const renderSources = (sources, q) => {
   els.sourceList.innerHTML = filtered.map((src) => {
     const name = escapeHtml(src.name || "source");
     const url = escapeHtml(src.url || "#");
+    const localHref = escapeHtml(src.localHref || "");
     const note = escapeHtml(src.note || "");
     const tag = escapeHtml(src.tag || "library");
+    const openTarget = localHref || url;
+    const openLabel = localHref ? "open library" : "open";
 
     return `
       <article class="source-card">
@@ -57,11 +60,11 @@ const renderSources = (sources, q) => {
         </div>
         ${note ? `<div class="source-meta">${note}</div>` : ""}
         <div class="source-actions">
-          <button class="pill" type="button" data-open="${url}">
+          <button class="pill" type="button" data-open="${openTarget}">
             <i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i>
-            open
+            ${openLabel}
           </button>
-          <button class="pill" type="button" data-copy="${url}">
+          <button class="pill" type="button" data-copy="${openTarget}">
             <i class="fa-solid fa-copy" aria-hidden="true"></i>
             copy
           </button>
@@ -147,7 +150,13 @@ const main = async () => {
     const open = e.target.closest?.("[data-open]");
     if (open) {
       const url = open.getAttribute("data-open");
-      if (url) window.open(url, "_blank", "noopener,noreferrer");
+      if (url) {
+        if (url.startsWith("./") || url.startsWith("../") || url.startsWith("/")) {
+          window.location.href = url;
+        } else {
+          window.open(url, "_blank", "noopener,noreferrer");
+        }
+      }
       return;
     }
 

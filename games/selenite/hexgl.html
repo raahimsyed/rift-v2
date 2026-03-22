@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rift v2 / games / selenite / hexgl</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../../assets/css/fonts.css">
+  <link rel="stylesheet" href="../../assets/css/game-frame.css">
+</head>
+<body data-game-slug="hexgl" data-game-name="hexgl" data-source-url="https://cdn.jsdelivr.net/gh/selenite-cc/selenite-old@main/hexgl/index.html">
+  <header class="topbar">
+    <div class="title-block">
+      <h1 class="title" id="gameTitle">hexgl</h1>
+      <div class="sub" id="gameSub"></div>
+    </div>
+    <div class="actions">
+      <button class="pill" id="openHostedGame" type="button">
+        <i class="fa-solid fa-up-right-from-square" aria-hidden="true"></i>
+        <span>open source</span>
+      </button>
+      <button class="icon-btn" id="backToLibrary" type="button" aria-label="Back to selenite library">
+        <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+      </button>
+    </div>
+  </header>
+
+  <main class="stage">
+    <iframe id="gameFrame" allow="fullscreen; autoplay; clipboard-read; clipboard-write" referrerpolicy="no-referrer" loading="eager"></iframe>
+  </main>
+
+  <script defer src="../../assets/js/game-frame.js"></script>
+</body>
+</html>
