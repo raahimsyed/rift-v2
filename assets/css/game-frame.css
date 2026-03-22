@@ -11,9 +11,14 @@ html,
 body {
   height: 100%;
   margin: 0;
-  background: var(--bg);
+  background-color: var(--bg);
   color: var(--text);
   overflow: hidden;
+  background-image: url("../media/riftv2bg.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .topbar {

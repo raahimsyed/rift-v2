@@ -13,13 +13,18 @@ html,
 body {
   height: 100%;
   margin: 0;
-  background: var(--bg);
+  background-color: var(--bg);
   color: var(--text);
   font-family: "Leoscar Sans", Arial, sans-serif;
   overflow: hidden;
   background-image:
     radial-gradient(44vw 44vh at 50% 26%, rgba(216, 160, 111, 0.010) 0%, rgba(0, 0, 0, 0) 72%),
-    radial-gradient(58vw 52vh at 50% 40%, rgba(255, 255, 255, 0.006) 0%, rgba(0, 0, 0, 0) 76%);
+    radial-gradient(58vw 52vh at 50% 40%, rgba(255, 255, 255, 0.006) 0%, rgba(0, 0, 0, 0) 76%),
+    url("../media/riftv2bg.gif");
+  background-position: center, center, center;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-size: auto, auto, cover;
+  background-attachment: fixed, fixed, fixed;
 }
 
 .topbar {
@@ -248,4 +253,3 @@ body {
     height: 42px;
   }
 }
-
