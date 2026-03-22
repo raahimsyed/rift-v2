@@ -51,6 +51,7 @@ async function registerSW() {
 let scramjet = null;
 let connection = null;
 let frame = null;
+let transportReady = false;
 
 let didFixIDB = false;
 const SCRAMJET_DB_NAMES = [
@@ -128,6 +129,23 @@ const fixScramjetIDBOnce = async () => {
   }
 };
 
+const clearStoredBareMuxState = () => {
+  try {
+    const keys = [];
+    for (let index = 0; index < localStorage.length; index += 1) {
+      const key = String(localStorage.key(index) || "");
+      if (/bare-?mux|mercury/i.test(key)) keys.push(key);
+    }
+    for (const key of keys) {
+      if (key === "bare-mux-path") continue;
+      localStorage.removeItem(key);
+    }
+    localStorage["bare-mux-path"] = "/baremux/worker.js";
+  } catch {
+    // ignore
+  }
+};
+
 const ensureStack = async () => {
   if (scramjet && connection) return;
   if (typeof $scramjetLoadController !== "function") throw new Error("scramjet not loaded");
@@ -148,18 +166,72 @@ const ensureStack = async () => {
   // If we don't await it, the SW can race and create a broken DB (no stores).
   await scramjet.init();
 
+  clearStoredBareMuxState();
   connection = new BareMux.BareMuxConnection("/baremux/worker.js");
 };
 
 const ensureTransport = async () => {
+  if (transportReady) return;
   if (!connection) return;
   const current = await connection.getTransport();
-  if (current === "/libcurl/index.mjs") return;
+  if (current === "/libcurl/index.mjs") {
+    transportReady = true;
+    return;
+  }
 
   const stored = localStorage.getItem("rift_wisp_url");
   const wispUrl = stored || ((location.protocol === "https:" ? "wss" : "ws") + "://" + location.host + "/wisp/");
+  clearStoredBareMuxState();
   await connection.setTransport("/libcurl/index.mjs", [{ websocket: wispUrl }]);
+  try {
+    localStorage["bare-mux-path"] = "/baremux/worker.js";
+  } catch {
+    // ignore
+  }
+  transportReady = true;
 };
+
+async function testWispSocket(timeoutMs = 8000) {
+  const stored = localStorage.getItem("rift_wisp_url");
+  const wispUrl = stored || ((location.protocol === "https:" ? "wss" : "ws") + "://" + location.host + "/wisp/");
+
+  return await new Promise((resolve) => {
+    let settled = false;
+    const socket = new WebSocket(wispUrl, "wisp-v2");
+
+    const finish = (ok) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      try {
+        socket.close();
+      } catch {
+        // ignore
+      }
+      resolve(ok);
+    };
+
+    const timer = setTimeout(() => finish(false), timeoutMs);
+    socket.addEventListener("open", () => finish(true), { once: true });
+    socket.addEventListener("error", () => finish(false), { once: true });
+    socket.addEventListener("close", () => {
+      if (!settled) finish(false);
+    }, { once: true });
+  });
+}
+
+async function testWispHttp() {
+  try {
+    const response = await fetch("/wisp/", {
+      method: "GET",
+      cache: "no-store",
+      headers: { "cache-control": "no-cache" }
+    });
+    return response.status === 426;
+  } catch {
+    return false;
+  }
+}
 
 const ensureFrame = () => {
   if (frame) return frame;
@@ -183,6 +255,11 @@ const goTo = async (raw) => {
     await fixScramjetIDBOnce();
     await registerSW();
     await ensureStack();
+    let wispAvailable = await testWispSocket();
+    if (!wispAvailable) wispAvailable = await testWispHttp();
+    if (!wispAvailable) {
+      throw new Error("Wisp websocket was not reachable on this deployment. This browser page needs the Node server build, not a static Render site.");
+    }
     await ensureTransport();
     ensureFrame().go(url);
     setHintHidden(true);

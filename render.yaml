@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: rift-v2
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+

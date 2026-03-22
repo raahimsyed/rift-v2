@@ -1,0 +1,15 @@
+{
+  "name": "rift-v2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rift v2 with static UI and Wisp-backed browser transport",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@mercuryworkshop/wisp-js": "^0.4.1",
+    "express": "^4.22.1"
+  }
+}
+
