@@ -13,17 +13,80 @@ html,
 body {
   height: 100%;
   margin: 0;
-  background-color: var(--bg);
+  background: #050505;
   color: var(--text);
   font-family: "Leoscar Sans", Arial, sans-serif;
   overflow: hidden;
   background-image:
     radial-gradient(44vw 44vh at 50% 26%, rgba(216, 160, 111, 0.010) 0%, rgba(0, 0, 0, 0) 72%),
-    radial-gradient(58vw 52vh at 50% 40%, rgba(255, 255, 255, 0.006) 0%, rgba(0, 0, 0, 0) 76%),
-    url("../media/riftv2bg.gif");
-  background-position: center, center, center;
-  background-repeat: no-repeat, no-repeat, no-repeat;
-  background-size: auto, auto, cover;
+    radial-gradient(58vw 52vh at 50% 40%, rgba(255, 255, 255, 0.006) 0%, rgba(0, 0, 0, 0) 76%);
+}
+
+body {
+  position: relative;
+  isolation: isolate;
+}
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  inset: -18%;
+  pointer-events: none;
+  z-index: -1;
+  mix-blend-mode: screen;
+}
+
+body::before {
+  background:
+    radial-gradient(40vw 34vh at 18% 28%, rgba(255, 255, 255, 0.17) 0%, rgba(214, 214, 214, 0.12) 24%, rgba(88, 88, 88, 0.05) 48%, transparent 72%),
+    radial-gradient(34vw 32vh at 78% 62%, rgba(246, 246, 246, 0.13) 0%, rgba(176, 176, 176, 0.09) 26%, rgba(68, 68, 68, 0.04) 50%, transparent 74%),
+    radial-gradient(46vw 40vh at 52% 84%, rgba(132, 132, 132, 0.08) 0%, transparent 72%);
+  filter: blur(84px);
+  opacity: 0.88;
+  transform-origin: 50% 50%;
+  animation: riftAmbientDrift 18s ease-in-out infinite alternate;
+}
+
+body::after {
+  inset: -24%;
+  background:
+    radial-gradient(30vw 28vh at 62% 24%, rgba(255, 255, 255, 0.10) 0%, rgba(162, 162, 162, 0.08) 30%, transparent 72%),
+    radial-gradient(28vw 26vh at 28% 76%, rgba(210, 210, 210, 0.09) 0%, rgba(116, 116, 116, 0.06) 30%, transparent 70%);
+  filter: blur(118px);
+  opacity: 0.6;
+  animation: riftAmbientPulse 24s ease-in-out infinite;
+}
+
+@keyframes riftAmbientDrift {
+  0% {
+    transform: translate3d(-3%, -2%, 0) scale(0.94);
+  }
+
+  50% {
+    transform: translate3d(4%, 3%, 0) scale(1.08);
+  }
+
+  100% {
+    transform: translate3d(-1%, 5%, 0) scale(0.98);
+  }
+}
+
+@keyframes riftAmbientPulse {
+  0% {
+    transform: translate3d(4%, -3%, 0) scale(0.92);
+    opacity: 0.48;
+  }
+
+  50% {
+    transform: translate3d(-2%, 4%, 0) scale(1.12);
+    opacity: 0.72;
+  }
+
+  100% {
+    transform: translate3d(3%, 1%, 0) scale(0.97);
+    opacity: 0.54;
+  }
 }
 
 .topbar {
