@@ -1,107 +1,107 @@
-﻿[
-    {
-        "name":  "selenite (old)",
-        "url":  "https://github.com/selenite-cc/selenite-old",
-        "tag":  "library",
-        "localHref":  "./selenite/",
-        "note":  "269 local launchers"
-    },
-    {
-        "name":  "elite gamez games",
-        "url":  "https://github.com/elite-gamez/Elite_gamez_games",
-        "tag":  "library",
-        "localHref":  "./elite-gamez/",
-        "note":  "651 local launchers"
-    },
-    {
-        "name":  "fyinx (g)",
-        "url":  "https://github.com/aukak/fyinx/tree/main/g",
-        "tag":  "tree",
-        "localHref":  "./fyinx/",
-        "note":  "98 local launchers"
-    },
-    {
-        "name":  "pokemon html games",
-        "url":  "https://github.com/AlexBoops/HTML-Games/tree/main/Pokemon%20HTML%20Games",
-        "tag":  "tree",
-        "localHref":  "./pokemon/",
-        "note":  "29 local launchers"
-    },
-    {
-        "name":  "ugs assets",
-        "url":  "https://github.com/bubbls/UGS-Assets",
-        "tag":  "assets",
-        "localHref":  "./ugs/",
-        "note":  "339 local launchers"
-    },
-    {
-        "name":  "radon games assets",
-        "url":  "https://github.com/Radon-Games/Radon-Games-Assets",
-        "tag":  "assets",
-        "localHref":  "./radon/",
-        "note":  "69 local launchers"
-    },
-    {
-        "name":  "3kh0 assets (gitlab)",
-        "url":  "https://gitlab.com/3kh0/3kh0-assets",
-        "tag":  "assets",
-        "localHref":  "./3kh0/",
-        "note":  "375 local launchers"
-    },
-    {
-        "name":  "ccported games",
-        "url":  "https://github.com/ccported/games",
-        "tag":  "library",
-        "localHref":  "./ccported/",
-        "note":  "145 local launchers"
-    },
-    {
-        "name":  "gn-math assets",
-        "url":  "https://github.com/gn-math/assets",
-        "tag":  "assets",
-        "localHref":  "./gn-math/",
-        "note":  "42 local launchers"
-    },
-    {
-        "name":  "seraph (games)",
-        "url":  "https://github.com/a456pur/seraph/tree/main/games",
-        "tag":  "tree",
-        "localHref":  "./seraph/",
-        "note":  "492 local launchers"
-    },
-    {
-        "name":  "unblockedgames (games)",
-        "url":  "https://github.com/Fluffygirlwoman/UnblockedGames/tree/main/Games",
-        "tag":  "tree",
-        "localHref":  "./unblockedgames/",
-        "note":  "47 local launchers"
-    },
-    {
-        "name":  "artclass v2 (games)",
-        "url":  "https://github.com/proudparrot2/artclass-v2/tree/main/games",
-        "tag":  "tree",
-        "localHref":  "./artclass/",
-        "note":  "12 local launchers"
-    },
-    {
-        "name":  "t9lat22.github.io",
-        "url":  "https://github.com/t9lat22/t9lat22.github.io",
-        "tag":  "site",
-        "localHref":  "./t9lat22/",
-        "note":  "316 local launchers"
-    },
-    {
-        "name":  "noahs calculus tutor (games)",
-        "url":  "https://github.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/tree/master/games",
-        "tag":  "tree",
-        "localHref":  "./noah/",
-        "note":  "369 local launchers"
-    },
-    {
-        "name":  "crunchingmath (games)",
-        "url":  "https://github.com/UGBONTOP/crunchingmath/tree/main/main/games",
-        "tag":  "tree",
-        "localHref":  "./crunchingmath/",
-        "note":  "184 local launchers"
-    }
+[
+  {
+    "name": "selenite (old)",
+    "url": "https://github.com/selenite-cc/selenite-old",
+    "tag": "library",
+    "localHref": "./selenite/",
+    "note": "289 local launchers"
+  },
+  {
+    "name": "elite gamez games",
+    "url": "https://github.com/elite-gamez/Elite_gamez_games",
+    "tag": "library",
+    "localHref": "./elite-gamez/",
+    "note": "651 local launchers"
+  },
+  {
+    "name": "fyinx (g)",
+    "url": "https://github.com/aukak/fyinx/tree/main/g",
+    "tag": "tree",
+    "localHref": "./fyinx/",
+    "note": "102 local launchers"
+  },
+  {
+    "name": "pokemon html games",
+    "url": "https://github.com/AlexBoops/HTML-Games/tree/main/Pokemon%20HTML%20Games",
+    "tag": "tree",
+    "localHref": "./pokemon/",
+    "note": "35 local launchers"
+  },
+  {
+    "name": "ugs assets",
+    "url": "https://github.com/bubbls/UGS-Assets",
+    "tag": "assets",
+    "localHref": "./ugs/",
+    "note": "359 local launchers"
+  },
+  {
+    "name": "radon games assets",
+    "url": "https://github.com/Radon-Games/Radon-Games-Assets",
+    "tag": "assets",
+    "localHref": "./radon/",
+    "note": "74 local launchers"
+  },
+  {
+    "name": "3kh0 assets (gitlab)",
+    "url": "https://gitlab.com/3kh0/3kh0-assets",
+    "tag": "assets",
+    "localHref": "./3kh0/",
+    "note": "391 local launchers"
+  },
+  {
+    "name": "ccported games",
+    "url": "https://github.com/ccported/games",
+    "tag": "library",
+    "localHref": "./ccported/",
+    "note": "145 local launchers"
+  },
+  {
+    "name": "gn-math assets",
+    "url": "https://github.com/gn-math/assets",
+    "tag": "assets",
+    "localHref": "./gn-math/",
+    "note": "42 local launchers"
+  },
+  {
+    "name": "seraph (games)",
+    "url": "https://github.com/a456pur/seraph/tree/main/games",
+    "tag": "tree",
+    "localHref": "./seraph/",
+    "note": "492 local launchers"
+  },
+  {
+    "name": "unblockedgames (games)",
+    "url": "https://github.com/Fluffygirlwoman/UnblockedGames/tree/main/Games",
+    "tag": "tree",
+    "localHref": "./unblockedgames/",
+    "note": "47 local launchers"
+  },
+  {
+    "name": "artclass v2 (games)",
+    "url": "https://github.com/proudparrot2/artclass-v2/tree/main/games",
+    "tag": "tree",
+    "localHref": "./artclass/",
+    "note": "12 local launchers"
+  },
+  {
+    "name": "t9lat22.github.io",
+    "url": "https://github.com/t9lat22/t9lat22.github.io",
+    "tag": "site",
+    "localHref": "./t9lat22/",
+    "note": "316 local launchers"
+  },
+  {
+    "name": "noahs calculus tutor (games)",
+    "url": "https://github.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/tree/master/games",
+    "tag": "tree",
+    "localHref": "./noah/",
+    "note": "369 local launchers"
+  },
+  {
+    "name": "crunchingmath (games)",
+    "url": "https://github.com/UGBONTOP/crunchingmath/tree/main/main/games",
+    "tag": "tree",
+    "localHref": "./crunchingmath/",
+    "note": "184 local launchers"
+  }
 ]

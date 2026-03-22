@@ -1,1885 +1,2025 @@
-﻿[
-    {
-        "slug":  "1on1soccer",
-        "name":  "1on1soccer",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1on1soccer/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1on1soccer/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "1v1lol",
-        "name":  "1v1lol",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1v1lol/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1v1lol/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "2048",
-        "name":  "2048",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2048/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2048/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "2drocketleague",
-        "name":  "2drocketleague",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2drocketleague/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2drocketleague/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "60sburgerrun",
-        "name":  "60sburgerrun",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/60sburgerrun/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/60sburgerrun/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "achieveunlocked",
-        "name":  "achieveunlocked",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "achieveunlocked2",
-        "name":  "achieveunlocked2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "adarkroom",
-        "name":  "adarkroom",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adarkroom/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adarkroom/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "adofai",
-        "name":  "adofai",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adofai/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adofai/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "adventure-capitalist",
-        "name":  "adventure capitalist",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adventure-capitalist/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adventure-capitalist/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ageofwar",
-        "name":  "ageofwar",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ageofwar/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ageofwar/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "amazing-rope-police",
-        "name":  "amazing rope police",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amazing-rope-police/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amazing-rope-police/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "amongus",
-        "name":  "amongus",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amongus/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amongus/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "avalanche",
-        "name":  "avalanche",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/avalanche/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/avalanche/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "awesometanks",
-        "name":  "awesometanks",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/awesometanks/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/awesometanks/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ayun",
-        "name":  "ayun",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ayun/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ayun/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badicecream",
-        "name":  "badicecream",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badicecream2",
-        "name":  "badicecream2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badicecream3",
-        "name":  "badicecream3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badpiggies",
-        "name":  "badpiggies",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badpiggies/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badpiggies/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "badtimesimulator",
-        "name":  "badtimesimulator",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badtimesimulator/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badtimesimulator/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baldis-basics",
-        "name":  "baldis basics",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/baldis-basics/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/baldis-basics/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ballisticchickens",
-        "name":  "ballisticchickens",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ballisticchickens/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ballisticchickens/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketball-stars",
-        "name":  "basketball stars",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketball-stars/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketball-stars/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketbros",
-        "name":  "basketbros",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketbros/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketbros/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basketrandom",
-        "name":  "basketrandom",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketrandom/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketrandom/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bitlife",
-        "name":  "bitlife",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bitlife/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bitlife/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bit-planes",
-        "name":  "bit planes",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bit-planes/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bit-planes/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bloodtournament",
-        "name":  "bloodtournament",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bloodtournament/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bloodtournament/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bobtherobber2",
-        "name":  "bobtherobber2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bobtherobber2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bobtherobber2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "boxingphysics2",
-        "name":  "boxingphysics2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingphysics2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingphysics2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "boxingrandom",
-        "name":  "boxingrandom",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingrandom/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingrandom/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "breakingthebank",
-        "name":  "breakingthebank",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/breakingthebank/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/breakingthebank/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "btd",
-        "name":  "btd",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "btd2",
-        "name":  "btd2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "btd3",
-        "name":  "btd3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "btd4",
-        "name":  "btd4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "btd5",
-        "name":  "btd5",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd5/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd5/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "btd6",
-        "name":  "btd6",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd6/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd6/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bubbleshooter",
-        "name":  "bubbleshooter",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bubbleshooter/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bubbleshooter/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "burgerandfrights",
-        "name":  "burgerandfrights",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burgerandfrights/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burgerandfrights/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "burritobison",
-        "name":  "burritobison",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burritobison/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burritobison/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "celeste",
-        "name":  "celeste",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/celeste/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/celeste/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cell-machine",
-        "name":  "cell machine",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cell-machine/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cell-machine/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "championisland",
-        "name":  "championisland",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/championisland/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/championisland/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "chess",
-        "name":  "chess",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chess/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chess/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "chibiknight",
-        "name":  "chibiknight",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chibiknight/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chibiknight/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "circloo",
-        "name":  "circloo",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/circloo/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/circloo/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "clickerheroes",
-        "name":  "clickerheroes",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/clickerheroes/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/clickerheroes/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cluster-rush",
-        "name":  "cluster rush",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cluster-rush/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cluster-rush/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cmm-client",
-        "name":  "cmm client",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cmm-client/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cmm-client/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "colorswitch",
-        "name":  "colorswitch",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/colorswitch/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/colorswitch/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "commodoreclicker",
-        "name":  "commodoreclicker",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/commodoreclicker/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/commodoreclicker/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cookieclicker",
-        "name":  "cookieclicker",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cookieclicker/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cookieclicker/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crossyroad",
-        "name":  "crossyroad",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/crossyroad/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/crossyroad/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "csgoclicker",
-        "name":  "csgoclicker",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/csgoclicker/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/csgoclicker/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cubefield",
-        "name":  "cubefield",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cubefield/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cubefield/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cuttherope",
-        "name":  "cuttherope",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cuttherope-holiday",
-        "name":  "cuttherope holiday",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope-holiday/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope-holiday/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dadish",
-        "name":  "dadish",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dadish2",
-        "name":  "dadish2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dadish3",
-        "name":  "dadish3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dante",
-        "name":  "dante",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dante/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dante/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "deal",
-        "name":  "deal",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/deal/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/deal/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "death-run-3d",
-        "name":  "death run 3d",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/death-run-3d/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/death-run-3d/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dino",
-        "name":  "dino",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dino/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dino/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dogeminer",
-        "name":  "dogeminer",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dogeminer/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dogeminer/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doodlejump",
-        "name":  "doodlejump",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doodlejump/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doodlejump/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doom",
-        "name":  "doom",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doom/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doom/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drag",
-        "name":  "drag",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drag/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drag/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dragonballdevolution",
-        "name":  "dragonballdevolution",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dragonballdevolution/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dragonballdevolution/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drift-boss",
-        "name":  "drift boss",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drift-boss/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drift-boss/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drifthunters",
-        "name":  "drifthunters",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drifthunters/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drifthunters/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drivemad",
-        "name":  "drivemad",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drivemad/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drivemad/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife1",
-        "name":  "ducklife1",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife2",
-        "name":  "ducklife2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife3",
-        "name":  "ducklife3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife4",
-        "name":  "ducklife4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife5",
-        "name":  "ducklife5",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife5/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife5/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ducklife6",
-        "name":  "ducklife6",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife6/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife6/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "emulatorjs",
-        "name":  "emulatorjs",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/emulatorjs/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/emulatorjs/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "escapingtheprison",
-        "name":  "escapingtheprison",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/escapingtheprison/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/escapingtheprison/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "factoryballs",
-        "name":  "factoryballs",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballs/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballs/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "factoryballsforever",
-        "name":  "factoryballsforever",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballsforever/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballsforever/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fancypantsadventures",
-        "name":  "fancypantsadventures",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fancypantsadventures2",
-        "name":  "fancypantsadventures2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fireboywatergirl",
-        "name":  "fireboywatergirl",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fireboywatergirl2",
-        "name":  "fireboywatergirl2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fireboywatergirl3",
-        "name":  "fireboywatergirl3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fireboywatergirl4",
-        "name":  "fireboywatergirl4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "flappybird",
-        "name":  "flappybird",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappybird/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappybird/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "flappyplane",
-        "name":  "flappyplane",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappyplane/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappyplane/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fleeingthecomplex",
-        "name":  "fleeingthecomplex",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fleeingthecomplex/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fleeingthecomplex/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "flippyfish",
-        "name":  "flippyfish",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flippyfish/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flippyfish/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fluidsim",
-        "name":  "fluidsim",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fluidsim/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fluidsim/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf",
-        "name":  "fnaf",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf2",
-        "name":  "fnaf2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf3",
-        "name":  "fnaf3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf4",
-        "name":  "fnaf4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fridaynightfunkin",
-        "name":  "fridaynightfunkin",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fridaynightfunkin/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fridaynightfunkin/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fruitninja",
-        "name":  "fruitninja",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fruitninja/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fruitninja/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "funnyballgame",
-        "name":  "funnyballgame",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyballgame/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyballgame/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "funnymadracing",
-        "name":  "funnymadracing",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnymadracing/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnymadracing/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "funnyshooter",
-        "name":  "funnyshooter",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "funnyshooter2",
-        "name":  "funnyshooter2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gamemaker",
-        "name":  "gamemaker",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gamemaker/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gamemaker/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gba",
-        "name":  "gba",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gba/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gba/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gdlite",
-        "name":  "gdlite",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gdlite/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gdlite/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "geometrydash",
-        "name":  "geometrydash",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometrydash/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometrydash/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "geometryrash",
-        "name":  "geometryrash",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometryrash/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometryrash/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "getawayshooter",
-        "name":  "getawayshooter",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/getawayshooter/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/getawayshooter/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "golddiggerfrvr",
-        "name":  "golddiggerfrvr",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/golddiggerfrvr/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/golddiggerfrvr/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "guiltygear",
-        "name":  "guiltygear",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/guiltygear/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/guiltygear/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gunmayhem",
-        "name":  "gunmayhem",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gunmayhem2",
-        "name":  "gunmayhem2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gunmayhemredux",
-        "name":  "gunmayhemredux",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhemredux/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhemredux/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "halloween2016",
-        "name":  "halloween2016",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/halloween2016/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/halloween2016/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "happywheels",
-        "name":  "happywheels",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/happywheels/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/happywheels/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "helixjump",
-        "name":  "helixjump",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/helixjump/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/helixjump/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hexgl",
-        "name":  "hexgl",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hexgl/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hexgl/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hextris",
-        "name":  "hextris",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hextris/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hextris/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hillclimbracing2",
-        "name":  "hillclimbracing2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hillclimbracing2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hillclimbracing2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "holeio",
-        "name":  "holeio",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/holeio/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/holeio/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "idlebreakout",
-        "name":  "idlebreakout",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/idlebreakout/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/idlebreakout/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "inf",
-        "name":  "inf",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/inf/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/inf/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "infiltratingtheairship",
-        "name":  "infiltratingtheairship",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/infiltratingtheairship/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/infiltratingtheairship/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "iwbtc",
-        "name":  "iwbtc",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/iwbtc/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/iwbtc/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jetpackjoyride",
-        "name":  "jetpackjoyride",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/jetpackjoyride/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/jetpackjoyride/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "justfalllol",
-        "name":  "justfalllol",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/justfalllol/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/justfalllol/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "knifehit",
-        "name":  "knifehit",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/knifehit/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/knifehit/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "lasthorizon",
-        "name":  "lasthorizon",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lasthorizon/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lasthorizon/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "lazyjump3d",
-        "name":  "lazyjump3d",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lazyjump3d/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lazyjump3d/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "learntofly",
-        "name":  "learntofly",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "learntofly2",
-        "name":  "learntofly2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "learntoflyidle",
-        "name":  "learntoflyidle",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntoflyidle/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntoflyidle/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "linerider",
-        "name":  "linerider",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/linerider/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/linerider/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "littlealchemy",
-        "name":  "littlealchemy",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/littlealchemy/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/littlealchemy/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "lowsadventures2",
-        "name":  "lowsadventures2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lowsadventures2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lowsadventures2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "madalincars",
-        "name":  "madalincars",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/madalincars/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/madalincars/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mario",
-        "name":  "mario",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mario/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mario/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mcclassic",
-        "name":  "mcclassic",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mcclassic/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mcclassic/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "metroidzeromission",
-        "name":  "metroidzeromission",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/metroidzeromission/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/metroidzeromission/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "minecraft-tower-defence-2",
-        "name":  "minecraft tower defence 2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minecraft-tower-defence-2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minecraft-tower-defence-2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "minesweeper",
-        "name":  "minesweeper",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minesweeper/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minesweeper/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "monkeymart",
-        "name":  "monkeymart",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monkeymart/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monkeymart/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "monstertracks",
-        "name":  "monstertracks",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monstertracks/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monstertracks/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3m",
-        "name":  "motox3m",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3m-pool",
-        "name":  "motox3m pool",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-pool/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-pool/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3m-spooky",
-        "name":  "motox3m spooky",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-spooky/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-spooky/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "motox3m-winter",
-        "name":  "motox3m winter",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-winter/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-winter/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ngon",
-        "name":  "ngon",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ngon/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ngon/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "nutsim",
-        "name":  "nutsim",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/nutsim/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/nutsim/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ocarinaoftime",
-        "name":  "ocarinaoftime",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ocarinaoftime/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ocarinaoftime/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "offline-mc",
-        "name":  "offline mc",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offline-mc/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offline-mc/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "offlineparadise",
-        "name":  "offlineparadise",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offlineparadise/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offlineparadise/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "online-mc",
-        "name":  "online mc",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/online-mc/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/online-mc/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "osu",
-        "name":  "osu",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osu/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osu/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "osumania",
-        "name":  "osumania",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osumania/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osumania/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo",
-        "name":  "ovo",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ovo/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ovo/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pacman",
-        "name":  "pacman",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pacman/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pacman/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pandemic",
-        "name":  "pandemic",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pandemic2",
-        "name":  "pandemic2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papasburgeria",
-        "name":  "papasburgeria",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasburgeria/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasburgeria/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papasfreezeria",
-        "name":  "papasfreezeria",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasfreezeria/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasfreezeria/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "papaspizzeria",
-        "name":  "papaspizzeria",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papaspizzeria/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papaspizzeria/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "paperio",
-        "name":  "paperio",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/paperio/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/paperio/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pi",
-        "name":  "pi",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pi/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pi/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pizzatower",
-        "name":  "pizzatower",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pizzatower/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pizzatower/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon",
-        "name":  "pokemon",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pong",
-        "name":  "pong",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pong/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pong/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pool",
-        "name":  "pool",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pool/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pool/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "poom",
-        "name":  "poom",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/poom/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/poom/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pre",
-        "name":  "pre",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pre/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pre/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "redball3",
-        "name":  "redball3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "redball4",
-        "name":  "redball4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "redball4vol2",
-        "name":  "redball4vol2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "redball4vol3",
-        "name":  "redball4vol3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "retrobowl",
-        "name":  "retrobowl",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowl/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowl/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "retrobowlcollege",
-        "name":  "retrobowlcollege",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowlcollege/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowlcollege/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschool",
-        "name":  "riddleschool",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschool2",
-        "name":  "riddleschool2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschool3",
-        "name":  "riddleschool3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschool4",
-        "name":  "riddleschool4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschool5",
-        "name":  "riddleschool5",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool5/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool5/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschooltransfer",
-        "name":  "riddleschooltransfer",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "riddleschooltransfer2",
-        "name":  "riddleschooltransfer2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "risehigher",
-        "name":  "risehigher",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/risehigher/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/risehigher/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rocketleague",
-        "name":  "rocketleague",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rocketleague/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rocketleague/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rooftopsnipers",
-        "name":  "rooftopsnipers",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rooftopsnipers2",
-        "name":  "rooftopsnipers2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ruffle",
-        "name":  "ruffle",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ruffle/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ruffle/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run",
-        "name":  "run",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run2",
-        "name":  "run2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run3",
-        "name":  "run3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "russiancardriver",
-        "name":  "russiancardriver",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/russiancardriver/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/russiancardriver/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sand",
-        "name":  "sand",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sand/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sand/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sandtrix",
-        "name":  "sandtrix",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sandtrix/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sandtrix/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "shadow",
-        "name":  "shadow",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/shadow/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/shadow/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "skibiditoilet",
-        "name":  "skibiditoilet",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoilet/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoilet/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "skibiditoiletattack",
-        "name":  "skibiditoiletattack",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoiletattack/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoiletattack/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "skills",
-        "name":  "skills",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skills/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skills/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope",
-        "name":  "slope",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope2",
-        "name":  "slope2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope3",
-        "name":  "slope3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope-ball",
-        "name":  "slope ball",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope-ball/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope-ball/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snake",
-        "name":  "snake",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snake/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snake/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snow",
-        "name":  "snow",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snow/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snow/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snowrider3d",
-        "name":  "snowrider3d",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snowrider3d/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snowrider3d/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "soccerrandom",
-        "name":  "soccerrandom",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "solitaire",
-        "name":  "solitaire",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/solitaire/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/solitaire/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "soundboard",
-        "name":  "soundboard",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soundboard/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soundboard/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "space",
-        "name":  "space",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/space/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/space/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "spankthemonkey",
-        "name":  "spankthemonkey",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/spankthemonkey/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/spankthemonkey/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sprinter",
-        "name":  "sprinter",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sprinter/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sprinter/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stack",
-        "name":  "stack",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stack/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stack/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stealingthediamond",
-        "name":  "stealingthediamond",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stealingthediamond/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stealingthediamond/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickmanboost",
-        "name":  "stickmanboost",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanboost/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanboost/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickmanclimb",
-        "name":  "stickmanclimb",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanclimb/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanclimb/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickmangolf",
-        "name":  "stickmangolf",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmangolf/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmangolf/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "stickman-hook",
-        "name":  "stickman hook",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickman-hook/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickman-hook/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "subway-surfers-ny",
-        "name":  "subway surfers ny",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/subway-surfers-ny/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/subway-surfers-ny/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "superhot",
-        "name":  "superhot",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/superhot/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/superhot/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "supermario64",
-        "name":  "supermario64",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermario64/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermario64/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "supermeatboy",
-        "name":  "supermeatboy",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermeatboy/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermeatboy/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "supersmashbros",
-        "name":  "supersmashbros",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashbros/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashbros/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "supersmashflash",
-        "name":  "supersmashflash",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashflash/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashflash/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tabs",
-        "name":  "tabs",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tabs/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tabs/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "templerun2",
-        "name":  "templerun2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/templerun2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/templerun2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tetris",
-        "name":  "tetris",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tetris/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tetris/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thefinalearth2",
-        "name":  "thefinalearth2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thefinalearth2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thefinalearth2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "theimpossiblegame",
-        "name":  "theimpossiblegame",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblegame/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblegame/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "theimpossiblequiz",
-        "name":  "theimpossiblequiz",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblequiz/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblequiz/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thereisnogame",
-        "name":  "thereisnogame",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thereisnogame/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thereisnogame/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thirtydollarwebsite",
-        "name":  "thirtydollarwebsite",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thirtydollarwebsite/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thirtydollarwebsite/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thisistheonlylevel",
-        "name":  "thisistheonlylevel",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "thisistheonlylevel2",
-        "name":  "thisistheonlylevel2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "timeshooter1",
-        "name":  "timeshooter1",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter1/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter1/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "timeshooter2",
-        "name":  "timeshooter2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "timeshooter3",
-        "name":  "timeshooter3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tinyfishing",
-        "name":  "tinyfishing",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tinyfishing/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tinyfishing/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "townscaper",
-        "name":  "townscaper",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/townscaper/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/townscaper/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tron",
-        "name":  "tron",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tron/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tron/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tu46",
-        "name":  "tu46",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu46/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu46/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tu95",
-        "name":  "tu95",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu95/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu95/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tube-jumpers",
-        "name":  "tube jumpers",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tube-jumpers/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tube-jumpers/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tunnelrush",
-        "name":  "tunnelrush",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tunnelrush/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tunnelrush/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "turbowarp",
-        "name":  "turbowarp",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/turbowarp/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/turbowarp/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "universal-paperclips",
-        "name":  "universal paperclips",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/universal-paperclips/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/universal-paperclips/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex",
-        "name":  "vex",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex2",
-        "name":  "vex2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex3",
-        "name":  "vex3",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex3/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex3/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex4",
-        "name":  "vex4",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex4/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex4/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex5",
-        "name":  "vex5",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex5/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex5/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex6",
-        "name":  "vex6",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex6/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex6/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "vex7",
-        "name":  "vex7",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex7/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex7/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wallsmash",
-        "name":  "wallsmash",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wallsmash/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wallsmash/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "watermelongame",
-        "name":  "watermelongame",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/watermelongame/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/watermelongame/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wbwwb",
-        "name":  "wbwwb",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wbwwb/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wbwwb/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "weavesilk",
-        "name":  "weavesilk",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/weavesilk/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/weavesilk/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "webretro",
-        "name":  "webretro",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/webretro/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/webretro/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "win11",
-        "name":  "win11",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/win11/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/win11/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wordle",
-        "name":  "wordle",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordle/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordle/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "wordlebot",
-        "name":  "wordlebot",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordlebot/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordlebot/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "worldhardestgame2",
-        "name":  "worldhardestgame2",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldhardestgame2/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldhardestgame2/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "worldshardestgame",
-        "name":  "worldshardestgame",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldshardestgame/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldshardestgame/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "xp",
-        "name":  "xp",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xp/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xp/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "xx142-b2.exe",
-        "name":  "xx142 b2.exe",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xx142-b2.exe/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xx142-b2.exe/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "yohoho",
-        "name":  "yohoho",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/yohoho/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/yohoho/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "zombocalypse",
-        "name":  "zombocalypse",
-        "sourceUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/zombocalypse/index.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/selenite-cc/selenite-old/main/zombocalypse/",
-        "loadMode":  "url"
-    }
+[
+  {
+    "slug": "1on1soccer",
+    "name": "1on1soccer",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1on1soccer/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1on1soccer/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "1v1lol",
+    "name": "1v1lol",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1v1lol/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/1v1lol/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "2048",
+    "name": "2048",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2048/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2048/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "2drocketleague",
+    "name": "2drocketleague",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2drocketleague/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/2drocketleague/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "60sburgerrun",
+    "name": "60sburgerrun",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/60sburgerrun/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/60sburgerrun/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "achieveunlocked",
+    "name": "achieveunlocked",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "achieveunlocked2",
+    "name": "achieveunlocked2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/achieveunlocked2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "adarkroom",
+    "name": "adarkroom",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adarkroom/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adarkroom/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "adofai",
+    "name": "adofai",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adofai/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adofai/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "adventure-capitalist",
+    "name": "adventure capitalist",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adventure-capitalist/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adventure-capitalist/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "adventure-capitalist-old",
+    "name": "old",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adventure-capitalist/old/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/adventure-capitalist/old/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ageofwar",
+    "name": "ageofwar",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ageofwar/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ageofwar/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "amazing-rope-police",
+    "name": "amazing rope police",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amazing-rope-police/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amazing-rope-police/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "amongus",
+    "name": "amongus",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amongus/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/amongus/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "avalanche",
+    "name": "avalanche",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/avalanche/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/avalanche/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "awesometanks",
+    "name": "awesometanks",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/awesometanks/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/awesometanks/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ayun",
+    "name": "ayun",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ayun/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ayun/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badicecream",
+    "name": "badicecream",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badicecream2",
+    "name": "badicecream2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badicecream3",
+    "name": "badicecream3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badicecream3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badpiggies",
+    "name": "badpiggies",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badpiggies/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badpiggies/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "badtimesimulator",
+    "name": "badtimesimulator",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badtimesimulator/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/badtimesimulator/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baldis-basics",
+    "name": "baldis basics",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/baldis-basics/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/baldis-basics/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ballisticchickens",
+    "name": "ballisticchickens",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ballisticchickens/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ballisticchickens/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketball-stars",
+    "name": "basketball stars",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketball-stars/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketball-stars/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketbros",
+    "name": "basketbros",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketbros/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketbros/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basketrandom",
+    "name": "basketrandom",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketrandom/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketrandom/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bit-planes",
+    "name": "bit planes",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bit-planes/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bit-planes/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bitlife",
+    "name": "bitlife",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bitlife/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bitlife/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bloodtournament",
+    "name": "bloodtournament",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bloodtournament/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bloodtournament/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bobtherobber2",
+    "name": "bobtherobber2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bobtherobber2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bobtherobber2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "boxingphysics2",
+    "name": "boxingphysics2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingphysics2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingphysics2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "boxingrandom",
+    "name": "boxingrandom",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingrandom/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/boxingrandom/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "breakingthebank",
+    "name": "breakingthebank",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/breakingthebank/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/breakingthebank/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "btd",
+    "name": "btd",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "btd2",
+    "name": "btd2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "btd3",
+    "name": "btd3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "btd4",
+    "name": "btd4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "btd5",
+    "name": "btd5",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd5/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd5/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "btd6",
+    "name": "btd6",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd6/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/btd6/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bubbleshooter",
+    "name": "bubbleshooter",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bubbleshooter/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/bubbleshooter/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "burgerandfrights",
+    "name": "burgerandfrights",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burgerandfrights/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burgerandfrights/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "burritobison",
+    "name": "burritobison",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burritobison/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/burritobison/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "celeste",
+    "name": "celeste",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/celeste/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/celeste/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cell-machine",
+    "name": "cell machine",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cell-machine/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cell-machine/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "championisland",
+    "name": "championisland",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/championisland/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/championisland/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "chess",
+    "name": "chess",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chess/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chess/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "chibiknight",
+    "name": "chibiknight",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chibiknight/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/chibiknight/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "circloo",
+    "name": "circloo",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/circloo/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/circloo/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "clickerheroes",
+    "name": "clickerheroes",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/clickerheroes/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/clickerheroes/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cluster-rush",
+    "name": "cluster rush",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cluster-rush/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cluster-rush/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cmm-client",
+    "name": "cmm client",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cmm-client/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cmm-client/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "colorswitch",
+    "name": "colorswitch",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/colorswitch/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/colorswitch/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "commodoreclicker",
+    "name": "commodoreclicker",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/commodoreclicker/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/commodoreclicker/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cookieclicker",
+    "name": "cookieclicker",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cookieclicker/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cookieclicker/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crossyroad",
+    "name": "crossyroad",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/crossyroad/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/crossyroad/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "csgoclicker",
+    "name": "csgoclicker",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/csgoclicker/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/csgoclicker/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cubefield",
+    "name": "cubefield",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cubefield/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cubefield/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cuttherope",
+    "name": "cuttherope",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cuttherope-holiday",
+    "name": "cuttherope holiday",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope-holiday/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/cuttherope-holiday/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dadish",
+    "name": "dadish",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dadish2",
+    "name": "dadish2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dadish3",
+    "name": "dadish3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dadish3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dante",
+    "name": "dante",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dante/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dante/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deal",
+    "name": "deal",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/deal/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/deal/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "death-run-3d",
+    "name": "death run 3d",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/death-run-3d/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/death-run-3d/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dino",
+    "name": "dino",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dino/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dino/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dogeminer",
+    "name": "dogeminer",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dogeminer/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dogeminer/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doodlejump",
+    "name": "doodlejump",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doodlejump/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doodlejump/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doom",
+    "name": "doom",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doom/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/doom/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drag",
+    "name": "drag",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drag/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drag/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dragonballdevolution",
+    "name": "dragonballdevolution",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dragonballdevolution/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/dragonballdevolution/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drift-boss",
+    "name": "drift boss",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drift-boss/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drift-boss/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drifthunters",
+    "name": "drifthunters",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drifthunters/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drifthunters/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drivemad",
+    "name": "drivemad",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drivemad/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/drivemad/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife1",
+    "name": "ducklife1",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife1-flash",
+    "name": "flash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/flash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/flash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife1-unity",
+    "name": "unity",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/unity/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife1/unity/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife2",
+    "name": "ducklife2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife2-flash",
+    "name": "flash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/flash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/flash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife2-unity",
+    "name": "unity",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/unity/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife2/unity/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife3",
+    "name": "ducklife3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife3-flash",
+    "name": "flash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/flash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/flash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife3-unity",
+    "name": "unity",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/unity/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife3/unity/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife4",
+    "name": "ducklife4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife4-flash",
+    "name": "flash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/flash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/flash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife4-unity",
+    "name": "unity",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/unity/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife4/unity/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife5",
+    "name": "ducklife5",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife5/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife5/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ducklife6",
+    "name": "ducklife6",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife6/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ducklife6/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "emulatorjs",
+    "name": "emulatorjs",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/emulatorjs/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/emulatorjs/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "escapingtheprison",
+    "name": "escapingtheprison",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/escapingtheprison/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/escapingtheprison/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "factoryballs",
+    "name": "factoryballs",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballs/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballs/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "factoryballsforever",
+    "name": "factoryballsforever",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballsforever/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/factoryballsforever/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fancypantsadventures",
+    "name": "fancypantsadventures",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fancypantsadventures2",
+    "name": "fancypantsadventures2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fancypantsadventures2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fireboywatergirl",
+    "name": "fireboywatergirl",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fireboywatergirl2",
+    "name": "fireboywatergirl2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fireboywatergirl3",
+    "name": "fireboywatergirl3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fireboywatergirl4",
+    "name": "fireboywatergirl4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fireboywatergirl4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "flappybird",
+    "name": "flappybird",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappybird/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappybird/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "flappyplane",
+    "name": "flappyplane",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappyplane/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flappyplane/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fleeingthecomplex",
+    "name": "fleeingthecomplex",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fleeingthecomplex/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fleeingthecomplex/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "flippyfish",
+    "name": "flippyfish",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flippyfish/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/flippyfish/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fluidsim",
+    "name": "fluidsim",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fluidsim/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fluidsim/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf",
+    "name": "fnaf",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf2",
+    "name": "fnaf2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf3",
+    "name": "fnaf3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf4",
+    "name": "fnaf4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fnaf4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fridaynightfunkin",
+    "name": "fridaynightfunkin",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fridaynightfunkin/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fridaynightfunkin/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fruitninja",
+    "name": "fruitninja",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fruitninja/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/fruitninja/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "funnyballgame",
+    "name": "funnyballgame",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyballgame/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyballgame/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "funnymadracing",
+    "name": "funnymadracing",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnymadracing/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnymadracing/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "funnyshooter",
+    "name": "funnyshooter",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "funnyshooter2",
+    "name": "funnyshooter2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/funnyshooter2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gamemaker",
+    "name": "gamemaker",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gamemaker/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gamemaker/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gba",
+    "name": "gba",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gba/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gba/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gdlite",
+    "name": "gdlite",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gdlite/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gdlite/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "geometrydash",
+    "name": "geometrydash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometrydash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometrydash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "geometryrash",
+    "name": "geometryrash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometryrash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/geometryrash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "getawayshooter",
+    "name": "getawayshooter",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/getawayshooter/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/getawayshooter/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "golddiggerfrvr",
+    "name": "golddiggerfrvr",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/golddiggerfrvr/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/golddiggerfrvr/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "guiltygear",
+    "name": "guiltygear",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/guiltygear/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/guiltygear/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gunmayhem",
+    "name": "gunmayhem",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gunmayhem2",
+    "name": "gunmayhem2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhem2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gunmayhemredux",
+    "name": "gunmayhemredux",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhemredux/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/gunmayhemredux/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "halloween2016",
+    "name": "halloween2016",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/halloween2016/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/halloween2016/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "happywheels",
+    "name": "happywheels",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/happywheels/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/happywheels/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "helixjump",
+    "name": "helixjump",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/helixjump/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/helixjump/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hexgl",
+    "name": "hexgl",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hexgl/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hexgl/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hextris",
+    "name": "hextris",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hextris/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hextris/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hillclimbracing2",
+    "name": "hillclimbracing2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hillclimbracing2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/hillclimbracing2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "holeio",
+    "name": "holeio",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/holeio/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/holeio/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "idlebreakout",
+    "name": "idlebreakout",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/idlebreakout/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/idlebreakout/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "inf",
+    "name": "inf",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/inf/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/inf/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "infiltratingtheairship",
+    "name": "infiltratingtheairship",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/infiltratingtheairship/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/infiltratingtheairship/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "iwbtc",
+    "name": "iwbtc",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/iwbtc/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/iwbtc/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jetpackjoyride",
+    "name": "jetpackjoyride",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/jetpackjoyride/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/jetpackjoyride/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "justfalllol",
+    "name": "justfalllol",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/justfalllol/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/justfalllol/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "knifehit",
+    "name": "knifehit",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/knifehit/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/knifehit/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "lasthorizon",
+    "name": "lasthorizon",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lasthorizon/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lasthorizon/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "lazyjump3d",
+    "name": "lazyjump3d",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lazyjump3d/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lazyjump3d/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "learntofly",
+    "name": "learntofly",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "learntofly2",
+    "name": "learntofly2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "learntoflyidle",
+    "name": "learntoflyidle",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntoflyidle/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntoflyidle/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "linerider",
+    "name": "linerider",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/linerider/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/linerider/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "littlealchemy",
+    "name": "littlealchemy",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/littlealchemy/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/littlealchemy/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "lowsadventures2",
+    "name": "lowsadventures2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lowsadventures2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/lowsadventures2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "madalincars",
+    "name": "madalincars",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/madalincars/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/madalincars/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mario",
+    "name": "mario",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mario/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mario/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mcclassic",
+    "name": "mcclassic",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mcclassic/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/mcclassic/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "metroidzeromission",
+    "name": "metroidzeromission",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/metroidzeromission/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/metroidzeromission/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "minecraft-tower-defence-2",
+    "name": "minecraft tower defence 2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minecraft-tower-defence-2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minecraft-tower-defence-2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "minesweeper",
+    "name": "minesweeper",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minesweeper/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/minesweeper/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "monkeymart",
+    "name": "monkeymart",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monkeymart/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monkeymart/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "monstertracks",
+    "name": "monstertracks",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monstertracks/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/monstertracks/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3m",
+    "name": "motox3m",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3m-pool",
+    "name": "motox3m pool",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-pool/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-pool/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3m-spooky",
+    "name": "motox3m spooky",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-spooky/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-spooky/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "motox3m-winter",
+    "name": "motox3m winter",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-winter/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/motox3m-winter/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ngon",
+    "name": "ngon",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ngon/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ngon/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "nutsim",
+    "name": "nutsim",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/nutsim/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/nutsim/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ocarinaoftime",
+    "name": "ocarinaoftime",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ocarinaoftime/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ocarinaoftime/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "offline-mc",
+    "name": "offline mc",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offline-mc/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offline-mc/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "offlineparadise",
+    "name": "offlineparadise",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offlineparadise/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/offlineparadise/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "online-mc",
+    "name": "online mc",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/online-mc/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/online-mc/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "osu",
+    "name": "osu",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osu/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osu/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "osumania",
+    "name": "osumania",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osumania/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/osumania/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo",
+    "name": "ovo",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ovo/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ovo/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pacman",
+    "name": "pacman",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pacman/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pacman/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pandemic",
+    "name": "pandemic",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pandemic2",
+    "name": "pandemic2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pandemic2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papasburgeria",
+    "name": "papasburgeria",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasburgeria/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasburgeria/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papasfreezeria",
+    "name": "papasfreezeria",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasfreezeria/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papasfreezeria/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "papaspizzeria",
+    "name": "papaspizzeria",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papaspizzeria/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/papaspizzeria/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "paperio",
+    "name": "paperio",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/paperio/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/paperio/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pi",
+    "name": "pi",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pi/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pi/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pizzatower",
+    "name": "pizzatower",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pizzatower/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pizzatower/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon",
+    "name": "pokemon",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-blue",
+    "name": "blue",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/blue/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/blue/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-crystal",
+    "name": "crystal",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/crystal/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/crystal/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-emerald",
+    "name": "emerald",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/emerald/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/emerald/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-firered",
+    "name": "firered",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/firered/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/firered/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-gold",
+    "name": "gold",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/gold/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/gold/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-leafgreen",
+    "name": "leafgreen",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/leafgreen/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/leafgreen/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-red",
+    "name": "red",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/red/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/red/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-ruby",
+    "name": "ruby",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/ruby/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/ruby/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-sapphire",
+    "name": "sapphire",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/sapphire/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/sapphire/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-silver",
+    "name": "silver",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/silver/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/silver/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-yellow",
+    "name": "yellow",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/yellow/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pokemon/yellow/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pong",
+    "name": "pong",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pong/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pong/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pool",
+    "name": "pool",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pool/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pool/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "poom",
+    "name": "poom",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/poom/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/poom/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pre",
+    "name": "pre",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pre/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/pre/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "redball3",
+    "name": "redball3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "redball4",
+    "name": "redball4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "redball4vol2",
+    "name": "redball4vol2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "redball4vol3",
+    "name": "redball4vol3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/redball4vol3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "retrobowl",
+    "name": "retrobowl",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowl/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowl/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "retrobowlcollege",
+    "name": "retrobowlcollege",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowlcollege/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/retrobowlcollege/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschool",
+    "name": "riddleschool",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschool2",
+    "name": "riddleschool2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschool3",
+    "name": "riddleschool3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschool4",
+    "name": "riddleschool4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschool5",
+    "name": "riddleschool5",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool5/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool5/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschooltransfer",
+    "name": "riddleschooltransfer",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "riddleschooltransfer2",
+    "name": "riddleschooltransfer2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschooltransfer2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "risehigher",
+    "name": "risehigher",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/risehigher/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/risehigher/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rocketleague",
+    "name": "rocketleague",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rocketleague/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rocketleague/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rooftopsnipers",
+    "name": "rooftopsnipers",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rooftopsnipers2",
+    "name": "rooftopsnipers2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/rooftopsnipers2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ruffle",
+    "name": "ruffle",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ruffle/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ruffle/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run",
+    "name": "run",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run2",
+    "name": "run2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run3",
+    "name": "run3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/run3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "russiancardriver",
+    "name": "russiancardriver",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/russiancardriver/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/russiancardriver/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sand",
+    "name": "sand",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sand/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sand/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sandtrix",
+    "name": "sandtrix",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sandtrix/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sandtrix/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "shadow",
+    "name": "shadow",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/shadow/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/shadow/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skibiditoilet",
+    "name": "skibiditoilet",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoilet/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoilet/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skibiditoiletattack",
+    "name": "skibiditoiletattack",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoiletattack/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skibiditoiletattack/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "skills",
+    "name": "skills",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skills/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/skills/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope",
+    "name": "slope",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope-ball",
+    "name": "slope ball",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope-ball/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope-ball/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope2",
+    "name": "slope2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope3",
+    "name": "slope3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snake",
+    "name": "snake",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snake/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snake/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snow",
+    "name": "snow",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snow/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snow/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snowrider3d",
+    "name": "snowrider3d",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snowrider3d/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/snowrider3d/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "soccerrandom",
+    "name": "soccerrandom",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soccerrandom/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "solitaire",
+    "name": "solitaire",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/solitaire/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/solitaire/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "soundboard",
+    "name": "soundboard",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soundboard/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/soundboard/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "space",
+    "name": "space",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/space/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/space/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "spankthemonkey",
+    "name": "spankthemonkey",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/spankthemonkey/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/spankthemonkey/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sprinter",
+    "name": "sprinter",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sprinter/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/sprinter/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stack",
+    "name": "stack",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stack/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stack/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stealingthediamond",
+    "name": "stealingthediamond",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stealingthediamond/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stealingthediamond/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickman-hook",
+    "name": "stickman hook",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickman-hook/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickman-hook/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickmanboost",
+    "name": "stickmanboost",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanboost/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanboost/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickmanclimb",
+    "name": "stickmanclimb",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanclimb/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmanclimb/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "stickmangolf",
+    "name": "stickmangolf",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmangolf/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/stickmangolf/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "subway-surfers-ny",
+    "name": "subway surfers ny",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/subway-surfers-ny/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/subway-surfers-ny/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "superhot",
+    "name": "superhot",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/superhot/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/superhot/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "supermario64",
+    "name": "supermario64",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermario64/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermario64/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "supermeatboy",
+    "name": "supermeatboy",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermeatboy/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supermeatboy/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "supersmashbros",
+    "name": "supersmashbros",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashbros/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashbros/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "supersmashflash",
+    "name": "supersmashflash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashflash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/supersmashflash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tabs",
+    "name": "tabs",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tabs/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tabs/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "templerun2",
+    "name": "templerun2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/templerun2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/templerun2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tetris",
+    "name": "tetris",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tetris/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tetris/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thefinalearth2",
+    "name": "thefinalearth2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thefinalearth2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thefinalearth2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "theimpossiblegame",
+    "name": "theimpossiblegame",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblegame/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblegame/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "theimpossiblequiz",
+    "name": "theimpossiblequiz",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblequiz/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/theimpossiblequiz/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thereisnogame",
+    "name": "thereisnogame",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thereisnogame/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thereisnogame/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thirtydollarwebsite",
+    "name": "thirtydollarwebsite",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thirtydollarwebsite/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thirtydollarwebsite/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thisistheonlylevel",
+    "name": "thisistheonlylevel",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "thisistheonlylevel2",
+    "name": "thisistheonlylevel2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/thisistheonlylevel2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "timeshooter1",
+    "name": "timeshooter1",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter1/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter1/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "timeshooter2",
+    "name": "timeshooter2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "timeshooter3",
+    "name": "timeshooter3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/timeshooter3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tinyfishing",
+    "name": "tinyfishing",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tinyfishing/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tinyfishing/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "townscaper",
+    "name": "townscaper",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/townscaper/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/townscaper/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tron",
+    "name": "tron",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tron/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tron/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tu46",
+    "name": "tu46",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu46/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu46/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tu95",
+    "name": "tu95",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu95/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tu95/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tube-jumpers",
+    "name": "tube jumpers",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tube-jumpers/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tube-jumpers/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tunnelrush",
+    "name": "tunnelrush",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tunnelrush/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/tunnelrush/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "turbowarp",
+    "name": "turbowarp",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/turbowarp/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/turbowarp/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "universal-paperclips",
+    "name": "universal paperclips",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/universal-paperclips/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/universal-paperclips/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex",
+    "name": "vex",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex2",
+    "name": "vex2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex3",
+    "name": "vex3",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex3/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex3/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex4",
+    "name": "vex4",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex4/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex4/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex5",
+    "name": "vex5",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex5/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex5/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex6",
+    "name": "vex6",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex6/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex6/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "vex7",
+    "name": "vex7",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex7/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/vex7/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wallsmash",
+    "name": "wallsmash",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wallsmash/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wallsmash/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "watermelongame",
+    "name": "watermelongame",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/watermelongame/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/watermelongame/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wbwwb",
+    "name": "wbwwb",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wbwwb/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wbwwb/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "weavesilk",
+    "name": "weavesilk",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/weavesilk/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/weavesilk/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "webretro",
+    "name": "webretro",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/webretro/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/webretro/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "win11",
+    "name": "win11",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/win11/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/win11/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wordle",
+    "name": "wordle",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordle/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordle/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "wordlebot",
+    "name": "wordlebot",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordlebot/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/wordlebot/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "worldhardestgame2",
+    "name": "worldhardestgame2",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldhardestgame2/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldhardestgame2/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "worldshardestgame",
+    "name": "worldshardestgame",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldshardestgame/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/worldshardestgame/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "xp",
+    "name": "xp",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xp/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xp/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "xx142-b2.exe",
+    "name": "xx142 b2.exe",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xx142-b2.exe/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/xx142-b2.exe/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "yohoho",
+    "name": "yohoho",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/yohoho/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/yohoho/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "zombocalypse",
+    "name": "zombocalypse",
+    "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/zombocalypse/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/zombocalypse/",
+    "loadMode": "url"
+  }
 ]

@@ -1,3 +1,9 @@
+param(
+  [string[]]$SelectedLibraries = @()
+)
+
+$SelectedLibraries = @($SelectedLibraries | Where-Object { -not [string]::IsNullOrWhiteSpace($_) } | ForEach-Object { $_.ToLowerInvariant() })
+
 $ErrorActionPreference = "Stop"
 $ProgressPreference = "SilentlyContinue"
 
@@ -72,42 +78,50 @@ function Get-RemoteTree([string]$RemoteUrl, [string[]]$RefsToTry) {
 
 function Select-Paths($AllPaths, $Config) {
   $paths = @($AllPaths)
+  $picked = @()
 
   if ($Config.Mode -eq "TopLevelIndex") {
-    return @($paths | Where-Object { $_ -match $Config.Pattern })
+    $picked = @($paths | Where-Object { $_ -match $Config.Pattern })
   }
-
-  if ($Config.Mode -eq "DirectFiles") {
-    return @($paths | Where-Object { $_ -match $Config.Pattern })
+  elseif ($Config.Mode -eq "DirectFiles") {
+    $picked = @($paths | Where-Object { $_ -match $Config.Pattern })
   }
-
-  if ($Config.Mode -eq "Mixed") {
-    $picked = @()
+  elseif ($Config.Mode -eq "Mixed") {
     foreach ($pattern in $Config.Patterns) {
       $picked += @($paths | Where-Object { $_ -match $pattern })
     }
-    return @($picked | Sort-Object -Unique)
   }
-
-  if ($Config.Mode -eq "RootAndTopLevelIndex") {
-    $picked = @()
+  elseif ($Config.Mode -eq "RootAndTopLevelIndex") {
     $picked += @($paths | Where-Object { $_ -match $Config.RootPattern })
     $picked += @($paths | Where-Object { $_ -match $Config.IndexPattern })
-    if ($Config.ExcludePatterns) {
-      foreach ($pattern in $Config.ExcludePatterns) {
-        $picked = @($picked | Where-Object { $_ -notmatch $pattern })
-      }
-    }
-    return @($picked | Sort-Object -Unique)
+  }
+  else {
+    throw "Unsupported mode: $($Config.Mode)"
   }
 
-  throw "Unsupported mode: $($Config.Mode)"
+  if ($Config.ExtraPaths) {
+    foreach ($extraPath in $Config.ExtraPaths) {
+      if ($paths -contains $extraPath) {
+        $picked += $extraPath
+      }
+    }
+  }
+
+  if ($Config.ExcludePatterns) {
+    foreach ($pattern in $Config.ExcludePatterns) {
+      $picked = @($picked | Where-Object { $_ -notmatch $pattern })
+    }
+  }
+
+  return @($picked | Sort-Object -Unique)
 }
 
 function Get-EntryFromPath([string]$Path, $Config, [hashtable]$Seen) {
   $relative = $Path
   if ($Config.TrimPrefix) {
-    $relative = $relative.Substring($Config.TrimPrefix.Length)
+    if ($relative.StartsWith($Config.TrimPrefix)) {
+      $relative = $relative.Substring($Config.TrimPrefix.Length)
+    }
   }
 
   $relative = $relative.TrimStart("/")
@@ -294,6 +308,28 @@ $libraries = @(
     Ref = "main"
     Mode = "TopLevelIndex"
     Pattern = '^[^/]+/index\.html$'
+    ExtraPaths = @(
+      'adventure-capitalist/old/index.html',
+      'ducklife1/flash/index.html',
+      'ducklife1/unity/index.html',
+      'ducklife2/flash/index.html',
+      'ducklife2/unity/index.html',
+      'ducklife3/flash/index.html',
+      'ducklife3/unity/index.html',
+      'ducklife4/flash/index.html',
+      'ducklife4/unity/index.html',
+      'pokemon/blue/index.html',
+      'pokemon/crystal/index.html',
+      'pokemon/emerald/index.html',
+      'pokemon/firered/index.html',
+      'pokemon/gold/index.html',
+      'pokemon/leafgreen/index.html',
+      'pokemon/red/index.html',
+      'pokemon/ruby/index.html',
+      'pokemon/sapphire/index.html',
+      'pokemon/silver/index.html',
+      'pokemon/yellow/index.html'
+    )
     LoadMode = "url"
   },
   @{
@@ -318,8 +354,12 @@ $libraries = @(
     Owner = "aukak"
     Repo = "fyinx"
     Ref = "main"
-    Mode = "DirectFiles"
-    Pattern = '^g/[^/]+\.(html|htm)$'
+    Mode = "Mixed"
+    Patterns = @(
+      '^g/[^/]+\.(html|htm)$',
+      '^g/[^/]+/index\.(html|htm)$',
+      '^g/[^/]+/[^/]+\.(html|htm)$'
+    )
     TrimPrefix = "g/"
     LoadMode = "url"
   },
@@ -335,6 +375,14 @@ $libraries = @(
     Mode = "DirectFiles"
     Pattern = '^Pokemon HTML Games/[^/]+\.(html|htm)$'
     TrimPrefix = "Pokemon HTML Games/"
+    ExtraPaths = @(
+      'Angry Birds Halloween.html',
+      'Angry Birds Rio.html',
+      'Ant Art Tycoon.html',
+      'Saul Goodman Run.html',
+      'Scale the Depths.html',
+      'Sonic Mania.html'
+    )
     LoadMode = "url"
   },
   @{
@@ -348,6 +396,28 @@ $libraries = @(
     Ref = "main"
     Mode = "TopLevelIndex"
     Pattern = '^[^/]+/index\.html$'
+    ExtraPaths = @(
+      'adventure-capitalist/old/index.html',
+      'aviamaster/FUN.html',
+      'banana poker/game.html',
+      'blockpost/clblockpost.html',
+      'duck life 6/game.html',
+      'going balls/play.html',
+      'google-gnome/gnomes18.html',
+      'gravity/fcgravity.html',
+      'grindcraft/play.html',
+      'onebit/onebit/index.html',
+      'quake/quake.html',
+      'resizer/game.html',
+      'retro bowl/new.html',
+      'strands/strands-game.html',
+      'super-onion-boy-2/index-x.html',
+      'table tennis world tour/game.html',
+      'tag-cm/play.html',
+      'tempoverdose/tempoverdose.html',
+      'todee and todpee/play.html',
+      'ztype/play.html'
+    )
     LoadMode = "url"
   },
   @{
@@ -362,6 +432,13 @@ $libraries = @(
     Mode = "TopLevelIndex"
     Pattern = '^html/[^/]+/index\.html$'
     TrimPrefix = "html/"
+    ExtraPaths = @(
+      'html/celeste/celeste.html',
+      'html/muffin-knight/fullscreen.html',
+      'html/radius-raid/min.html',
+      'html/spaceinvaders/indexOpt.html',
+      'unity/superhot/index.html'
+    )
     LoadMode = "url"
   },
   @{
@@ -374,6 +451,24 @@ $libraries = @(
     Ref = "main"
     Mode = "TopLevelIndex"
     Pattern = '^[^/]+/index\.html$'
+    ExtraPaths = @(
+      'backrooms2d/backrooms2d.html',
+      'balldodge/balldodge.html',
+      'bonkio/bonkio.html',
+      'checkers/checkers.html',
+      'chess/chess.html',
+      'dodge/dodge.html',
+      'doom/doom.html',
+      'dumbwaystodie/dumbwaystodie.html',
+      'fantasy-dash/Fantasy Dash.html',
+      'flappy plane/Flappy Plane.html',
+      'geodashlite/geodashlite.html',
+      'goodnight-meowmie/itchwrapper.html',
+      'hellscaper/Hellscaper WebGL 4-19-23/index.html',
+      'idledice/Idle Dice.html',
+      'iron dash/Iron Dash.html',
+      'kirkaio/kirka.html'
+    )
     LoadMode = "srcdoc"
   },
   @{
@@ -510,6 +605,10 @@ $libraries = @(
 
 $sourcesPath = Join-Path $gamesRoot "sources.json"
 $sources = Get-Content -Raw $sourcesPath | ConvertFrom-Json
+
+if ($SelectedLibraries.Count -gt 0) {
+  $libraries = @($libraries | Where-Object { $SelectedLibraries -contains $_.Slug })
+}
 
 foreach ($library in $libraries) {
   Write-Output ("Generating " + $library.Slug + "...")

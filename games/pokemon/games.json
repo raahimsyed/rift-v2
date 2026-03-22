@@ -1,205 +1,247 @@
-﻿[
-    {
-        "slug":  "pokemon-arceus-legends-emerald",
-        "name":  "Pokemon Arceus Legends Emerald",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Arceus%20Legends%20Emerald.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-black",
-        "name":  "Pokemon Black",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Black.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-blue",
-        "name":  "Pokemon Blue",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Blue.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-charged-yellow",
-        "name":  "Pokemon Charged Yellow",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Charged%20Yellow.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-diamond",
-        "name":  "Pokemon Diamond",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Diamond.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-emerald",
-        "name":  "Pokemon Emerald",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-emerald-crest",
-        "name":  "Pokemon Emerald Crest",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Crest.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-emerald-extreme-randomizer",
-        "name":  "Pokemon Emerald Extreme Randomizer",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Extreme%20Randomizer.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-emerald-johto",
-        "name":  "Pokemon Emerald Johto",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Johto.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-emerald-shiny-odds-buffed",
-        "name":  "Pokemon Emerald Shiny Odds Buffed",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Shiny%20Odds%20Buffed.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-heart-gold",
-        "name":  "Pokemon Heart Gold",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Heart%20Gold.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-heart-gold-generations",
-        "name":  "Pokemon Heart Gold Generations",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Heart%20Gold%20Generations.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-leaf-green",
-        "name":  "Pokemon Leaf Green",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Leaf%20Green.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-lime",
-        "name":  "Pokemon Lime",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Lime.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-modern-emerald",
-        "name":  "Pokemon Modern Emerald",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Modern%20Emerald.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-moon-emerald",
-        "name":  "Pokemon Moon Emerald",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Moon%20Emerald.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-pearl",
-        "name":  "Pokemon Pearl",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Pearl.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-platinum",
-        "name":  "Pokemon Platinum",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Platinum.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-platinum-randomized",
-        "name":  "Pokemon Platinum Randomized",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Platinum%20Randomized.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-radical-red",
-        "name":  "Pokemon Radical Red",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Radical%20Red.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-red",
-        "name":  "Pokemon Red",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Red.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-red-sun",
-        "name":  "Pokemon Red Sun",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Red%20Sun.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-ruby",
-        "name":  "Pokemon Ruby",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Ruby.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-sapphire",
-        "name":  "Pokemon Sapphire",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Sapphire.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-soul-silver",
-        "name":  "Pokemon Soul Silver",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Soul%20Silver.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-sword-and-shield-ultimate-emerald",
-        "name":  "Pokemon Sword and Shield Ultimate Emerald",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Sword%20and%20Shield%20Ultimate%20Emerald.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-ultimate-fusion",
-        "name":  "Pokemon Ultimate Fusion",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Ultimate%20Fusion.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-white",
-        "name":  "Pokemon White",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20White.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pokemon-yellow",
-        "name":  "Pokemon Yellow",
-        "sourceUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Yellow.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
-        "loadMode":  "url"
-    }
+[
+  {
+    "slug": "angry-birds-halloween",
+    "name": "Angry Birds Halloween",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Angry%20Birds%20Halloween.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "angry-birds-rio",
+    "name": "Angry Birds Rio",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Angry%20Birds%20Rio.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ant-art-tycoon",
+    "name": "Ant Art Tycoon",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Ant%20Art%20Tycoon.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-arceus-legends-emerald",
+    "name": "Pokemon Arceus Legends Emerald",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Arceus%20Legends%20Emerald.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-black",
+    "name": "Pokemon Black",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Black.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-blue",
+    "name": "Pokemon Blue",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Blue.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-charged-yellow",
+    "name": "Pokemon Charged Yellow",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Charged%20Yellow.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-diamond",
+    "name": "Pokemon Diamond",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Diamond.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-emerald",
+    "name": "Pokemon Emerald",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-emerald-crest",
+    "name": "Pokemon Emerald Crest",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Crest.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-emerald-extreme-randomizer",
+    "name": "Pokemon Emerald Extreme Randomizer",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Extreme%20Randomizer.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-emerald-johto",
+    "name": "Pokemon Emerald Johto",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Johto.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-emerald-shiny-odds-buffed",
+    "name": "Pokemon Emerald Shiny Odds Buffed",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Emerald%20Shiny%20Odds%20Buffed.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-heart-gold",
+    "name": "Pokemon Heart Gold",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Heart%20Gold.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-heart-gold-generations",
+    "name": "Pokemon Heart Gold Generations",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Heart%20Gold%20Generations.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-leaf-green",
+    "name": "Pokemon Leaf Green",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Leaf%20Green.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-lime",
+    "name": "Pokemon Lime",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Lime.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-modern-emerald",
+    "name": "Pokemon Modern Emerald",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Modern%20Emerald.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-moon-emerald",
+    "name": "Pokemon Moon Emerald",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Moon%20Emerald.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-pearl",
+    "name": "Pokemon Pearl",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Pearl.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-platinum",
+    "name": "Pokemon Platinum",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Platinum.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-platinum-randomized",
+    "name": "Pokemon Platinum Randomized",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Platinum%20Randomized.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-radical-red",
+    "name": "Pokemon Radical Red",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Radical%20Red.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-red",
+    "name": "Pokemon Red",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Red.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-red-sun",
+    "name": "Pokemon Red Sun",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Red%20Sun.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-ruby",
+    "name": "Pokemon Ruby",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Ruby.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-sapphire",
+    "name": "Pokemon Sapphire",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Sapphire.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-soul-silver",
+    "name": "Pokemon Soul Silver",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Soul%20Silver.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-sword-and-shield-ultimate-emerald",
+    "name": "Pokemon Sword and Shield Ultimate Emerald",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Sword%20and%20Shield%20Ultimate%20Emerald.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-ultimate-fusion",
+    "name": "Pokemon Ultimate Fusion",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Ultimate%20Fusion.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-white",
+    "name": "Pokemon White",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20White.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pokemon-yellow",
+    "name": "Pokemon Yellow",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/Pokemon%20Yellow.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Pokemon%20HTML%20Games/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "saul-goodman-run",
+    "name": "Saul Goodman Run",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Saul%20Goodman%20Run.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "scale-the-depths",
+    "name": "Scale the Depths",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Scale%20the%20Depths.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic-mania",
+    "name": "Sonic Mania",
+    "sourceUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/Sonic%20Mania.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/AlexBoops/HTML-Games/main/",
+    "loadMode": "url"
+  }
 ]

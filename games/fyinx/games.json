@@ -1,688 +1,716 @@
-﻿[
-    {
-        "slug":  "10m",
-        "name":  "10m",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/10m.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "1v1",
-        "name":  "1v1",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/1v1.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "2048",
-        "name":  "2048",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/2048.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "adgac",
-        "name":  "adgac",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/adgac.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "andy",
-        "name":  "andy",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/andy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "angry",
-        "name":  "angry",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/angry.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "aswc",
-        "name":  "aswc",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/aswc.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bad",
-        "name":  "bad",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bad.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "baldi",
-        "name":  "baldi",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/baldi.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bas",
-        "name":  "bas",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bas.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "basket",
-        "name":  "basket",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/basket.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bb",
-        "name":  "bb",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bendy",
-        "name":  "bendy",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bendy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bit",
-        "name":  "bit",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bit.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "block",
-        "name":  "block",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/block.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "blox",
-        "name":  "blox",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/blox.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bm",
-        "name":  "bm",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "bs",
-        "name":  "bs",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/bs.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "buck",
-        "name":  "buck",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/buck.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "burrito",
-        "name":  "burrito",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/burrito.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cc3d",
-        "name":  "cc3d",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/cc3d.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "celeste",
-        "name":  "celeste",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/celeste.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "clash",
-        "name":  "clash",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/clash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "co09",
-        "name":  "co09",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/co09.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cookie",
-        "name":  "cookie",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/cookie.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "crossy",
-        "name":  "crossy",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/crossy.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cup",
-        "name":  "cup",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/cup.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "cut",
-        "name":  "cut",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/cut.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "dead",
-        "name":  "dead",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/dead.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "deltra",
-        "name":  "deltra",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/deltra.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doge",
-        "name":  "doge",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/doge.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "donot",
-        "name":  "donot",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/donot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doom",
-        "name":  "doom",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/doom.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "doom2",
-        "name":  "doom2",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/doom2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "drift",
-        "name":  "drift",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/drift.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "duck",
-        "name":  "duck",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/duck.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "duck2",
-        "name":  "duck2",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/duck2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "duck3",
-        "name":  "duck3",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/duck3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "escape",
-        "name":  "escape",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/escape.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fallout",
-        "name":  "fallout",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/fallout.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fb",
-        "name":  "fb",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/fb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnaf",
-        "name":  "fnaf",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/fnaf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "fnf",
-        "name":  "fnf",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/fnf.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "get",
-        "name":  "get",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/get.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "granny",
-        "name":  "granny",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/granny.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gtag",
-        "name":  "gtag",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/gtag.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "gun",
-        "name":  "gun",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/gun.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "half",
-        "name":  "half",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/half.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hk",
-        "name":  "hk",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/hk.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hlm",
-        "name":  "hlm",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/hlm.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "hook",
-        "name":  "hook",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/hook.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "house",
-        "name":  "house",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/house.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "idle",
-        "name":  "idle",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/idle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "jet",
-        "name":  "jet",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/jet.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "kind",
-        "name":  "kind",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/kind.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "lacey",
-        "name":  "lacey",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/lacey.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "mc",
-        "name":  "mc",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/mc.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "moto",
-        "name":  "moto",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/moto.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "nubby",
-        "name":  "nubby",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/nubby.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "omo",
-        "name":  "omo",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/omo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "oneshot",
-        "name":  "oneshot",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/oneshot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo",
-        "name":  "ovo",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo2",
-        "name":  "ovo2",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ovo3",
-        "name":  "ovo3",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "peggle",
-        "name":  "peggle",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/peggle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pizza",
-        "name":  "pizza",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/pizza.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ppg",
-        "name":  "ppg",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ppg.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "pvz",
-        "name":  "pvz",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/pvz.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "raft",
-        "name":  "raft",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/raft.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ragdoll",
-        "name":  "ragdoll",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ragdoll.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ragdoll2",
-        "name":  "ragdoll2",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ragdoll2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "raldi",
-        "name":  "raldi",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/raldi.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rap",
-        "name":  "rap",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/rap.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rb",
-        "name":  "rb",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/rb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rbc",
-        "name":  "rbc",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/rbc.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "repo",
-        "name":  "repo",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/repo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rid1",
-        "name":  "rid1",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/rid1.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rid2",
-        "name":  "rid2",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/rid2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "rid3",
-        "name":  "rid3",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/rid3.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "roof",
-        "name":  "roof",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/roof.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "roof2",
-        "name":  "roof2",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/roof2.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "run",
-        "name":  "run",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/run.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slime",
-        "name":  "slime",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/slime.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "slope",
-        "name":  "slope",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/slope.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sm64",
-        "name":  "sm64",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/sm64.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "smash",
-        "name":  "smash",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/smash.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "snow",
-        "name":  "snow",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/snow.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "sonic",
-        "name":  "sonic",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/sonic.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "space",
-        "name":  "space",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/space.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "subway",
-        "name":  "subway",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/subway.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "superhot",
-        "name":  "superhot",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/superhot.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tattle",
-        "name":  "tattle",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/tattle.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "terraria",
-        "name":  "terraria",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/terraria.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tomb",
-        "name":  "tomb",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/tomb.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "tomo",
-        "name":  "tomo",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/tomo.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "ult",
-        "name":  "ult",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/ult.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "webfishing",
-        "name":  "webfishing",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/webfishing.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    },
-    {
-        "slug":  "yandere",
-        "name":  "yandere",
-        "sourceUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/yandere.html",
-        "sourceBaseUrl":  "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-        "loadMode":  "url"
-    }
+[
+  {
+    "slug": "10m",
+    "name": "10m",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/10m.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "1v1",
+    "name": "1v1",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/1v1.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "2048",
+    "name": "2048",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/2048.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "adgac",
+    "name": "adgac",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/adgac.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "andy",
+    "name": "andy",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/andy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "angry",
+    "name": "angry",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/angry.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "aswc",
+    "name": "aswc",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/aswc.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bad",
+    "name": "bad",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bad.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "balatro",
+    "name": "balatro",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/balatro/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/balatro/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "baldi",
+    "name": "baldi",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/baldi.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bas",
+    "name": "bas",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bas.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "basket",
+    "name": "basket",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/basket.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bb",
+    "name": "bb",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bendy",
+    "name": "bendy",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bendy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bit",
+    "name": "bit",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bit.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "block",
+    "name": "block",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/block.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "blox",
+    "name": "blox",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/blox.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bm",
+    "name": "bm",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "bs",
+    "name": "bs",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/bs.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "buck",
+    "name": "buck",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/buck.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "burrito",
+    "name": "burrito",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/burrito.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cc3d",
+    "name": "cc3d",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/cc3d.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "celeste",
+    "name": "celeste",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/celeste.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "clash",
+    "name": "clash",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/clash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "co09",
+    "name": "co09",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/co09.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cookie",
+    "name": "cookie",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/cookie.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "crossy",
+    "name": "crossy",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/crossy.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cup",
+    "name": "cup",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/cup.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "cut",
+    "name": "cut",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/cut.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "dead",
+    "name": "dead",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/dead.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deltarune",
+    "name": "deltarune",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/deltarune/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/deltarune/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "deltra",
+    "name": "deltra",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/deltra.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doge",
+    "name": "doge",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/doge.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "donot",
+    "name": "donot",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/donot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doom",
+    "name": "doom",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/doom.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "doom2",
+    "name": "doom2",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/doom2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "drift",
+    "name": "drift",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/drift.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "duck",
+    "name": "duck",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/duck.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "duck2",
+    "name": "duck2",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/duck2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "duck3",
+    "name": "duck3",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/duck3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "escape",
+    "name": "escape",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/escape.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fallout",
+    "name": "fallout",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/fallout.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fb",
+    "name": "fb",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/fb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnaf",
+    "name": "fnaf",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/fnaf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "fnf",
+    "name": "fnf",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/fnf.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "get",
+    "name": "get",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/get.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "granny",
+    "name": "granny",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/granny.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gtag",
+    "name": "gtag",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/gtag.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "gun",
+    "name": "gun",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/gun.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "half",
+    "name": "half",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/half.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hk",
+    "name": "hk",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/hk.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hlm",
+    "name": "hlm",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/hlm.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "hook",
+    "name": "hook",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/hook.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "house",
+    "name": "house",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/house.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "idle",
+    "name": "idle",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/idle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "jet",
+    "name": "jet",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/jet.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "kind",
+    "name": "kind",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/kind.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "lacey",
+    "name": "lacey",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/lacey.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "mc",
+    "name": "mc",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/mc.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "moto",
+    "name": "moto",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/moto.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "nubby",
+    "name": "nubby",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/nubby.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "omo",
+    "name": "omo",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/omo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "oneshot",
+    "name": "oneshot",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/oneshot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo",
+    "name": "ovo",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo2",
+    "name": "ovo2",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ovo3",
+    "name": "ovo3",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "peggle",
+    "name": "peggle",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/peggle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pizza",
+    "name": "pizza",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/pizza.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ppg",
+    "name": "ppg",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ppg.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "pvz",
+    "name": "pvz",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/pvz.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "raft",
+    "name": "raft",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/raft.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ragdoll",
+    "name": "ragdoll",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ragdoll.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ragdoll2",
+    "name": "ragdoll2",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ragdoll2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "raldi",
+    "name": "raldi",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/raldi.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rap",
+    "name": "rap",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/rap.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rb",
+    "name": "rb",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/rb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rbc",
+    "name": "rbc",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/rbc.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "repo",
+    "name": "repo",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/repo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rid1",
+    "name": "rid1",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/rid1.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rid2",
+    "name": "rid2",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/rid2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "rid3",
+    "name": "rid3",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/rid3.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "roof",
+    "name": "roof",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/roof.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "roof2",
+    "name": "roof2",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/roof2.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "run",
+    "name": "run",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/run.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slime",
+    "name": "slime",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/slime.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "slope",
+    "name": "slope",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/slope.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sm64",
+    "name": "sm64",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/sm64.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "smash",
+    "name": "smash",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/smash.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "snow",
+    "name": "snow",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/snow.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "sonic",
+    "name": "sonic",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/sonic.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "space",
+    "name": "space",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/space.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "subway",
+    "name": "subway",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/subway.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "superhot",
+    "name": "superhot",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/superhot.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tattle",
+    "name": "tattle",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/tattle.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "terraria",
+    "name": "terraria",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/terraria.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tomb",
+    "name": "tomb",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/tomb.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "tomo",
+    "name": "tomo",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/tomo.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "ult",
+    "name": "ult",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ult.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "undertale-undertale",
+    "name": "undertale",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/undertale/undertale.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/undertale/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "undertale-yellow",
+    "name": "undertale yellow",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/undertale-yellow/index.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/undertale-yellow/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "webfishing",
+    "name": "webfishing",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/webfishing.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  },
+  {
+    "slug": "yandere",
+    "name": "yandere",
+    "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/yandere.html",
+    "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
+    "loadMode": "url"
+  }
 ]
