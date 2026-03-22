@@ -118,15 +118,20 @@ async function ensureSchemaReady() {
       // Ignore and let Scramjet try the remaining candidate names.
     }
   }
-  scramjet.config = SCRAMJET_CONFIG;
   schemaReady = true;
 }
 
-async function handleRequest(event) {
+async function ensureScramjetBootstrapped() {
   await ensureSchemaReady();
-  if (!scramjet.config) {
-    scramjet.config = SCRAMJET_CONFIG;
-  }
+  // Scramjet's own loadConfig() also runs internal global bootstrap.
+  // The controller's postMessage("loadConfig") sets this.config too early,
+  // which makes loadConfig() return before that bootstrap happens.
+  scramjet.config = undefined;
+  await scramjet.loadConfig();
+}
+
+async function handleRequest(event) {
+  await ensureScramjetBootstrapped();
   if (scramjet.route(event)) return scramjet.fetch(event);
   return fetch(event.request);
 }
@@ -137,7 +142,7 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   event.waitUntil((async () => {
-    await ensureSchemaReady();
+    await ensureScramjetBootstrapped();
     await self.clients.claim();
   })());
 });
