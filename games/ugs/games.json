@@ -1,0 +1,2375 @@
+﻿[
+    {
+        "slug":  "10minutestilldawn",
+        "name":  "10minutestilldawn",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/10minutestilldawn/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/10minutestilldawn/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "1-date-danger",
+        "name":  "1 date danger",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/1-date-danger/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/1-date-danger/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "2-3-4-player-game",
+        "name":  "2 3 4 player game",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/2-3-4-player-game/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/2-3-4-player-game/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "2doom",
+        "name":  "2doom",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/2doom/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/2doom/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "2-minute-football",
+        "name":  "2 minute football",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/2%20minute%20football/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/2%20minute%20football/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "3dash",
+        "name":  "3dash",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/3dash/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/3dash/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "5b",
+        "name":  "5b",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/5b/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/5b/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "664x-main",
+        "name":  "664x main",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/664x-main/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/664x-main/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "a-day-in-the-office",
+        "name":  "a day in the office",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/a%20day%20in%20the%20office/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/a%20day%20in%20the%20office/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "adventure-capitalist",
+        "name":  "adventure capitalist",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/adventure-capitalist/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/adventure-capitalist/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ages-of-conflict",
+        "name":  "ages of conflict",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ages%20of%20conflict/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ages%20of%20conflict/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "airline-tycoon-idle",
+        "name":  "airline tycoon idle",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/airline-tycoon-idle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/airline-tycoon-idle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "alien-sky-invasion",
+        "name":  "alien sky invasion",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/alien%20sky%20invasion/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/alien%20sky%20invasion/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "amazing-strange-rope-police-vice-spider",
+        "name":  "amazing strange rope police vice spider",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/amazing-strange-rope-police-vice-spider/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/amazing-strange-rope-police-vice-spider/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "amidst-the-sky",
+        "name":  "amidst the sky",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/amidst%20the%20sky/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/amidst%20the%20sky/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "angry-bird",
+        "name":  "angry bird",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/angry-bird/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/angry-bird/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "antimatter-dimensions",
+        "name":  "Antimatter Dimensions",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Antimatter%20Dimensions/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Antimatter%20Dimensions/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "apesvshelium",
+        "name":  "apesvshelium",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/apesvshelium/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/apesvshelium/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "archesspalago",
+        "name":  "archesspalago",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/archesspalago/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/archesspalago/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "astro-survivors",
+        "name":  "astro survivors",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/astro%20survivors/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/astro%20survivors/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "babel-tower",
+        "name":  "babel tower",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/babel%20tower/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/babel%20tower/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "backrooms-2d",
+        "name":  "backrooms 2D",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/backrooms%202D/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/backrooms%202D/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bacon-may-die",
+        "name":  "bacon may die",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bacon%20may%20die/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bacon%20may%20die/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bad-parenting",
+        "name":  "bad parenting",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bad-parenting/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bad-parenting/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "baldi-decomp",
+        "name":  "baldi decomp",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baldi%20decomp/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baldi%20decomp/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "baldis-basics",
+        "name":  "baldis basics",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baldis-basics/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baldis-basics/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ballistic",
+        "name":  "ballistic",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ballistic/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ballistic/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "barry-has-a-secret",
+        "name":  "barry has a secret",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/barry%20has%20a%20secret/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/barry%20has%20a%20secret/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "baseball-bros",
+        "name":  "baseball bros",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baseball%20bros/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baseball%20bros/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "basketball-superstars",
+        "name":  "basketball superstars",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/basketball-superstars/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/basketball-superstars/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "basket-stars",
+        "name":  "basket stars",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/basket%20stars/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/basket%20stars/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "beach-boxing-sim",
+        "name":  "beach boxing sim",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/beach-boxing-sim/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/beach-boxing-sim/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bearsus",
+        "name":  "bearsus",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bearsus/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bearsus/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ben-10-super-slammer",
+        "name":  "ben 10 super slammer",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ben%2010%20super%20slammer/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ben%2010%20super%20slammer/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bfnsu",
+        "name":  "bfnsu",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bfnsu/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bfnsu/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "big-2048",
+        "name":  "big 2048",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/big%202048/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/big%202048/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "big-flappy-tower",
+        "name":  "big flappy tower",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/big%20flappy%20tower/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/big%20flappy%20tower/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "blightborne",
+        "name":  "Blightborne",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Blightborne/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Blightborne/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "block-miner",
+        "name":  "block miner",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/block-miner/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/block-miner/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "blumgi-racers",
+        "name":  "blumgi racers",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/blumgi%20racers/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/blumgi%20racers/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "blumgi-rocket",
+        "name":  "blumgi rocket",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/blumgi-rocket/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/blumgi-rocket/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bounce-back",
+        "name":  "bounce back",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bounce%20back/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bounce%20back/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bouncy-basketbal",
+        "name":  "bouncy basketbal",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bouncy-basketbal/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bouncy-basketbal/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bouncy-basketball",
+        "name":  "bouncy basketball",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bouncy%20basketball/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bouncy%20basketball/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bouncy-motors",
+        "name":  "bouncy motors",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bouncy%20motors/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bouncy%20motors/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bounty-of-one",
+        "name":  "bounty of one",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bounty%20of%20one/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bounty%20of%20one/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "brawl-3d",
+        "name":  "brawl 3d",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/brawl-3d/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/brawl-3d/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bullet-force-multiplayer",
+        "name":  "bullet force multiplayer",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bullet-force-multiplayer/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/bullet-force-multiplayer/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bumper-cars-soccer",
+        "name":  "BUMPER CARS SOCCER",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/BUMPER%20CARS%20SOCCER/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/BUMPER%20CARS%20SOCCER/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "burritobison-main",
+        "name":  "BurritoBison main",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/BurritoBison-main/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/BurritoBison-main/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "canvas",
+        "name":  "canvas",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/canvas/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/canvas/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "capybara-clicker",
+        "name":  "capybara clicker",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/capybara%20clicker/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/capybara%20clicker/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cat-mario",
+        "name":  "cat mario",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cat%20mario/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cat%20mario/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cats-love-cake-2",
+        "name":  "cats love cake 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cats%20love%20cake%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cats%20love%20cake%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cave-chaos-2",
+        "name":  "cave chaos 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cave%20chaos%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cave%20chaos%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cheese-chompers-3",
+        "name":  "cheese chompers 3",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cheese%20chompers%203/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cheese%20chompers%203/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "chicken-gun",
+        "name":  "chicken gun",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/chicken-gun/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/chicken-gun/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "circlo02",
+        "name":  "circlo02",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/circlo02/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/circlo02/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "clashofvikings",
+        "name":  "clashofvikings",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/clashofvikings/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/clashofvikings/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cookieclicker",
+        "name":  "cookieclicker",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cookieclicker/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/cookieclicker/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "crazy-cars",
+        "name":  "crazy cars",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/crazy%20cars/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/crazy%20cars/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "crazy-chicken-3d",
+        "name":  "crazy chicken 3D",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/crazy%20chicken%203D/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/crazy%20chicken%203D/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "creature-card-idle",
+        "name":  "creature card idle",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/creature-card-idle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/creature-card-idle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "csgo-surf",
+        "name":  "csgo surf",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/csgo%20surf/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/csgo%20surf/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dandys-world-clicker",
+        "name":  "dandys world clicker",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dandys-world-clicker/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dandys-world-clicker/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dblox",
+        "name":  "dblox",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dblox/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dblox/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "deepest-sword",
+        "name":  "deepest sword",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/deepest%20sword/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/deepest%20sword/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "demon-bluff",
+        "name":  "demon bluff",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/demon-bluff/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/demon-bluff/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "die-in-the-dungeon",
+        "name":  "die in the dungeon",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/die%20in%20the%20dungeon/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/die%20in%20the%20dungeon/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dimension-incident",
+        "name":  "dimension incident",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dimension-incident/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dimension-incident/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "doge-miner-2",
+        "name":  "doge miner 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/doge%20miner%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/doge%20miner%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "doodle-jump",
+        "name":  "doodle jump",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/doodle%20jump/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/doodle%20jump/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "down-the-mountain",
+        "name":  "down the mountain",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/down%20the%20mountain/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/down%20the%20mountain/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dragon",
+        "name":  "dragon",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dragon/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dragon/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "drift-hunters",
+        "name":  "drift hunters",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/drift-hunters/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/drift-hunters/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "drunken-duel",
+        "name":  "drunken duel",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/drunken%20duel/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/drunken%20duel/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "duck-life-battle",
+        "name":  "duck life battle",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/duck%20life%20battle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/duck%20life%20battle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dungeondeck",
+        "name":  "dungeondeck",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dungeondeck/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/dungeondeck/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "eagle-ride",
+        "name":  "eagle ride",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/eagle%20ride/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/eagle%20ride/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "edys-car-simulator",
+        "name":  "edys car simulator",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/edys%20car%20simulator/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/edys%20car%20simulator/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "eggy-car",
+        "name":  "eggy car",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/eggy%20car/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/eggy%20car/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "endacopia",
+        "name":  "Endacopia",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Endacopia/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Endacopia/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "escaperoad2city",
+        "name":  "escaperoad2city",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/escaperoad2city/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/escaperoad2city/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "escaperoad2city-copy",
+        "name":  "escaperoad2city copy",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/escaperoad2city%20copy/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/escaperoad2city%20copy/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "eurovision-sim",
+        "name":  "eurovision sim",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/eurovision-sim/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/eurovision-sim/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "evade",
+        "name":  "evade",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/evade/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/evade/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "evil-nun-schools-out",
+        "name":  "evil nun schools out",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/evil%20nun%20schools%20out/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/evil%20nun%20schools%20out/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "examination-or-smth",
+        "name":  "examination or smth",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/examination%20or%20smth/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/examination%20or%20smth/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "exo-observation",
+        "name":  "exo observation",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/exo-observation/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/exo-observation/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fall-guys",
+        "name":  "fall guys",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fall-guys/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fall-guys/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "falling-fred",
+        "name":  "falling fred",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/falling-fred/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/falling-fred/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fear-assessment",
+        "name":  "fear assessment",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fear-assessment/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fear-assessment/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "feed-the-void",
+        "name":  "feed the void",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/feed-the-void/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/feed-the-void/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "final-earth-2",
+        "name":  "final earth 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/final%20earth%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/final%20earth%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fish-eat-big",
+        "name":  "fish eat big",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fish-eat-big/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fish-eat-big/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fisquarium",
+        "name":  "fisquarium",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fisquarium/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fisquarium/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "five-nights-at-osaka-s",
+        "name":  "Five Nights at Osaka\u0027s",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Five%20Nights%20at%20Osaka\u0027s/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Five%20Nights%20at%20Osaka\u0027s/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flappy-tower",
+        "name":  "flappy tower",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flappy-tower/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flappy-tower/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flight-sim",
+        "name":  "flight sim",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flight%20sim/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flight%20sim/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flip-master",
+        "name":  "flip master",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flip%20master/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flip%20master/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flipp-knife",
+        "name":  "flipp knife",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flipp%20knife/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/flipp%20knife/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnabr",
+        "name":  "fnabr",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnabr/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnabr/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnas-hotel2",
+        "name":  "fnas hotel2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnas-hotel2/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnas-hotel2/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnaw",
+        "name":  "fnaw",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnaw/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnaw/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnaw-main",
+        "name":  "FNAW main",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/FNAW-main/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/FNAW-main/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fnf0.7.5",
+        "name":  "fnf0.7.5",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnf0.7.5/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fnf0.7.5/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "football-bros",
+        "name":  "football bros",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/football%20bros/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/football%20bros/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "forward-assault",
+        "name":  "forward assault",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/forward-assault/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/forward-assault/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fruit-ninja",
+        "name":  "fruit ninja",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fruit%20ninja/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/fruit%20ninja/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "game-inside-game",
+        "name":  "game inside game",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/game-inside-game/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/game-inside-game/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gardenless",
+        "name":  "gardenless",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gardenless/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gardenless/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gdlite",
+        "name":  "gdlite",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gdlite/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gdlite/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gd-subzero",
+        "name":  "gd subzero",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gd-subzero/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gd-subzero/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "georgeandprinter",
+        "name":  "georgeandprinter",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/georgeandprinter/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/georgeandprinter/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "get-yoked",
+        "name":  "get yoked",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/get%20yoked/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/get%20yoked/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gimmie-the-airpod",
+        "name":  "gimmie the airpod",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gimmie%20the%20airpod/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gimmie%20the%20airpod/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gladihoppper",
+        "name":  "gladihoppper",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gladihoppper/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gladihoppper/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "goblin-goop",
+        "name":  "goblin goop",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/goblin-goop/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/goblin-goop/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "golf-battle",
+        "name":  "golf battle",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/golf-battle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/golf-battle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "golf-orbit",
+        "name":  "golf orbit",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/golf%20orbit/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/golf%20orbit/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "grand-escape-prison",
+        "name":  "grand escape prison",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grand-escape-prison/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grand-escape-prison/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "granny-3",
+        "name":  "granny 3",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/granny%203/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/granny%203/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "grey-box-testing",
+        "name":  "grey box testing",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grey%20box%20testing/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grey%20box%20testing/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "grn",
+        "name":  "grn",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grn/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grn/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "grow-your-garden",
+        "name":  "grow your garden",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grow-your-garden/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/grow-your-garden/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gun-knight",
+        "name":  "gun knight",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gun-knight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gun-knight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gunspin",
+        "name":  "gunspin",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gunspin/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/gunspin/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "half-life",
+        "name":  "half life",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/half%20life/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/half%20life/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "happy-room",
+        "name":  "happy room",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/happy%20room/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/happy%20room/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hardware-tycoon",
+        "name":  "hardware tycoon",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hardware%20tycoon/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hardware%20tycoon/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "haunted-school",
+        "name":  "haunted school",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/haunted-school/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/haunted-school/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "head-soccer",
+        "name":  "head soccer",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/head%20soccer/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/head%20soccer/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "highway-racer-2",
+        "name":  "highway racer 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/highway%20racer%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/highway%20racer%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "highway-traffic",
+        "name":  "highway traffic",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/highway%20traffic/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/highway%20traffic/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hills-of-steel",
+        "name":  "hills of steel",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hills%20of%20steel/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hills%20of%20steel/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "house-paint",
+        "name":  "house paint",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/house%20paint/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/house%20paint/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hungry-knight",
+        "name":  "hungry knight",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hungry%20knight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hungry%20knight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hungry-lamu",
+        "name":  "hungry lamu",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hungry%20lamu/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/hungry%20lamu/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ice-dodo",
+        "name":  "ice dodo",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ice%20dodo/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ice%20dodo/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ice-fishing",
+        "name":  "ice fishing",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ice-fishing/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ice-fishing/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "icy-purple-head",
+        "name":  "icy purple head",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/icy%20purple%20head/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/icy%20purple%20head/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "idle-bee-factory",
+        "name":  "idle bee factory",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/idle%20bee%20factory/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/idle%20bee%20factory/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "idle-football-manager",
+        "name":  "idle football manager",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/idle-football-manager/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/idle-football-manager/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "idle-idle-game-dev",
+        "name":  "idle idle game dev",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/idle%20idle%20game%20dev/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/idle%20idle%20game%20dev/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "indian-truck-simulator-3d-gh-pages",
+        "name":  "indian truck simulator 3d gh pages",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/indian-truck-simulator-3d-gh-pages/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/indian-truck-simulator-3d-gh-pages/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "industrial-basis",
+        "name":  "industrial basis",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/industrial-basis/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/industrial-basis/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "infinite-trees",
+        "name":  "infinite trees",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/infinite-trees/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/infinite-trees/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ink-game",
+        "name":  "ink game",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ink-game/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ink-game/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "iron-snout",
+        "name":  "iron snout",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/iron%20snout/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/iron%20snout/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jelly-mario",
+        "name":  "jelly mario",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jelly-mario/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jelly-mario/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jet-rush",
+        "name":  "jet rush",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jet%20rush/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jet%20rush/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jumbo-mario",
+        "name":  "jumbo mario",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jumbo-mario/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jumbo-mario/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jumping-shell",
+        "name":  "jumping shell",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jumping%20shell/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jumping%20shell/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "jungle-deer-hunting",
+        "name":  "jungle deer hunting",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jungle-deer-hunting/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/jungle-deer-hunting/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "karate-bros",
+        "name":  "karate bros",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/karate%20bros/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/karate%20bros/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "kart-bros",
+        "name":  "kart bros",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/kart%20bros/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/kart%20bros/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "konkr",
+        "name":  "konkr",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/konkr/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/konkr/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "kraft-quest",
+        "name":  "kraft quest",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/kraft%20quest/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/kraft%20quest/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "last-breath-epstein",
+        "name":  "last breath epstein",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/last-breath-epstein/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/last-breath-epstein/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "leader-strike",
+        "name":  "leader strike",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/leader%20strike/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/leader%20strike/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "level-devil",
+        "name":  "level devil",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/level%20devil/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/level%20devil/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lil-runmo",
+        "name":  "lil runmo",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lil%20runmo/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lil%20runmo/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "linerider",
+        "name":  "linerider",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/linerider/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/linerider/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lock-the-door",
+        "name":  "lock the door",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lock%20the%20door/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lock%20the%20door/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lolshooter2-main",
+        "name":  "lolshooter2 main",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lolshooter2-main/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lolshooter2-main/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lucky-ducky-obby-wobby",
+        "name":  "lucky ducky obby wobby",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lucky%20ducky%20obby%20wobby/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lucky%20ducky%20obby%20wobby/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "lunar-lander",
+        "name":  "lunar lander",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lunar-lander/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/lunar-lander/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "madalincarmulti",
+        "name":  "madalincarmulti",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/madalincarmulti/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/madalincarmulti/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "madalin-stunt-cars-2-main",
+        "name":  "madalin stunt cars 2 main",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/madalin-stunt-cars-2-main/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/madalin-stunt-cars-2-main/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mad-stick",
+        "name":  "mad stick",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mad-stick/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mad-stick/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mana-god",
+        "name":  "mana god",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mana%20god/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mana%20god/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mari0",
+        "name":  "mari0",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mari0/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mari0/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "masekd-for",
+        "name":  "masekd for",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/masekd%20for/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/masekd%20for/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "megachess",
+        "name":  "megachess",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/megachess/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/megachess/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "merge-round-racers",
+        "name":  "merge round racers",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/merge%20round%20racers/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/merge%20round%20racers/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mindustry",
+        "name":  "mindustry",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mindustry/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mindustry/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mineshootmm",
+        "name":  "mineshootmm",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mineshootmm/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mineshootmm/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mini-flips",
+        "name":  "mini flips",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mini-flips/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mini-flips/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "momos-crusher",
+        "name":  "momos crusher",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/momos-crusher/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/momos-crusher/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "monkey-mart-v6.3",
+        "name":  "monkey mart v6.3",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/monkey%20mart%20v6.3/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/monkey%20mart%20v6.3/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "moto2",
+        "name":  "moto2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/moto2/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/moto2/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "motocross-mad-skills",
+        "name":  "motocross mad skills",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/motocross%20mad%20skills/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/motocross%20mad%20skills/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "moto-road-rash",
+        "name":  "moto road rash",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/moto%20road%20rash/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/moto%20road%20rash/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mr-mine",
+        "name":  "mr mine",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mr-mine/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/mr-mine/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "not-your-pawn",
+        "name":  "not your pawn",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/not%20your%20pawn/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/not%20your%20pawn/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "nuts-and-bolts",
+        "name":  "nuts and bolts",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/nuts%20and%20bolts/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/nuts%20and%20bolts/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "nzp",
+        "name":  "nzp",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/nzp/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/nzp/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "obby-1-jump-per-click",
+        "name":  "obby 1 jump per click",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby-1-jump-per-click/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby-1-jump-per-click/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "obby-bike",
+        "name":  "obby bike",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby-bike/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby-bike/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "obby-but-your-on-a-bike",
+        "name":  "obby but your on a bike",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby%20but%20your%20on%20a%20bike/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby%20but%20your%20on%20a%20bike/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "obby-robby-only-up",
+        "name":  "obby robby only up",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby%20robby%20only%20up/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby%20robby%20only%20up/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "obby-robob",
+        "name":  "obby robob",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby%20robob/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/obby%20robob/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "odd-bot-out",
+        "name":  "odd bot out",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/odd%20bot%20out/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/odd%20bot%20out/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "off",
+        "name":  "off",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/off/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/off/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "omega-layers",
+        "name":  "omega layers",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/omega-layers/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/omega-layers/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "opposite-day",
+        "name":  "opposite day",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/opposite%20day/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/opposite%20day/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "orb-farm",
+        "name":  "orb farm",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/orb%20farm/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/orb%20farm/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "orb-of-creation",
+        "name":  "orb of creation",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/orb%20of%20creation/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/orb%20of%20creation/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "outhold",
+        "name":  "outhold",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/outhold/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/outhold/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ovomod",
+        "name":  "ovomod",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ovomod/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ovomod/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "par72golf",
+        "name":  "par72golf",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/par72golf/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/par72golf/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "penguin-diner",
+        "name":  "penguin diner",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/penguin%20diner/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/penguin%20diner/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "perfect-hotel",
+        "name":  "perfect hotel",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/perfect-hotel/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/perfect-hotel/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pixel-combat-2",
+        "name":  "pixel combat 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/pixel%20combat%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/pixel%20combat%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "planet-life",
+        "name":  "planet life",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/planet%20life/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/planet%20life/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "please-dont-touch",
+        "name":  "please dont touch",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/please-dont-touch/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/please-dont-touch/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "plinko",
+        "name":  "plinko",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/plinko/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/plinko/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "poly-track",
+        "name":  "poly track",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poly%20track/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poly%20track/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "poly-track-old",
+        "name":  "poly track old",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poly%20track%20old/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poly%20track%20old/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pom-gets-wifi",
+        "name":  "pom gets wifi",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/pom-gets-wifi/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/pom-gets-wifi/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "poor-bunny",
+        "name":  "poor bunny",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poor%20bunny/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poor%20bunny/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "poor-bunny-2",
+        "name":  "poor bunny",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poor-bunny/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poor-bunny/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "poor-eddie",
+        "name":  "poor eddie",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poor%20eddie/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/poor%20eddie/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "portal",
+        "name":  "portal",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/portal/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/portal/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "puppet-hockey",
+        "name":  "puppet hockey",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/puppet%20hockey/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/puppet%20hockey/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "puppet-master",
+        "name":  "puppet master",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/puppet-master/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/puppet-master/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ragdoll-drop",
+        "name":  "ragdoll drop",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ragdoll-drop/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ragdoll-drop/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ragdoll-hit",
+        "name":  "ragdoll hit",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ragdoll-hit/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ragdoll-hit/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ragdoll-runners",
+        "name":  "ragdoll runners",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ragdoll-runners/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ragdoll-runners/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "recoil",
+        "name":  "recoil",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/recoil/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/recoil/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "redvsblue",
+        "name":  "redvsblue",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/redvsblue/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/redvsblue/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "repo-bad",
+        "name":  "repo bad",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/repo-bad/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/repo-bad/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "revenge-of-dog",
+        "name":  "revenge of dog",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/revenge%20of%20dog/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/revenge%20of%20dog/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "revolution-idle",
+        "name":  "revolution idle",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/revolution%20idle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/revolution%20idle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rio-rex",
+        "name":  "rio rex",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rio-rex/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rio-rex/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rocket-goal",
+        "name":  "rocket goal",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rocket-goal/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rocket-goal/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rocketpult",
+        "name":  "rocketpult",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rocketpult/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rocketpult/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rocket-soccer-derby",
+        "name":  "rocket soccer derby",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rocket%20soccer%20derby/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rocket%20soccer%20derby/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rod-ha",
+        "name":  "rod ha",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rod-ha/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rod-ha/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rogue-sergeant",
+        "name":  "rogue sergeant",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rogue-sergeant/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rogue-sergeant/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "roller-baller",
+        "name":  "roller baller",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/roller%20baller/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/roller%20baller/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rolling-sky",
+        "name":  "rolling sky",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rolling-sky/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rolling-sky/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rolly-vortex",
+        "name":  "rolly vortex",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rolly%20vortex/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rolly%20vortex/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "roof-snipe-2",
+        "name":  "roof snipe 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/roof%20snipe%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/roof%20snipe%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rooftop-snipers-2",
+        "name":  "rooftop snipers 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rooftop%20snipers%202/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rooftop%20snipers%202/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "rouge-fable-3",
+        "name":  "rouge fable 3",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rouge%20fable%203/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/rouge%20fable%203/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "roulette-knight",
+        "name":  "roulette knight",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/roulette%20knight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/roulette%20knight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "running-fred",
+        "name":  "running fred",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/running-fred/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/running-fred/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "russian-cardriver",
+        "name":  "russian cardriver",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/russian-cardriver/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/russian-cardriver/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "scale-the-depths",
+        "name":  "scale the depths",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/scale-the-depths/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/scale-the-depths/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "scary-teacher-3d",
+        "name":  "scary teacher 3D",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/scary-teacher-3D/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/scary-teacher-3D/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "scrap-metal",
+        "name":  "scrap metal",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/scrap-metal/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/scrap-metal/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sea-mongrel",
+        "name":  "sea mongrel",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sea%20mongrel/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sea%20mongrel/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "self",
+        "name":  "self",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/self/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/self/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "serenitrove",
+        "name":  "serenitrove",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/serenitrove/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/serenitrove/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "shredsauce",
+        "name":  "shredsauce",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/shredsauce/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/shredsauce/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "silk",
+        "name":  "silk",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/silk/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/silk/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "silohuette-showdown",
+        "name":  "silohuette showdown",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/silohuette%20showdown/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/silohuette%20showdown/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "six-ways-to-suffer-lolol",
+        "name":  "six ways to suffer lolol",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/six-ways-to-suffer-lolol/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/six-ways-to-suffer-lolol/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "skinwalker",
+        "name":  "skinwalker",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/skinwalker/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/skinwalker/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sky-race",
+        "name":  "sky race",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sky%20race/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sky%20race/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slender-multiplayer",
+        "name":  "slender multiplayer",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slender%20multiplayer/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slender%20multiplayer/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slide-in-the-woods",
+        "name":  "slide in the woods",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slide-in-the-woods-/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slide-in-the-woods-/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slope-2-player",
+        "name":  "slope 2 player",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slope%202%20player/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slope%202%20player/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slope-3",
+        "name":  "slope 3",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slope%203/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slope%203/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slot-or-not",
+        "name":  "slot or not",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slot%20or%20not/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/slot%20or%20not/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sm63redux",
+        "name":  "sm63redux",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sm63redux/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sm63redux/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "soccer-bros",
+        "name":  "soccer bros",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/soccer%20bros/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/soccer%20bros/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "soccer-skills-euro",
+        "name":  "soccer skills euro",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/soccer%20skills%20euro/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/soccer%20skills%20euro/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "solar-sandbox",
+        "name":  "solar sandbox",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/solar-sandbox/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/solar-sandbox/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sort-court",
+        "name":  "sort court",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sort-court/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sort-court/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "space-company",
+        "name":  "space company",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space%20company/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space%20company/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "space-funeral",
+        "name":  "space funeral",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space-funeral/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space-funeral/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "space-wars-battleground",
+        "name":  "space wars battleground",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space%20wars%20battleground/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space%20wars%20battleground/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "space-waves",
+        "name":  "space waves",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space%20waves/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/space%20waves/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "speed-dash",
+        "name":  "speed dash",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/speed-dash/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/speed-dash/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "speed-stars",
+        "name":  "speed stars",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/speed%20stars/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/speed%20stars/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "speed-stars-2",
+        "name":  "speed stars",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/speed-stars/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/speed-stars/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "spelunky",
+        "name":  "spelunky",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/spelunky/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/spelunky/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sprunked",
+        "name":  "sprunked",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sprunked/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sprunked/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ssf2",
+        "name":  "ssf2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ssf2/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ssf2/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stackball.io",
+        "name":  "stackball.io",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stackball.io/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stackball.io/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stacktris",
+        "name":  "stacktris",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stacktris/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stacktris/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "station-141",
+        "name":  "station 141",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/station%20141/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/station%20141/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "station-meltdown",
+        "name":  "station meltdown",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/station-meltdown/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/station-meltdown/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "station-saturn",
+        "name":  "station saturn",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/station%20saturn/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/station%20saturn/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stick-defenders",
+        "name":  "stick defenders",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick-defenders/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick-defenders/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stickman-clash",
+        "name":  "Stickman Clash",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Stickman%20Clash/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/Stickman%20Clash/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stickman-destruction",
+        "name":  "stickman destruction",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman-destruction/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman-destruction/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stickman-fighto",
+        "name":  "stickman fighto",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman-fighto/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman-fighto/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stickman-gta",
+        "name":  "STICKMAN GTA",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/STICKMAN%20GTA/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/STICKMAN%20GTA/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stickman-hook",
+        "name":  "stickman hook",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman%20hook/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman%20hook/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stickman-parkour-island",
+        "name":  "stickman parkour island",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman%20parkour%20island/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stickman%20parkour%20island/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stick-merge",
+        "name":  "stick merge",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick%20merge/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick%20merge/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stick-slasher",
+        "name":  "stick slasher",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick%20slasher/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stick%20slasher/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "stone-grass-mowing-simulator",
+        "name":  "stone grass mowing simulator",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stone-grass-mowing-simulator/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/stone-grass-mowing-simulator/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "striker-dummies",
+        "name":  "striker dummies",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/striker-dummies/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/striker-dummies/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-auto-pets",
+        "name":  "super auto pets",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20auto%20pets/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20auto%20pets/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-dark-deception",
+        "name":  "super dark deception",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20dark%20deception/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20dark%20deception/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "superhot",
+        "name":  "superhot",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/superhot/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/superhot/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-kid-adventure",
+        "name":  "super kid adventure",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20kid%20adventure/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20kid%20adventure/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-liquid-soccer",
+        "name":  "super liquid soccer",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20liquid%20soccer/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20liquid%20soccer/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-santa-kicker",
+        "name":  "super santa kicker",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super-santa-kicker/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super-santa-kicker/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-speed-racing",
+        "name":  "super speed racing",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20speed%20racing/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20speed%20racing/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-star-car",
+        "name":  "super star car",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20star%20car/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/super%20star%20car/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "survival-race-v2",
+        "name":  "survival race v2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/survival%20race%20v2/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/survival%20race%20v2/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sushi-unroll",
+        "name":  "sushi unroll",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sushi%20unroll/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/sushi%20unroll/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "swamp-attack",
+        "name":  "swamp attack",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/swamp-attack/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/swamp-attack/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "switchblade",
+        "name":  "switchblade",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/switchblade/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/switchblade/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "swordfight",
+        "name":  "swordfight",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/swordfight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/swordfight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "table-tanks",
+        "name":  "table tanks",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/table%20tanks/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/table%20tanks/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "table-tennis-cn",
+        "name":  "table tennis cn",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/table%20tennis%20cn/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/table%20tennis%20cn/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tag",
+        "name":  "tag",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tag/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tag/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "telephone-trouble",
+        "name":  "telephone trouble",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/telephone%20trouble/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/telephone%20trouble/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tempoverdose",
+        "name":  "tempoverdose",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tempoverdose/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tempoverdose/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "the-box-of-secrets",
+        "name":  "the box of secrets",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/the%20box%20of%20secrets/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/the%20box%20of%20secrets/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "they-are-coming",
+        "name":  "they are coming",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/they-are-coming/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/they-are-coming/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "thorns-and-balloons",
+        "name":  "thorns and balloons",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/thorns%20and%20balloons/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/thorns%20and%20balloons/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "throw-a-potato-space",
+        "name":  "throw a potato space",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/throw-a-potato-space/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/throw-a-potato-space/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "time-warriors",
+        "name":  "time warriors",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/time%20warriors/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/time%20warriors/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "toasterball",
+        "name":  "toasterball",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/toasterball/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/toasterball/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tomb",
+        "name":  "tomb",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tomb/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tomb/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tommorowandyesterday",
+        "name":  "tommorowandyesterday",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tommorowandyesterday/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tommorowandyesterday/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "top-speed-racing-3d",
+        "name":  "top speed racing 3d",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/top%20speed%20racing%203d/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/top%20speed%20racing%203d/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "totm",
+        "name":  "totm",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/totm/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/totm/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tower-idle",
+        "name":  "tower idle",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tower-idle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tower-idle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "townscraper",
+        "name":  "townscraper",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/townscraper/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/townscraper/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "toy-rider",
+        "name":  "toy rider",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/toy-rider/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/toy-rider/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "trace",
+        "name":  "trace",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/trace/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/trace/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "traffic-jam-3d",
+        "name":  "traffic jam 3d",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/traffic%20jam%203d/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/traffic%20jam%203d/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "trecharoustrials",
+        "name":  "trecharoustrials",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/trecharoustrials/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/trecharoustrials/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "trials-part-2",
+        "name":  "trials part 2",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/trials-part-2/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/trials-part-2/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "truck-slam",
+        "name":  "truck slam",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/truck%20slam/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/truck%20slam/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tungtung",
+        "name":  "tungtung",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tungtung/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/tungtung/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "two-stunts",
+        "name":  "two stunts",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/two%20stunts/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/two%20stunts/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ucds-other-version",
+        "name":  "UCDS other version",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/UCDS%20other%20version/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/UCDS%20other%20version/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ultimate-car-driving",
+        "name":  "ultimate car driving",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ultimate%20car%20driving/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ultimate%20car%20driving/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "unfair-undyne",
+        "name":  "unfair undyne",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/unfair%20undyne/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/unfair%20undyne/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "unicycle-hero",
+        "name":  "unicycle hero",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/unicycle%20hero/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/unicycle%20hero/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ut-last-breath",
+        "name":  "ut last breath",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ut-last-breath/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/ut-last-breath/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "volleyball-challenge",
+        "name":  "volleyball challenge",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/volleyball%20challenge/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/volleyball%20challenge/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "we-become-what-we-behold",
+        "name":  "we become what we behold",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/we%20become%20what%20we%20behold/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/we%20become%20what%20we%20behold/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "wheelie-bike",
+        "name":  "wheelie bike",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/wheelie-bike/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/wheelie-bike/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "winter-falling",
+        "name":  "winter falling",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/winter%20falling/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/winter%20falling/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "woodworm",
+        "name":  "woodworm",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/woodworm/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/woodworm/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "worst-time-sim",
+        "name":  "worst time sim",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/worst-time-sim/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/worst-time-sim/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "wrestle-bros",
+        "name":  "wrestle bros",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/wrestle%20bros/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/wrestle%20bros/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "you-vs-100-skibidi",
+        "name":  "you vs 100 skibidi",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/you%20vs%20100%20skibidi/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/you%20vs%20100%20skibidi/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "zombie-derby-gyb",
+        "name":  "zombie derby gyb",
+        "sourceUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/zombie-derby-gyb/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/bubbls/UGS-Assets/main/zombie-derby-gyb/",
+        "loadMode":  "url"
+    }
+]

@@ -1,0 +1,2627 @@
+﻿[
+    {
+        "slug":  "1",
+        "name":  "1",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "100ng",
+        "name":  "100ng",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/100ng/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/100ng/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "10-minutes-till-dawn",
+        "name":  "10 minutes till dawn",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/10-minutes-till-dawn/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/10-minutes-till-dawn/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "1v1lol",
+        "name":  "1v1lol",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1v1lol/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1v1lol/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "1v1space",
+        "name":  "1v1space",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1v1space/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/1v1space/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "2048",
+        "name":  "2048",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/2048/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/2048/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "2048-multitask",
+        "name":  "2048 multitask",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/2048-multitask/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/2048-multitask/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "9007199254740992",
+        "name":  "9007199254740992",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/9007199254740992/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/9007199254740992/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "99balls",
+        "name":  "99balls",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/99balls/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/99balls/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "achievementunlocked",
+        "name":  "achievementunlocked",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/achievementunlocked/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/achievementunlocked/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "a-dance-of-fire-and-ice",
+        "name":  "a dance of fire and ice",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/a-dance-of-fire-and-ice/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/a-dance-of-fire-and-ice/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "adarkroom",
+        "name":  "adarkroom",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/adarkroom/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/adarkroom/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "adrenalinechallenge",
+        "name":  "adrenalinechallenge",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/adrenalinechallenge/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/adrenalinechallenge/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "adventure-drivers",
+        "name":  "adventure drivers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/adventure-drivers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/adventure-drivers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ages-of-conflict",
+        "name":  "ages of conflict",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ages-of-conflict/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ages-of-conflict/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "alienhominid",
+        "name":  "alienhominid",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/alienhominid/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/alienhominid/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "align-4",
+        "name":  "align 4",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/align-4/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/align-4/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "amazing-rope-police",
+        "name":  "amazing rope police",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/amazing-rope-police/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/amazing-rope-police/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "amidst-the-clouds",
+        "name":  "amidst the clouds",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/amidst-the-clouds/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/amidst-the-clouds/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "among-us",
+        "name":  "among us",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/among-us/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/among-us/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "angelunder",
+        "name":  "angelunder",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/angelunder/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/angelunder/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "angry-sharks",
+        "name":  "angry sharks",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/angry-sharks/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/angry-sharks/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "aquapark-slides",
+        "name":  "aquapark slides",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/aquapark-slides/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/aquapark-slides/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "astray",
+        "name":  "astray",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/astray/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/astray/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "avalanche",
+        "name":  "avalanche",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/avalanche/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/avalanche/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "awesometanks2",
+        "name":  "awesometanks2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/awesometanks2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/awesometanks2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "backrooms",
+        "name":  "backrooms",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/backrooms/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/backrooms/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "backrooms-2d",
+        "name":  "backrooms 2d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/backrooms-2d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/backrooms-2d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bacon-may-die",
+        "name":  "bacon may die",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bacon-may-die/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bacon-may-die/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bad-ice-cream",
+        "name":  "bad ice cream",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bad-ice-cream/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bad-ice-cream/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bad-ice-cream-2",
+        "name":  "bad ice cream 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bad-ice-cream-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bad-ice-cream-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bad-ice-cream-3",
+        "name":  "bad ice cream 3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bad-ice-cream-3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bad-ice-cream-3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "baldis-basics",
+        "name":  "baldis basics",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/baldis-basics/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/baldis-basics/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ballistic-chickens",
+        "name":  "ballistic chickens",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ballistic-chickens/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ballistic-chickens/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "basketball-stars",
+        "name":  "basketball stars",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basketball-stars/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basketball-stars/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "basketbros-io",
+        "name":  "basketbros io",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basketbros-io/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basketbros-io/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "basket-random",
+        "name":  "basket random",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basket-random/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basket-random/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "battleforgondor",
+        "name":  "battleforgondor",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/battleforgondor/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/battleforgondor/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bigredbutton",
+        "name":  "bigredbutton",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bigredbutton/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bigredbutton/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bitlife",
+        "name":  "bitlife",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bitlife/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bitlife/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "blacholesquare",
+        "name":  "blacholesquare",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/blacholesquare/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/blacholesquare/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "blackknight",
+        "name":  "blackknight",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/blackknight/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/blackknight/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "blockpost",
+        "name":  "blockpost",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/blockpost/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/blockpost/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bloonstd",
+        "name":  "bloonstd",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloonstd/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloonstd/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bloonstd2",
+        "name":  "bloonstd2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloonstd2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloonstd2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bloxors",
+        "name":  "bloxors",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloxors/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloxors/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bntts",
+        "name":  "bntts",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bntts/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bntts/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bobtherobber2",
+        "name":  "bobtherobber2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bobtherobber2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bobtherobber2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "boxhead2play",
+        "name":  "boxhead2play",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/boxhead2play/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/boxhead2play/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "boxing-random",
+        "name":  "boxing random",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/boxing-random/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/boxing-random/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "breakingthebank",
+        "name":  "breakingthebank",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/breakingthebank/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/breakingthebank/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "btd4",
+        "name":  "btd4",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/btd4/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/btd4/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "btd5",
+        "name":  "btd5",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/btd5/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/btd5/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "btts",
+        "name":  "btts",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/btts/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/btts/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "burger-and-frights",
+        "name":  "burger and frights",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/burger-and-frights/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/burger-and-frights/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "bus-and-subway",
+        "name":  "bus and subway",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bus%20and%20subway/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bus%20and%20subway/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cannon-basketball-4",
+        "name":  "cannon basketball 4",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cannon-basketball-4/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cannon-basketball-4/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "canyondefense",
+        "name":  "canyondefense",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/canyondefense/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/canyondefense/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cars-simulator",
+        "name":  "cars simulator",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cars-simulator/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cars-simulator/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cell-machine",
+        "name":  "cell machine",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cell-machine/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cell-machine/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "championarcher",
+        "name":  "championarcher",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/championarcher/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/championarcher/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "champion-island",
+        "name":  "champion island",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/champion-island/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/champion-island/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "chill-radio",
+        "name":  "chill radio",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/chill-radio/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/chill-radio/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "chrome-dino",
+        "name":  "chrome dino",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/chrome-dino/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/chrome-dino/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "circlo",
+        "name":  "circlo",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/circlo/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/circlo/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cluster-rush",
+        "name":  "cluster rush",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cluster-rush/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cluster-rush/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cnpingpong",
+        "name":  "cnpingpong",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cnpingpong/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cnpingpong/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "connect3",
+        "name":  "connect3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/connect3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/connect3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cookie-clicker",
+        "name":  "cookie clicker",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cookie-clicker/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cookie-clicker/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "core-ball",
+        "name":  "core ball",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/core-ball/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/core-ball/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "craftmine",
+        "name":  "craftmine",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/craftmine/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/craftmine/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "creativekillchamber",
+        "name":  "creativekillchamber",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/creativekillchamber/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/creativekillchamber/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "crossyroad",
+        "name":  "crossyroad",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/crossyroad/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/crossyroad/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "csgo-clicker",
+        "name":  "csgo clicker",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/csgo-clicker/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/csgo-clicker/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ctr",
+        "name":  "ctr",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ctr/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ctr/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ctr-holiday",
+        "name":  "ctr holiday",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ctr-holiday/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ctr-holiday/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ctr-tr",
+        "name":  "ctr tr",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ctr-tr/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ctr-tr/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cubefield",
+        "name":  "cubefield",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cubefield/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cubefield/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "cupcake2048",
+        "name":  "cupcake2048",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cupcake2048/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/cupcake2048/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "dante",
+        "name":  "dante",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/dante/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/dante/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "deal-or-no-deal",
+        "name":  "deal or no deal",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/deal-or-no-deal/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/deal-or-no-deal/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "death-run-3d",
+        "name":  "death run 3d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/death-run-3d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/death-run-3d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "deepest-sword",
+        "name":  "deepest sword",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/deepest-sword/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/deepest-sword/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "defend-the-tank",
+        "name":  "defend the tank",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/defend-the-tank/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/defend-the-tank/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "doctor-acorn2",
+        "name":  "doctor acorn2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doctor-acorn2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doctor-acorn2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "doge2048",
+        "name":  "doge2048",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doge2048/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doge2048/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "dogeminer",
+        "name":  "DogeMiner",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/DogeMiner/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/DogeMiner/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "dogeminer2",
+        "name":  "Dogeminer2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Dogeminer2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Dogeminer2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "doodle-jump",
+        "name":  "doodle jump",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doodle-jump/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doodle-jump/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "doomori",
+        "name":  "DOOMORI",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/DOOMORI/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/DOOMORI/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "doublewires",
+        "name":  "doublewires",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doublewires/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/doublewires/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "dragon-vs-bricks",
+        "name":  "dragon vs bricks",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/dragon-vs-bricks/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/dragon-vs-bricks/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "draw-the-hill",
+        "name":  "draw the hill",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/draw-the-hill/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/draw-the-hill/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "drift-boss",
+        "name":  "drift boss",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drift-boss/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drift-boss/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "drift-hunters",
+        "name":  "drift hunters",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drift-hunters/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drift-hunters/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "drive-mad",
+        "name":  "drive mad",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drive-mad/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/drive-mad/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ducklife1",
+        "name":  "ducklife1",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife1/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife1/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ducklife2",
+        "name":  "ducklife2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ducklife3",
+        "name":  "ducklife3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ducklife4",
+        "name":  "ducklife4",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife4/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ducklife4/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "duke-nukem-2",
+        "name":  "duke nukem 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/duke-nukem-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/duke-nukem-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "eaglerfaithful",
+        "name":  "eaglerfaithful",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eaglerfaithful/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eaglerfaithful/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "eaglerjp",
+        "name":  "eaglerjp",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eaglerjp/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eaglerjp/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "earntodie",
+        "name":  "earntodie",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/earntodie/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/earntodie/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "edgenotfound",
+        "name":  "edgenotfound",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/edgenotfound/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/edgenotfound/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "edge-surf",
+        "name":  "edge surf",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/edge-surf/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/edge-surf/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "eel-slap",
+        "name":  "eel slap",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eel-slap/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eel-slap/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "eggycar",
+        "name":  "eggycar",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eggycar/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/eggycar/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "elasticman",
+        "name":  "elasticman",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/elasticman/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/elasticman/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "endlesswar3",
+        "name":  "endlesswar3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/endlesswar3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/endlesswar3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "escapingtheprison",
+        "name":  "escapingtheprison",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/escapingtheprison/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/escapingtheprison/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "evil-glitch",
+        "name":  "evil glitch",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/evil-glitch/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/evil-glitch/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "evolution",
+        "name":  "evolution",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/evolution/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/evolution/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "exo",
+        "name":  "exo",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/exo/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/exo/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "factoryballs",
+        "name":  "factoryballs",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/factoryballs/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/factoryballs/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fairsquares",
+        "name":  "fairsquares",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fairsquares/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fairsquares/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fake-virus",
+        "name":  "fake virus",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fake-virus/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fake-virus/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fancypantsadventures",
+        "name":  "fancypantsadventures",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fancypantsadventures/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fancypantsadventures/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fireboywatergirlforesttemple",
+        "name":  "fireboywatergirlforesttemple",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fireboywatergirlforesttemple/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fireboywatergirlforesttemple/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "flappy-2048",
+        "name":  "flappy 2048",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flappy-2048/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flappy-2048/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "flappybird",
+        "name":  "flappybird",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flappybird/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flappybird/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "flappy-bird",
+        "name":  "flappy bird",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flappy-bird/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flappy-bird/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "flashtetris",
+        "name":  "flashtetris",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flashtetris/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flashtetris/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fleeingthecomplex",
+        "name":  "fleeingthecomplex",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fleeingthecomplex/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fleeingthecomplex/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "flippy-fish",
+        "name":  "flippy fish",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flippy-fish/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/flippy-fish/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fnaw",
+        "name":  "fnaw",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fnaw/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fnaw/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fridaynightfunkin",
+        "name":  "fridaynightfunkin",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fridaynightfunkin/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fridaynightfunkin/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "froggys-battle",
+        "name":  "froggys battle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/froggys-battle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/froggys-battle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fruitninja",
+        "name":  "fruitninja",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fruitninja/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fruitninja/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "frying-nemo",
+        "name":  "frying nemo",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/frying-nemo/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/frying-nemo/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fsucraft",
+        "name":  "fsucraft",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fsucraft/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fsucraft/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "fuclient",
+        "name":  "fuclient",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fuclient/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/fuclient/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "gachalife",
+        "name":  "gachalife",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gachalife/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gachalife/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "game-inside",
+        "name":  "game inside",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/game-inside/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/game-inside/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "gdtd",
+        "name":  "gdtd",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gdtd/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gdtd/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "gearsofbabies",
+        "name":  "gearsofbabies",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gearsofbabies/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gearsofbabies/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "generic-fishing-game",
+        "name":  "generic fishing game",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/generic-fishing-game/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/generic-fishing-game/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "geochallenge",
+        "name":  "geochallenge",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geochallenge/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geochallenge/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "geodash",
+        "name":  "geodash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geodash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geodash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "geogeo",
+        "name":  "geogeo",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geogeo/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geogeo/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "geoneondash",
+        "name":  "geoneondash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geoneondash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geoneondash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "geops1",
+        "name":  "geops1",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geops1/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geops1/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "georash",
+        "name":  "georash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/georash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/georash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "georgeandtheprinter",
+        "name":  "georgeandtheprinter",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/georgeandtheprinter/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/georgeandtheprinter/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "geotrash",
+        "name":  "geotrash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geotrash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/geotrash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "getaway-shootout",
+        "name":  "getaway shootout",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/getaway-shootout/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/getaway-shootout/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "gimme-the-airpod",
+        "name":  "gimme the airpod",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gimme-the-airpod/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gimme-the-airpod/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "glass-city",
+        "name":  "glass city",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/glass-city/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/glass-city/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "gmonster",
+        "name":  "gmonster",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gmonster/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gmonster/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "go-ball",
+        "name":  "go ball",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/go-ball/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/go-ball/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "goodnight",
+        "name":  "goodnight",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/goodnight/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/goodnight/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "goodnight-meowmie",
+        "name":  "goodnight meowmie",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/goodnight-meowmie/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/goodnight-meowmie/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "google-feud",
+        "name":  "google feud",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/google-feud/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/google-feud/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "google-snake",
+        "name":  "google snake",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/google-snake/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/google-snake/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "gravity-soccer",
+        "name":  "gravity soccer",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gravity-soccer/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/gravity-soccer/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "greybox",
+        "name":  "greybox",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/greybox/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/greybox/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "grindcraft",
+        "name":  "grindcraft",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/grindcraft/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/grindcraft/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hackertype",
+        "name":  "hackertype",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hackertype/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hackertype/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "handshakes",
+        "name":  "handshakes",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/handshakes/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/handshakes/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "happy-hop",
+        "name":  "happy hop",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/happy-hop/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/happy-hop/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "happywheels",
+        "name":  "happywheels",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/happywheels/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/happywheels/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hardware-tycoon",
+        "name":  "hardware tycoon",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hardware-tycoon/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hardware-tycoon/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hba",
+        "name":  "hba",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hba/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hba/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "helicopter",
+        "name":  "helicopter",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/helicopter/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/helicopter/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hexempire",
+        "name":  "hexempire",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hexempire/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hexempire/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hexgl",
+        "name":  "HexGL",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/HexGL/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/HexGL/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hextris",
+        "name":  "hextris",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hextris/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hextris/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "highrisehop",
+        "name":  "highrisehop",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/highrisehop/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/highrisehop/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hill-climb-racing",
+        "name":  "hill climb racing",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hill-climb-racing/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hill-climb-racing/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "hungry-lamu",
+        "name":  "hungry lamu",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hungry-lamu/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/hungry-lamu/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "iceagebaby",
+        "name":  "iceagebaby",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/iceagebaby/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/iceagebaby/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "iceagebaby2",
+        "name":  "iceagebaby2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/iceagebaby2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/iceagebaby2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "idle-breakout",
+        "name":  "idle breakout",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idle-breakout/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idle-breakout/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "idledices",
+        "name":  "idledices",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idledices/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idledices/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "idle-shark",
+        "name":  "idle shark",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idle-shark/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/idle-shark/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "impossiblequiz",
+        "name":  "impossiblequiz",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/impossiblequiz/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/impossiblequiz/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "interactivebuddy",
+        "name":  "interactivebuddy",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/interactivebuddy/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/interactivebuddy/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "invite-the-blackbird",
+        "name":  "invite the blackbird",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/invite-the-blackbird/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/invite-the-blackbird/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "jetpack-joyride",
+        "name":  "jetpack joyride",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/jetpack-joyride/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/jetpack-joyride/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "just-fall",
+        "name":  "just fall",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/just-fall/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/just-fall/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "just-one-boss",
+        "name":  "just one boss",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/just-one-boss/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/just-one-boss/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "kitchen-gun-game",
+        "name":  "kitchen gun game",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/kitchen-gun-game/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/kitchen-gun-game/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "kittencannon",
+        "name":  "kittencannon",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/kittencannon/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/kittencannon/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "knife-master",
+        "name":  "knife master",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/knife-master/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/knife-master/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "krunker",
+        "name":  "krunker",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/krunker/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/krunker/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "learntofly",
+        "name":  "learntofly",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "learntofly2",
+        "name":  "learntofly2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "level13",
+        "name":  "level13",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/level13/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/level13/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ltf3",
+        "name":  "ltf3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ltf3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ltf3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ltf-idle",
+        "name":  "ltf idle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ltf-idle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ltf-idle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "madalin-stunt-cars-2",
+        "name":  "madalin stunt cars 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/madalin-stunt-cars-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/madalin-stunt-cars-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "madalin-stunt-cars-3",
+        "name":  "madalin stunt cars 3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/madalin-stunt-cars-3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/madalin-stunt-cars-3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "mario",
+        "name":  "mario",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mario/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mario/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "marvinspectrum",
+        "name":  "marvinspectrum",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/marvinspectrum/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/marvinspectrum/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "matrixrampage",
+        "name":  "matrixrampage",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/matrixrampage/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/matrixrampage/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "mc2d",
+        "name":  "mc2d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mc2d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mc2d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "meme2048",
+        "name":  "meme2048",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/meme2048/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/meme2048/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "merge-round-racers",
+        "name":  "merge round racers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/merge-round-racers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/merge-round-racers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "mindustry",
+        "name":  "mindustry",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mindustry/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mindustry/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "mineblocks",
+        "name":  "mineblocks",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mineblocks/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/mineblocks/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "minecraft-15",
+        "name":  "minecraft 15",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraft-15/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraft-15/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "minecraft-18",
+        "name":  "minecraft 18",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraft-18/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraft-18/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "minecraftbeta",
+        "name":  "minecraftbeta",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraftbeta/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraftbeta/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "minecraft-classic",
+        "name":  "minecraft classic",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraft-classic/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minecraft-classic/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "minesweeper",
+        "name":  "minesweeper",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minesweeper/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/minesweeper/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "miniputt",
+        "name":  "miniputt",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/miniputt/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/miniputt/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "missiles",
+        "name":  "missiles",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/missiles/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/missiles/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "monkeymart",
+        "name":  "MonkeyMart",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/MonkeyMart/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/MonkeyMart/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "monster-tracks",
+        "name":  "monster tracks",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/monster-tracks/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/monster-tracks/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "motox3m",
+        "name":  "motox3m",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "motox3m2",
+        "name":  "motox3m2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "motox3m-pool",
+        "name":  "motox3m pool",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m-pool/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m-pool/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "motox3m-spooky",
+        "name":  "motox3m spooky",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m-spooky/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m-spooky/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "motox3m-winter",
+        "name":  "motox3m winter",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m-winter/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/motox3m-winter/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "my-rusty-submarine",
+        "name":  "my rusty submarine",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/my-rusty-submarine/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/my-rusty-submarine/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "n-gon",
+        "name":  "n gon",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/n-gon/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/n-gon/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ninja",
+        "name":  "ninja",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ninja/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ninja/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ninjavsevilcorp",
+        "name":  "ninjavsevilcorp",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ninjavsevilcorp/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ninjavsevilcorp/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "noob-steve-parkour",
+        "name":  "noob steve parkour",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/noob-steve-parkour/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/noob-steve-parkour/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "nsresurgence",
+        "name":  "nsresurgence",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/nsresurgence/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/nsresurgence/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ns-shaft",
+        "name":  "ns shaft",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ns-shaft/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ns-shaft/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "offlineparadise",
+        "name":  "OfflineParadise",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/OfflineParadise/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/OfflineParadise/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "om-bounce",
+        "name":  "om bounce",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/om-bounce/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/om-bounce/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "osu",
+        "name":  "osu!",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/osu!/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/osu!/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ovo",
+        "name":  "ovo",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ovo/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ovo/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "pandemic2",
+        "name":  "pandemic2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/pandemic2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/pandemic2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "papasburgeria",
+        "name":  "papasburgeria",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/papasburgeria/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/papasburgeria/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "papaspizzaria",
+        "name":  "papaspizzaria",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/papaspizzaria/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/papaspizzaria/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "paperio2",
+        "name":  "paperio2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/paperio2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/paperio2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "papery-planes",
+        "name":  "papery planes",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/papery-planes/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/papery-planes/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "particle-clicker",
+        "name":  "particle clicker",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/particle-clicker/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/particle-clicker/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "pigeon-ascent",
+        "name":  "pigeon ascent",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/pigeon-ascent/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/pigeon-ascent/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "pixel-gun-survival",
+        "name":  "pixel gun survival",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/pixel-gun-survival/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/pixel-gun-survival/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "planetlife",
+        "name":  "planetlife",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/planetlife/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/planetlife/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "polybranch",
+        "name":  "polybranch",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/polybranch/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/polybranch/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "poom",
+        "name":  "poom",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/poom/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/poom/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "popcat-classic",
+        "name":  "popcat classic",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/popcat-classic/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/popcat-classic/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "portalflash",
+        "name":  "portalflash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/portalflash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/portalflash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "precision-client",
+        "name":  "precision client",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/precision-client/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/precision-client/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "protektor",
+        "name":  "protektor",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/protektor/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/protektor/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "push-the-square",
+        "name":  "push the square",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/push-the-square/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/push-the-square/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "push-your-luck",
+        "name":  "push your luck",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/push-your-luck/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/push-your-luck/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rabbit-samurai",
+        "name":  "rabbit samurai",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rabbit-samurai/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rabbit-samurai/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rabbit-samurai2",
+        "name":  "rabbit samurai2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rabbit-samurai2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rabbit-samurai2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "resent-client",
+        "name":  "resent client",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/resent-client/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/resent-client/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "retro-bowl",
+        "name":  "retro bowl",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/retro-bowl/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/retro-bowl/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rhythm-doctor",
+        "name":  "rhythm doctor",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rhythm-doctor/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rhythm-doctor/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddleschool",
+        "name":  "riddleschool",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddleschool2",
+        "name":  "riddleschool2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddleschool3",
+        "name":  "riddleschool3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddleschool4",
+        "name":  "riddleschool4",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool4/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool4/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddleschool5",
+        "name":  "riddleschool5",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool5/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool5/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddletransfer",
+        "name":  "riddletransfer",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddletransfer/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddletransfer/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "riddletransfer2",
+        "name":  "riddletransfer2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddletransfer2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddletransfer2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "roblox",
+        "name":  "roblox",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/roblox/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/roblox/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "roblox-copy",
+        "name":  "roblox copy",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/roblox%20copy/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/roblox%20copy/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rocket-league",
+        "name":  "Rocket League",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Rocket-League/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Rocket-League/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rolling-forests",
+        "name":  "rolling forests",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rolling-forests/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rolling-forests/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rolly-vortex",
+        "name":  "rolly vortex",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rolly-vortex/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rolly-vortex/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "rooftop-snipers",
+        "name":  "rooftop snipers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rooftop-snipers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/rooftop-snipers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ruffle",
+        "name":  "ruffle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ruffle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ruffle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "run",
+        "name":  "run",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/run/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/run/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "run-2",
+        "name":  "Run 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Run%202/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Run%202/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "run4bootleg",
+        "name":  "run4bootleg",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/run4bootleg/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/run4bootleg/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "runner",
+        "name":  "runner",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/runner/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/runner/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sandboxels",
+        "name":  "sandboxels",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sandboxels/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sandboxels/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sand-game",
+        "name":  "sand game",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sand-game/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sand-game/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "santy-is-home",
+        "name":  "santy is home",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/santy-is-home/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/santy-is-home/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "scooperia",
+        "name":  "scooperia",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/scooperia/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/scooperia/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "scrapmetal",
+        "name":  "scrapmetal",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/scrapmetal/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/scrapmetal/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "scratcharia",
+        "name":  "scratcharia",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/scratcharia/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/scratcharia/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "shapeshootout",
+        "name":  "ShapeShootout",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ShapeShootout/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ShapeShootout/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "shellshockers",
+        "name":  "shellshockers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/shellshockers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/shellshockers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "shotinthedark",
+        "name":  "shotinthedark",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/shotinthedark/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/shotinthedark/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "shuttledeck",
+        "name":  "shuttledeck",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/shuttledeck/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/shuttledeck/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sky-car-stunt",
+        "name":  "sky car stunt",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sky-car-stunt/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sky-car-stunt/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sleepingbeauty",
+        "name":  "sleepingbeauty",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sleepingbeauty/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sleepingbeauty/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "slime-rush-td",
+        "name":  "slime rush td",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slime-rush-td/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slime-rush-td/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "slope",
+        "name":  "slope",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "slope-2",
+        "name":  "slope 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "slope-ball",
+        "name":  "slope ball",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope-ball/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope-ball/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sm64",
+        "name":  "sm64",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sm64/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sm64/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "smashkarts",
+        "name":  "smashkarts",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/smashkarts/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/smashkarts/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "smokingbarrels",
+        "name":  "smokingbarrels",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/smokingbarrels/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/smokingbarrels/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "snowbattle",
+        "name":  "snowbattle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/snowbattle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/snowbattle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "snowrider3d",
+        "name":  "snowrider3d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/snowrider3d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/snowrider3d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "soccer-random",
+        "name":  "soccer random",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soccer-random/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soccer-random/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "soccer-skills",
+        "name":  "soccer skills",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soccer-skills/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soccer-skills/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "soldier-legend",
+        "name":  "soldier legend",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soldier-legend/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soldier-legend/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "solitaire",
+        "name":  "solitaire",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/solitaire/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/solitaire/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sort-the-court",
+        "name":  "sort the court",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sort-the-court/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sort-the-court/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "soundboard",
+        "name":  "soundboard",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soundboard/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/soundboard/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "space-company",
+        "name":  "space company",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/space-company/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/space-company/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "spacegarden",
+        "name":  "spacegarden",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/spacegarden/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/spacegarden/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "spelunky",
+        "name":  "spelunky",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/spelunky/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/spelunky/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "spinningrat",
+        "name":  "spinningrat",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/spinningrat/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/spinningrat/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "squaredash",
+        "name":  "squaredash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/squaredash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/squaredash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "squarerush",
+        "name":  "squarerush",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/squarerush/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/squarerush/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "ssurferbotleg",
+        "name":  "ssurferbotleg",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ssurferbotleg/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ssurferbotleg/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stack",
+        "name":  "stack",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stack/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stack/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stack-bump-3d",
+        "name":  "stack bump 3d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stack-bump-3d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stack-bump-3d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "starve",
+        "name":  "starve",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/starve/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/starve/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "station-141",
+        "name":  "station 141",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/station-141/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/station-141/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stationmeltdown",
+        "name":  "stationmeltdown",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stationmeltdown/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stationmeltdown/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stealingthediamond",
+        "name":  "stealingthediamond",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stealingthediamond/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stealingthediamond/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stick-archers",
+        "name":  "stick archers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stick-archers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stick-archers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stick-duel-battle",
+        "name":  "stick duel battle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stick-duel-battle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stick-duel-battle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stickman-boost",
+        "name":  "stickman boost",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickman-boost/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickman-boost/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stickman-golf",
+        "name":  "stickman golf",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickman-golf/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickman-golf/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stickman-hook",
+        "name":  "stickman hook",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickman-hook/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickman-hook/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stickman-survival",
+        "name":  "Stickman Survival",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Stickman-Survival/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Stickman-Survival/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stick-merge",
+        "name":  "stick merge",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stick-merge/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stick-merge/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stickwar",
+        "name":  "stickwar",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickwar/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stickwar/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "stormthehouse2",
+        "name":  "stormthehouse2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stormthehouse2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/stormthehouse2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "subway-surfers",
+        "name":  "subway surfers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/subway-surfers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/subway-surfers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "subway-surfers-ny",
+        "name":  "subway surfers ny",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/subway-surfers-ny/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/subway-surfers-ny/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "superautopets",
+        "name":  "superautopets",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superautopets/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superautopets/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "superfowlist",
+        "name":  "superfowlist",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superfowlist/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superfowlist/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "superhot",
+        "name":  "superhot",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superhot/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/superhot/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "supermarioconstruct",
+        "name":  "supermarioconstruct",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/supermarioconstruct/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/supermarioconstruct/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "surviv",
+        "name":  "surviv",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/surviv/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/surviv/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "sushi-unroll",
+        "name":  "sushi unroll",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sushi-unroll/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/sushi-unroll/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "swerve",
+        "name":  "swerve",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/swerve/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/swerve/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "synesthesia",
+        "name":  "synesthesia",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/synesthesia/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/synesthesia/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tacticalassasin2",
+        "name":  "tacticalassasin2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tacticalassasin2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tacticalassasin2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tactical-weapon-pack-2",
+        "name":  "tactical weapon pack 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tactical-weapon-pack-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tactical-weapon-pack-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tank-trouble-2",
+        "name":  "tank trouble 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tank-trouble-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tank-trouble-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tanuki-sunset",
+        "name":  "tanuki sunset",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tanuki-sunset/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tanuki-sunset/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "temple-run-2",
+        "name":  "temple run 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/temple-run-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/temple-run-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "thebattle",
+        "name":  "thebattle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/thebattle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/thebattle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "the-final-earth",
+        "name":  "the final earth",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/the-final-earth/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/the-final-earth/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "the-final-earth-2",
+        "name":  "the final earth 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/the-final-earth-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/the-final-earth-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "theheist",
+        "name":  "theheist",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/theheist/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/theheist/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "the-hotel",
+        "name":  "the hotel",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/the-hotel/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/the-hotel/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "there-is-no-game",
+        "name":  "there is no game",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/there-is-no-game/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/there-is-no-game/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "thisistheonlylevel",
+        "name":  "thisistheonlylevel",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/thisistheonlylevel/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/thisistheonlylevel/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "throwrocks",
+        "name":  "throwrocks",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/throwrocks/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/throwrocks/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tiny-fishing",
+        "name":  "tiny fishing",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tiny-fishing/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tiny-fishing/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tiny-islands",
+        "name":  "tiny islands",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tiny-islands/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tiny-islands/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tosstheturtle",
+        "name":  "tosstheturtle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tosstheturtle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tosstheturtle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "townscaper",
+        "name":  "townscaper",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/townscaper/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/townscaper/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "trimps",
+        "name":  "Trimps",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Trimps/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/Trimps/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tube-jumpers",
+        "name":  "tube jumpers",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tube-jumpers/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tube-jumpers/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tunnel-rush",
+        "name":  "tunnel rush",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tunnel-rush/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tunnel-rush/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "tv-static",
+        "name":  "tv static",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tv-static/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/tv-static/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "twitch-tetris",
+        "name":  "twitch tetris",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/twitch-tetris/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/twitch-tetris/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "unfairmario",
+        "name":  "unfairmario",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/unfairmario/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/unfairmario/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "veloce",
+        "name":  "veloce",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/veloce/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/veloce/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "vex3",
+        "name":  "vex3",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex3/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex3/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "vex4",
+        "name":  "vex4",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex4/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex4/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "vex5",
+        "name":  "vex5",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex5/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex5/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "vex6",
+        "name":  "vex6",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex6/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex6/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "vex7",
+        "name":  "vex7",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex7/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/vex7/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "volley-random",
+        "name":  "volley random",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/volley-random/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/volley-random/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "wallsmash",
+        "name":  "wallsmash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wallsmash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wallsmash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "waterworks",
+        "name":  "waterworks",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/waterworks/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/waterworks/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "weavesilk",
+        "name":  "weavesilk",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/weavesilk/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/weavesilk/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "webcleaner",
+        "name":  "webcleaner",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webcleaner/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webcleaner/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "webgl-fluid-simulation",
+        "name":  "webgl fluid simulation",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webgl-fluid-simulation/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webgl-fluid-simulation/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "webretro",
+        "name":  "webretro",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webretro/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webretro/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "webxash",
+        "name":  "webxash",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webxash/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/webxash/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "wiicraft",
+        "name":  "wiicraft",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wiicraft/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wiicraft/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "win-the-whitehouse",
+        "name":  "win the whitehouse",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/win-the-whitehouse/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/win-the-whitehouse/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "wolf2d",
+        "name":  "wolf2d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wolf2d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wolf2d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "wolf3d",
+        "name":  "wolf3d",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wolf3d/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wolf3d/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "wordle",
+        "name":  "wordle",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wordle/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wordle/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "worlds-hardest-game",
+        "name":  "worlds hardest game",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/worlds-hardest-game/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/worlds-hardest-game/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "worlds-hardest-game-2",
+        "name":  "worlds hardest game 2",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/worlds-hardest-game-2/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/worlds-hardest-game-2/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "wounded-summer-baby-edition",
+        "name":  "wounded summer baby edition",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wounded-summer-baby-edition/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/wounded-summer-baby-edition/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "x-trial-racing",
+        "name":  "x trial racing",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/x-trial-racing/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/x-trial-racing/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "xx142-b2exe",
+        "name":  "xx142 b2exe",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/xx142-b2exe/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/xx142-b2exe/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "yohoho",
+        "name":  "yohoho",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/yohoho/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/yohoho/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "yoshifabrication",
+        "name":  "yoshifabrication",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/yoshifabrication/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/yoshifabrication/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "you-are-bezos",
+        "name":  "you are bezos",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/you-are-bezos/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/you-are-bezos/",
+        "loadMode":  "srcdoc"
+    },
+    {
+        "slug":  "zombs-royale",
+        "name":  "zombs royale",
+        "sourceUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/zombs-royale/index.html",
+        "sourceBaseUrl":  "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/zombs-royale/",
+        "loadMode":  "srcdoc"
+    }
+]

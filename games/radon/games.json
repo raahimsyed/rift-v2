@@ -1,0 +1,485 @@
+﻿[
+    {
+        "slug":  "2048",
+        "name":  "2048",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/2048/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/2048/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "a-dark-room",
+        "name":  "a dark room",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/a-dark-room/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/a-dark-room/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "agario-minigame",
+        "name":  "agario minigame",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/agario-minigame/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/agario-minigame/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "align-4",
+        "name":  "align 4",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/align-4/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/align-4/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "astray",
+        "name":  "astray",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/astray/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/astray/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "basketball-stars",
+        "name":  "basketball stars",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/basketball-stars/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/basketball-stars/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "basket-random",
+        "name":  "basket random",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/basket-random/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/basket-random/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "bike-mania",
+        "name":  "bike mania",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/bike-mania/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/bike-mania/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "boxing-random",
+        "name":  "boxing random",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/boxing-random/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/boxing-random/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "breaklock",
+        "name":  "breaklock",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/breaklock/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/breaklock/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "chroma",
+        "name":  "chroma",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/chroma/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/chroma/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "colorun",
+        "name":  "colorun",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/colorun/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/colorun/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cookie",
+        "name":  "cookie",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/cookie/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/cookie/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cubefield",
+        "name":  "cubefield",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/cubefield/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/cubefield/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dinosaur",
+        "name":  "dinosaur",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/dinosaur/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/dinosaur/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "donut-boy",
+        "name":  "donut boy",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/donut-boy/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/donut-boy/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "doodle-jump",
+        "name":  "doodle jump",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/doodle-jump/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/doodle-jump/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fireboy-and-watergirl-forest-temple",
+        "name":  "fireboy and watergirl forest temple",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/fireboy-and-watergirl-forest-temple/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/fireboy-and-watergirl-forest-temple/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "fire-truck-dash",
+        "name":  "fire truck dash",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/fire-truck-dash/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/fire-truck-dash/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flakboy",
+        "name":  "flakboy",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flakboy/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flakboy/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flappy-2048",
+        "name":  "flappy 2048",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flappy-2048/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flappy-2048/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flappybird",
+        "name":  "flappybird",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flappybird/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/flappybird/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "friday-night-funkin-vs-ex",
+        "name":  "friday night funkin vs ex",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/friday-night-funkin--vs-ex/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/friday-night-funkin--vs-ex/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "friday-night-funkin-week-6",
+        "name":  "friday night funkin week 6",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/friday-night-funkin--week-6/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/friday-night-funkin--week-6/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "friendlyfire",
+        "name":  "friendlyfire",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/friendlyfire/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/friendlyfire/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "geometry",
+        "name":  "geometry",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/geometry/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/geometry/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "geometry-dash-remastered",
+        "name":  "geometry dash remastered",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/geometry-dash-remastered/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/geometry-dash-remastered/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "google-snake",
+        "name":  "google snake",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/google-snake/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/google-snake/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "google-solitaire",
+        "name":  "google solitaire",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/google-solitaire/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/google-solitaire/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gopher-kart",
+        "name":  "gopher kart",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/gopher-kart/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/gopher-kart/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "gun-knight",
+        "name":  "gun knight",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/gun-knight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/gun-knight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hacker-typer",
+        "name":  "hacker typer",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hacker-typer/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hacker-typer/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hexgl",
+        "name":  "hexgl",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hexgl/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hexgl/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hextris",
+        "name":  "hextris",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hextris/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hextris/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "hill-racing",
+        "name":  "hill racing",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hill-racing/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/hill-racing/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "mc-classic",
+        "name":  "mc classic",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/mc-classic/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/mc-classic/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "microsoft-flight-simulator",
+        "name":  "microsoft flight simulator",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/microsoft-flight-simulator/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/microsoft-flight-simulator/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "minesweeper",
+        "name":  "minesweeper",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/minesweeper/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/minesweeper/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "moto-x3m",
+        "name":  "moto x3m",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "moto-x3m-pool-party",
+        "name":  "moto x3m pool party",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m-pool-party/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m-pool-party/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "moto-x3m-spooky-land",
+        "name":  "moto x3m spooky land",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m-spooky-land/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m-spooky-land/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "moto-x3m-winter",
+        "name":  "moto x3m winter",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m-winter/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/moto-x3m-winter/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "muffin-knight",
+        "name":  "muffin knight",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/muffin-knight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/muffin-knight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "pacman",
+        "name":  "pacman",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/pacman/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/pacman/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "radius-raid",
+        "name":  "radius raid",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/radius-raid/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/radius-raid/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "retro-bowl",
+        "name":  "retro bowl",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/retro-bowl/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/retro-bowl/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "ritz",
+        "name":  "ritz",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/ritz/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/ritz/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "run-3",
+        "name":  "run 3",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/run-3/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/run-3/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "running-bot-xmas-gifts",
+        "name":  "running bot xmas gifts",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/running-bot-xmas-gifts/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/running-bot-xmas-gifts/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sans-fight",
+        "name":  "sans fight",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/sans-fight/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/sans-fight/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "sm64",
+        "name":  "sm64",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/sm64/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/sm64/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "soccer-random",
+        "name":  "soccer random",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/soccer-random/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/soccer-random/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "spaceinvaders",
+        "name":  "spaceinvaders",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/spaceinvaders/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/spaceinvaders/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-smash-flash-2a",
+        "name":  "super smash flash 2a",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/super-smash-flash-2a/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/super-smash-flash-2a/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "super-smash-flash-2b",
+        "name":  "super smash flash 2b",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/super-smash-flash-2b/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/super-smash-flash-2b/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "tanktrouble",
+        "name":  "tanktrouble",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/tanktrouble/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/tanktrouble/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "there-is-no-game",
+        "name":  "there is no game",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/there-is-no-game/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/there-is-no-game/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "unfair-dyne",
+        "name":  "unfair dyne",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/unfair-dyne/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/unfair-dyne/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "uno",
+        "name":  "uno",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/uno/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/uno/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "vex3",
+        "name":  "vex3",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/vex3/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/vex3/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "vex4",
+        "name":  "vex4",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/vex4/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/vex4/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "vex5",
+        "name":  "vex5",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/vex5/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/vex5/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "volley-random",
+        "name":  "volley random",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/volley-random/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/volley-random/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "webgl-rollingsky",
+        "name":  "webgl rollingsky",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/webgl-rollingsky/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/webgl-rollingsky/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "wordle",
+        "name":  "wordle",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/wordle/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/wordle/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "zombotron",
+        "name":  "zombotron",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombotron/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombotron/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "zombotron-2",
+        "name":  "zombotron 2",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombotron-2/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombotron-2/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "zombotron-2-time-machine",
+        "name":  "zombotron 2 time machine",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombotron-2-time-machine/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombotron-2-time-machine/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "zombsroyale",
+        "name":  "zombsroyale",
+        "sourceUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombsroyale/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/zombsroyale/",
+        "loadMode":  "url"
+    }
+]

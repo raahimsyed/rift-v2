@@ -1,0 +1,2585 @@
+﻿[
+    {
+        "slug":  "1",
+        "name":  "1",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/1.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "10",
+        "name":  "10",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/10.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "100",
+        "name":  "100",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/100.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "101",
+        "name":  "101",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/101.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "102",
+        "name":  "102",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/102.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "103",
+        "name":  "103",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/103.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "104",
+        "name":  "104",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/104.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "105",
+        "name":  "105",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/105.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "106",
+        "name":  "106",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/106.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "107",
+        "name":  "107",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/107.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "108",
+        "name":  "108",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/108.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "109",
+        "name":  "109",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/109.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "11",
+        "name":  "11",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/11.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "110",
+        "name":  "110",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/110.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "111",
+        "name":  "111",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/111.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "112",
+        "name":  "112",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/112.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "113",
+        "name":  "113",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/113.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "114",
+        "name":  "114",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/114.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "115",
+        "name":  "115",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/115.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "116",
+        "name":  "116",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/116.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "117",
+        "name":  "117",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/117.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "118",
+        "name":  "118",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/118.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "119",
+        "name":  "119",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/119.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "12",
+        "name":  "12",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/12.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "120",
+        "name":  "120",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/120.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "121",
+        "name":  "121",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/121.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "122",
+        "name":  "122",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/122.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "123",
+        "name":  "123",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/123.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "124",
+        "name":  "124",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/124.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "125",
+        "name":  "125",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/125.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "126",
+        "name":  "126",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/126.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "127",
+        "name":  "127",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/127.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "128",
+        "name":  "128",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/128.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "129",
+        "name":  "129",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/129.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "13",
+        "name":  "13",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/13.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "130",
+        "name":  "130",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/130.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "133",
+        "name":  "133",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/133.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "134",
+        "name":  "134",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/134.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "135",
+        "name":  "135",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/135.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "136",
+        "name":  "136",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/136.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "137",
+        "name":  "137",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/137.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "138",
+        "name":  "138",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/138.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "139",
+        "name":  "139",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/139.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "14",
+        "name":  "14",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/14.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "140",
+        "name":  "140",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/140.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "141",
+        "name":  "141",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/141.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "142",
+        "name":  "142",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/142.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "143",
+        "name":  "143",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/143.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "144",
+        "name":  "144",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/144.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "145",
+        "name":  "145",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/145.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "146",
+        "name":  "146",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/146.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "147",
+        "name":  "147",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/147.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "148",
+        "name":  "148",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/148.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "149",
+        "name":  "149",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/149.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "15",
+        "name":  "15",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/15.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "150",
+        "name":  "150",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/150.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "151",
+        "name":  "151",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/151.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "152",
+        "name":  "152",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/152.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "153",
+        "name":  "153",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/153.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "154",
+        "name":  "154",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/154.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "155",
+        "name":  "155",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/155.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "156",
+        "name":  "156",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/156.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "157",
+        "name":  "157",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/157.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "158",
+        "name":  "158",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/158.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "159",
+        "name":  "159",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/159.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "16",
+        "name":  "16",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/16.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "160",
+        "name":  "160",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/160.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "161",
+        "name":  "161",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/161.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "162",
+        "name":  "162",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/162.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "163",
+        "name":  "163",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/163.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "164",
+        "name":  "164",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/164.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "165",
+        "name":  "165",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/165.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "166",
+        "name":  "166",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/166.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "167",
+        "name":  "167",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/167.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "168",
+        "name":  "168",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/168.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "169",
+        "name":  "169",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/169.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "17",
+        "name":  "17",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/17.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "170",
+        "name":  "170",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/170.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "171",
+        "name":  "171",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/171.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "172",
+        "name":  "172",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/172.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "173",
+        "name":  "173",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/173.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "174",
+        "name":  "174",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/174.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "175",
+        "name":  "175",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/175.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "176",
+        "name":  "176",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/176.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "177",
+        "name":  "177",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/177.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "178",
+        "name":  "178",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/178.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "179",
+        "name":  "179",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/179.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "18",
+        "name":  "18",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/18.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "180",
+        "name":  "180",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/180.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "181",
+        "name":  "181",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/181.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "182",
+        "name":  "182",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/182.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "183",
+        "name":  "183",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/183.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "184",
+        "name":  "184",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/184.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "185",
+        "name":  "185",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/185.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "186",
+        "name":  "186",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/186.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "187",
+        "name":  "187",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/187.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "188",
+        "name":  "188",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/188.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "189",
+        "name":  "189",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/189.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "19",
+        "name":  "19",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/19.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "190",
+        "name":  "190",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/190.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "191",
+        "name":  "191",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/191.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "192",
+        "name":  "192",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/192.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "193",
+        "name":  "193",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/193.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "194",
+        "name":  "194",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/194.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "195",
+        "name":  "195",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/195.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "196",
+        "name":  "196",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/196.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "197",
+        "name":  "197",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/197.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "198",
+        "name":  "198",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/198.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "199",
+        "name":  "199",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/199.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "2",
+        "name":  "2",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/2.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "20",
+        "name":  "20",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/20.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "200",
+        "name":  "200",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/200.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "201",
+        "name":  "201",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/201.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "2019",
+        "name":  "2019",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/2019.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "202",
+        "name":  "202",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/202.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "203",
+        "name":  "203",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/203.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "204",
+        "name":  "204",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/204.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "205",
+        "name":  "205",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/205.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "206",
+        "name":  "206",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/206.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "207",
+        "name":  "207",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/207.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "208",
+        "name":  "208",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/208.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "209",
+        "name":  "209",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/209.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "21",
+        "name":  "21",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/21.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "210",
+        "name":  "210",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/210.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "211",
+        "name":  "211",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/211.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "212",
+        "name":  "212",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/212.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "213",
+        "name":  "213",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/213.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "214",
+        "name":  "214",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/214.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "215",
+        "name":  "215",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/215.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "216",
+        "name":  "216",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/216.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "217",
+        "name":  "217",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/217.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "218",
+        "name":  "218",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/218.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "219",
+        "name":  "219",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/219.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "22",
+        "name":  "22",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/22.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "220",
+        "name":  "220",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/220.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "221",
+        "name":  "221",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/221.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "222",
+        "name":  "222",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/222.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "223",
+        "name":  "223",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/223.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "224",
+        "name":  "224",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/224.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "225",
+        "name":  "225",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/225.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "226",
+        "name":  "226",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/226.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "227",
+        "name":  "227",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/227.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "228",
+        "name":  "228",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/228.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "229",
+        "name":  "229",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/229.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "23",
+        "name":  "23",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/23.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "230",
+        "name":  "230",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/230.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "231",
+        "name":  "231",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/231.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "232",
+        "name":  "232",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/232.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "233",
+        "name":  "233",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/233.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "234",
+        "name":  "234",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/234.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "235",
+        "name":  "235",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/235.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "236",
+        "name":  "236",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/236.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "237",
+        "name":  "237",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/237.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "238",
+        "name":  "238",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/238.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "239",
+        "name":  "239",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/239.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "24",
+        "name":  "24",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/24.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "240",
+        "name":  "240",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/240.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "241",
+        "name":  "241",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/241.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "242",
+        "name":  "242",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/242.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "243",
+        "name":  "243",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/243.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "244",
+        "name":  "244",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/244.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "245",
+        "name":  "245",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/245.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "246",
+        "name":  "246",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/246.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "247",
+        "name":  "247",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/247.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "248",
+        "name":  "248",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/248.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "249",
+        "name":  "249",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/249.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "25",
+        "name":  "25",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/25.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "250",
+        "name":  "250",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/250.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "251",
+        "name":  "251",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/251.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "252",
+        "name":  "252",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/252.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "253",
+        "name":  "253",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/253.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "254",
+        "name":  "254",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/254.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "255",
+        "name":  "255",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/255.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "256",
+        "name":  "256",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/256.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "257",
+        "name":  "257",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/257.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "258",
+        "name":  "258",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/258.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "259",
+        "name":  "259",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/259.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "26",
+        "name":  "26",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/26.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "260",
+        "name":  "260",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/260.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "261",
+        "name":  "261",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/261.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "262",
+        "name":  "262",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/262.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "263",
+        "name":  "263",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/263.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "264",
+        "name":  "264",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/264.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "265",
+        "name":  "265",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/265.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "266",
+        "name":  "266",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/266.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "267",
+        "name":  "267",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/267.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "268",
+        "name":  "268",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/268.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "269",
+        "name":  "269",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/269.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "27",
+        "name":  "27",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/27.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "270",
+        "name":  "270",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/270.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "271",
+        "name":  "271",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/271.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "272",
+        "name":  "272",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/272.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "273",
+        "name":  "273",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/273.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "274",
+        "name":  "274",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/274.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "275",
+        "name":  "275",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/275.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "276",
+        "name":  "276",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/276.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "277",
+        "name":  "277",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/277.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "278",
+        "name":  "278",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/278.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "279",
+        "name":  "279",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/279.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "28",
+        "name":  "28",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/28.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "280",
+        "name":  "280",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/280.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "281",
+        "name":  "281",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/281.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "282",
+        "name":  "282",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/282.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "283",
+        "name":  "283",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/283.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "284",
+        "name":  "284",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/284.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "285",
+        "name":  "285",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/285.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "286",
+        "name":  "286",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/286.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "287",
+        "name":  "287",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/287.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "288",
+        "name":  "288",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/288.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "289",
+        "name":  "289",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/289.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "29",
+        "name":  "29",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/29.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "290",
+        "name":  "290",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/290.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "291",
+        "name":  "291",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/291.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "292",
+        "name":  "292",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/292.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "293",
+        "name":  "293",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/293.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "294",
+        "name":  "294",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/294.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "296",
+        "name":  "296",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/296.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "297",
+        "name":  "297",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/297.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "298",
+        "name":  "298",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/298.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "299",
+        "name":  "299",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/299.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "3",
+        "name":  "3",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/3.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "30",
+        "name":  "30",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/30.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "300",
+        "name":  "300",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/300.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "301",
+        "name":  "301",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/301.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "302",
+        "name":  "302",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/302.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "303",
+        "name":  "303",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/303.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "304",
+        "name":  "304",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/304.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "305",
+        "name":  "305",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/305.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "306",
+        "name":  "306",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/306.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "307",
+        "name":  "307",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/307.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "308",
+        "name":  "308",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/308.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "309",
+        "name":  "309",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/309.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "31",
+        "name":  "31",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/31.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "310",
+        "name":  "310",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/310.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "311",
+        "name":  "311",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/311.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "312",
+        "name":  "312",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/312.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "313",
+        "name":  "313",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/313.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "32",
+        "name":  "32",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/32.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "33",
+        "name":  "33",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/33.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "336",
+        "name":  "336",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/336.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "337",
+        "name":  "337",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/337.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "338",
+        "name":  "338",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/338.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "339",
+        "name":  "339",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/339.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "34",
+        "name":  "34",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/34.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "340",
+        "name":  "340",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/340.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "341",
+        "name":  "341",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/341.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "342",
+        "name":  "342",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/342.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "343",
+        "name":  "343",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/343.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "344",
+        "name":  "344",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/344.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "345",
+        "name":  "345",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/345.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "346",
+        "name":  "346",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/346.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "347",
+        "name":  "347",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/347.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "348",
+        "name":  "348",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/348.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "35",
+        "name":  "35",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/35.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "350",
+        "name":  "350",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/350.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "351",
+        "name":  "351",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/351.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "352",
+        "name":  "352",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/352.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "353",
+        "name":  "353",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/353.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "354",
+        "name":  "354",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/354.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "355",
+        "name":  "355",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/355.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "356",
+        "name":  "356",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/356.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "357",
+        "name":  "357",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/357.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "358",
+        "name":  "358",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/358.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "359",
+        "name":  "359",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/359.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "36",
+        "name":  "36",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/36.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "360",
+        "name":  "360",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/360.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "361",
+        "name":  "361",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/361.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "362",
+        "name":  "362",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/362.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "363",
+        "name":  "363",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/363.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "364",
+        "name":  "364",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/364.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "365",
+        "name":  "365",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/365.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "366",
+        "name":  "366",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/366.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "367",
+        "name":  "367",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/367.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "368",
+        "name":  "368",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/368.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "369",
+        "name":  "369",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/369.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "37",
+        "name":  "37",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/37.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "370",
+        "name":  "370",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/370.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "371",
+        "name":  "371",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/371.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "372",
+        "name":  "372",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/372.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "373",
+        "name":  "373",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/373.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "374",
+        "name":  "374",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/374.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "375",
+        "name":  "375",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/375.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "376",
+        "name":  "376",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/376.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "377",
+        "name":  "377",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/377.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "378",
+        "name":  "378",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/378.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "379",
+        "name":  "379",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/379.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "38",
+        "name":  "38",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/38.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "380",
+        "name":  "380",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/380.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "382",
+        "name":  "382",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/382.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "383",
+        "name":  "383",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/383.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "384",
+        "name":  "384",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/384.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "385",
+        "name":  "385",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/385.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "386",
+        "name":  "386",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/386.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "387",
+        "name":  "387",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/387.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "388",
+        "name":  "388",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/388.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "389",
+        "name":  "389",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/389.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "39",
+        "name":  "39",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/39.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "390",
+        "name":  "390",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/390.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "391",
+        "name":  "391",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/391.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "392",
+        "name":  "392",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/392.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "393",
+        "name":  "393",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/393.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "394",
+        "name":  "394",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/394.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "395",
+        "name":  "395",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/395.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "4",
+        "name":  "4",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/4.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "40",
+        "name":  "40",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/40.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "41",
+        "name":  "41",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/41.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "42",
+        "name":  "42",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/42.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "43",
+        "name":  "43",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/43.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "44",
+        "name":  "44",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/44.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "45",
+        "name":  "45",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/45.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "46",
+        "name":  "46",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/46.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "47",
+        "name":  "47",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/47.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "48",
+        "name":  "48",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/48.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "49",
+        "name":  "49",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/49.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "5",
+        "name":  "5",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/5.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "50",
+        "name":  "50",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/50.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "51",
+        "name":  "51",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/51.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "52",
+        "name":  "52",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/52.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "53",
+        "name":  "53",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/53.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "54",
+        "name":  "54",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/54.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "55",
+        "name":  "55",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/55.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "56",
+        "name":  "56",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/56.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "57",
+        "name":  "57",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/57.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "58",
+        "name":  "58",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/58.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "59",
+        "name":  "59",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/59.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "6",
+        "name":  "6",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/6.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "60",
+        "name":  "60",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/60.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "61",
+        "name":  "61",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/61.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "62",
+        "name":  "62",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/62.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "63",
+        "name":  "63",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/63.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "64",
+        "name":  "64",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/64.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "66",
+        "name":  "66",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/66.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "67",
+        "name":  "67",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/67.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "68",
+        "name":  "68",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/68.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "69",
+        "name":  "69",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/69.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "7",
+        "name":  "7",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/7.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "70",
+        "name":  "70",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/70.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "71",
+        "name":  "71",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/71.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "72",
+        "name":  "72",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/72.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "73",
+        "name":  "73",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/73.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "74",
+        "name":  "74",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/74.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "75",
+        "name":  "75",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/75.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "77",
+        "name":  "77",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/77.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "78",
+        "name":  "78",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/78.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "79",
+        "name":  "79",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/79.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "8",
+        "name":  "8",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/8.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "80",
+        "name":  "80",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/80.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "81",
+        "name":  "81",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/81.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "82",
+        "name":  "82",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/82.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "83",
+        "name":  "83",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/83.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "84",
+        "name":  "84",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/84.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "85",
+        "name":  "85",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/85.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "86",
+        "name":  "86",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/86.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "87",
+        "name":  "87",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/87.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "88",
+        "name":  "88",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/88.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "89",
+        "name":  "89",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/89.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "9",
+        "name":  "9",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/9.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "90",
+        "name":  "90",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/90.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "91",
+        "name":  "91",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/91.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "92",
+        "name":  "92",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/92.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "93",
+        "name":  "93",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/93.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "94",
+        "name":  "94",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/94.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "95",
+        "name":  "95",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/95.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "96",
+        "name":  "96",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/96.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "97",
+        "name":  "97",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/97.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "98",
+        "name":  "98",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/98.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "99",
+        "name":  "99",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/99.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "andurdingus",
+        "name":  "andurdingus",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/andurdingus.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "cantcommit65",
+        "name":  "cantcommit65",
+        "sourceUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/cantcommit65.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/master/games/",
+        "loadMode":  "url"
+    }
+]

@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rift v2 / games / gn-math</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../../assets/css/fonts.css">
+  <link rel="stylesheet" href="../../assets/css/games.css">
+</head>
+<body data-library-name="gn-math" data-library-meta="gn-math">
+  <header class="topbar">
+    <div class="topbar-left">rift /games /gn-math</div>
+    <div class="topbar-center">
+      <div class="topbar-search" aria-label="gn-math search">
+        <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+        <input id="librarySearch" type="text" placeholder="Search gn-math games..." autocomplete="off" spellcheck="false" aria-label="Search gn-math games">
+      </div>
+    </div>
+    <div class="topbar-right">
+      <button class="icon-btn" id="backToGames" type="button" aria-label="Back to games">
+        <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="panel">
+      <section class="collection" aria-label="gn-math library">
+        <div class="section-title">gn-math library</div>
+        <div class="subsection-title" id="libraryCount">loading...</div>
+        <div class="empty" id="libraryEmpty">
+          loading...
+          <span class="empty-hint">if this stays, gn-math/games.json failed to load.</span>
+        </div>
+        <div class="grid" id="libraryGrid" hidden></div>
+      </section>
+    </section>
+  </main>
+
+  <script defer src="../../assets/js/library-catalog.js"></script>
+</body>
+</html>

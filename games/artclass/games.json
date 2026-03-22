@@ -1,0 +1,86 @@
+﻿[
+    {
+        "slug":  "cut-the-rope",
+        "name":  "cut the rope",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/cut-the-rope.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "dino-game",
+        "name":  "dino game",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/dino-game.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "duck-life",
+        "name":  "duck life",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/duck-life.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "flappy-bird",
+        "name":  "flappy bird",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/flappy-bird.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "friday-night-funkin",
+        "name":  "friday night funkin",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/friday-night-funkin.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "idle-breakout",
+        "name":  "idle breakout",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/idle-breakout.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "idle-dice",
+        "name":  "idle dice",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/idle-dice.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "impossible-quiz",
+        "name":  "impossible quiz",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/impossible-quiz.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "papas-burgeria",
+        "name":  "papas burgeria",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/papas-burgeria.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "retro-bowl",
+        "name":  "retro bowl",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/retro-bowl.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "run3",
+        "name":  "run3",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/run3.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "slope",
+        "name":  "slope",
+        "sourceUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/slope.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
+        "loadMode":  "url"
+    }
+]

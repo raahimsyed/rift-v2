@@ -1,0 +1,275 @@
+﻿[
+    {
+        "slug":  "113",
+        "name":  "113",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/113/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/113/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "116",
+        "name":  "116",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/116/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/116/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "117",
+        "name":  "117",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/117/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/117/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "118",
+        "name":  "118",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/118/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/118/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "120",
+        "name":  "120",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/120/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/120/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "121",
+        "name":  "121",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/121/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/121/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "122",
+        "name":  "122",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/122/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/122/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "123",
+        "name":  "123",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/123/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/123/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "124",
+        "name":  "124",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/124/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/124/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "129",
+        "name":  "129",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/129/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/129/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "165",
+        "name":  "165",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/165/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/165/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "198",
+        "name":  "198",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/198/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/198/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "199",
+        "name":  "199",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/199/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/199/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "200",
+        "name":  "200",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/200/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/200/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "255",
+        "name":  "255",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/255/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/255/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "256",
+        "name":  "256",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/256/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/256/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "258",
+        "name":  "258",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/258/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/258/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "260",
+        "name":  "260",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/260/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/260/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "294",
+        "name":  "294",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/294/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/294/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "296",
+        "name":  "296",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/296/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/296/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "302",
+        "name":  "302",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/302/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/302/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "306",
+        "name":  "306",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/306/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/306/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "307",
+        "name":  "307",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/307/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/307/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "308",
+        "name":  "308",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/308/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/308/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "309",
+        "name":  "309",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/309/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/309/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "310",
+        "name":  "310",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/310/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/310/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "311",
+        "name":  "311",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/311/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/311/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "315",
+        "name":  "315",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/315/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/315/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "317",
+        "name":  "317",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/317/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/317/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "318",
+        "name":  "318",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/318/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/318/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "330",
+        "name":  "330",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/330/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/330/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "346",
+        "name":  "346",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/346/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/346/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "347",
+        "name":  "347",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/347/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/347/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "352",
+        "name":  "352",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/352/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/352/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "434",
+        "name":  "434",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/434/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/434/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "441",
+        "name":  "441",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/441/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/441/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "442",
+        "name":  "442",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/442/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/442/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "447",
+        "name":  "447",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/447/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/447/",
+        "loadMode":  "url"
+    },
+    {
+        "slug":  "702",
+        "name":  "702",
+        "sourceUrl":  "https://rawcdn.githack.com/gn-math/assets/main/702/index.html",
+        "sourceBaseUrl":  "https://rawcdn.githack.com/gn-math/assets/main/702/",
+        "loadMode":  "url"
+    }
+]
