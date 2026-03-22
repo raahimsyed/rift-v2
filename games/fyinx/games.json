@@ -453,7 +453,8 @@
     "name": "ovo",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/ovo.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "ovo2",
@@ -614,7 +615,8 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/slope.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/aukak/fyinx/main/g/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "sm64",

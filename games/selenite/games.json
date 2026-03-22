@@ -195,7 +195,8 @@
     "name": "basketrandom",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketrandom/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/basketrandom/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "bbcr",
@@ -1040,14 +1041,16 @@
     "name": "learntofly",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly.png"
   },
   {
     "slug": "learntofly2",
     "name": "learntofly2",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/learntofly2/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly2.jpg"
   },
   {
     "slug": "learntoflyidle",
@@ -1068,7 +1071,8 @@
     "name": "littlealchemy",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/littlealchemy/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/littlealchemy/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "http://littlealchemy.com/img/little-alchemy-1024-logo.png"
   },
   {
     "slug": "lowsadventures2",
@@ -1236,7 +1240,8 @@
     "name": "ovo",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ovo/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/ovo/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "pacman",
@@ -1468,7 +1473,8 @@
     "name": "riddleschool",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/riddleschool/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/riddleschool.png"
   },
   {
     "slug": "riddleschool2",
@@ -1622,7 +1628,8 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/selenite-cc/selenite-old/main/slope/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "slope-ball",

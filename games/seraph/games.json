@@ -265,7 +265,8 @@
     "name": "basketrandom",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/basketrandom/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/basketrandom/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "battlebeavers",
@@ -1247,7 +1248,8 @@
     "name": "getawayshootout",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/getawayshootout/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/getawayshootout/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/getaway-shootout.jpg"
   },
   {
     "slug": "gex64",
@@ -1507,14 +1509,16 @@
     "name": "learntofly",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/learntofly/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/learntofly/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly.png"
   },
   {
     "slug": "learntofly2",
     "name": "learntofly2",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/learntofly2/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/learntofly2/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly2.jpg"
   },
   {
     "slug": "learntofly3",
@@ -1899,7 +1903,8 @@
     "name": "ovo",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/ovo/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/ovo/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "pacman",
@@ -2531,7 +2536,8 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/slope/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/slope/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "slope2",
@@ -2813,7 +2819,8 @@
     "name": "subwaysurfers",
     "sourceUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/subwaysurfers/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/a456pur/seraph/main/games/subwaysurfers/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/subway-surfers.png"
   },
   {
     "slug": "sudoku",

@@ -46,7 +46,8 @@
     "name": "BASEBALL BROS! | Official Site",
     "sourceUrl": "https://truffled.lol/games/baseballbros/index.html",
     "sourceBaseUrl": "",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://baseballbros.io/splash.jpg"
   },
   {
     "slug": "batim",

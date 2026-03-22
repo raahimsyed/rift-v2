@@ -83,6 +83,7 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/slope.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/proudparrot2/artclass-v2/main/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   }
 ]

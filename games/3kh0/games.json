@@ -258,7 +258,8 @@
     "name": "basket random",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basket-random/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/basket-random/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "basketball-stars",
@@ -322,7 +323,8 @@
     "name": "bloonstd",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloonstd/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/bloonstd/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/bloonstd.jpg"
   },
   {
     "slug": "bloonstd2",
@@ -1101,7 +1103,8 @@
     "name": "getaway shootout",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/getaway-shootout/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/getaway-shootout/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/getaway-shootout.jpg"
   },
   {
     "slug": "gimme-the-airpod",
@@ -1417,14 +1420,16 @@
     "name": "learntofly",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly.png"
   },
   {
     "slug": "learntofly2",
     "name": "learntofly2",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly2/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/learntofly2/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly2.jpg"
   },
   {
     "slug": "level13",
@@ -1697,7 +1702,8 @@
     "name": "ovo",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ovo/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/ovo/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "pandemic2",
@@ -1860,7 +1866,8 @@
     "name": "riddleschool",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/riddleschool/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/riddleschool.png"
   },
   {
     "slug": "riddleschool2",
@@ -2077,7 +2084,8 @@
     "name": "slope",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/slope/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "slope-2",
@@ -2106,7 +2114,8 @@
     "name": "smashkarts",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/smashkarts/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/smashkarts/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/smashkarts.png"
   },
   {
     "slug": "smokingbarrels",
@@ -2331,7 +2340,8 @@
     "name": "subway surfers",
     "sourceUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/subway-surfers/index.html",
     "sourceBaseUrl": "https://gitlab.com/3kh0/3kh0-assets/-/raw/main/subway-surfers/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/subway-surfers.png"
   },
   {
     "slug": "subway-surfers-ny",

@@ -228,14 +228,16 @@
     "name": "baseball bros",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baseball%20bros/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/baseball%20bros/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://baseballbros.io/splash.jpg"
   },
   {
     "slug": "baseballbros",
     "name": "BASEBALL BROS! | Official Site",
     "sourceUrl": "https://truffled.lol/games/baseballbros/index.html",
     "sourceBaseUrl": "",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://baseballbros.io/splash.jpg"
   },
   {
     "slug": "basket-stars",
@@ -803,7 +805,8 @@
     "name": "football bros",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/football%20bros/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/football%20bros/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://footballbros.io/splash.jpg"
   },
   {
     "slug": "forward-assault",
@@ -1944,7 +1947,8 @@
     "name": "soccer bros",
     "sourceUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/soccer%20bros/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/bubbls/UGS-Assets/main/soccer%20bros/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://soccerbros.gg/splash.jpg"
   },
   {
     "slug": "soccer-skills-euro",

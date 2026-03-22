@@ -195,7 +195,8 @@
     "name": "basketrandom",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/basketrandom.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "bendy",
@@ -1477,7 +1478,8 @@
     "name": "ovo",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/ovo.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "pacman",
@@ -1827,7 +1829,8 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/slope.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "slope2",
@@ -1891,7 +1894,8 @@
     "name": "soccerbros",
     "sourceUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/soccerbros.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/t9lat22/t9lat22.github.io/master/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://soccerbros.gg/splash.jpg"
   },
   {
     "slug": "solar",

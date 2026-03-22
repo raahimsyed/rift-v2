@@ -664,7 +664,8 @@
     "name": "Basket Random",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Basket%20Random.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "basket-slam-dunk-2",
@@ -2480,7 +2481,8 @@
     "name": "Football Bros",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Football%20Bros.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "https://footballbros.io/splash.jpg"
   },
   {
     "slug": "football-legends",
@@ -2649,7 +2651,8 @@
     "name": "Getaway Shootout",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Getaway%20Shootout.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/getaway-shootout.jpg"
   },
   {
     "slug": "gimme-the-airpod",
@@ -3372,14 +3375,16 @@
     "name": "Learn to Fly",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Learn%20to%20Fly.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly.png"
   },
   {
     "slug": "learn-to-fly-2",
     "name": "Learn to Fly 2",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Learn%20to%20Fly%202.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/learntofly2.jpg"
   },
   {
     "slug": "learn-to-fly-3",
@@ -3981,7 +3986,8 @@
     "name": "OVO",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/OVO.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "ovo-2",
@@ -4633,7 +4639,8 @@
     "name": "Riddle School",
     "sourceUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/Riddle%20School.xml",
     "sourceBaseUrl": "https://raw.githubusercontent.com/elite-gamez/Elite_gamez_games/main/",
-    "loadMode": "srcdoc"
+    "loadMode": "srcdoc",
+    "thumbnailUrl": "/assets/game-thumbs/riddleschool.png"
   },
   {
     "slug": "riddle-school-2",

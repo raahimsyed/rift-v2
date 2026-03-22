@@ -118,7 +118,8 @@
     "name": "basketrandom",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/basketrandom.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "basketslamdunk2",
@@ -541,7 +542,8 @@
     "name": "footballbros",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/footballbros.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "https://footballbros.io/splash.jpg"
   },
   {
     "slug": "footballl",
@@ -885,7 +887,8 @@
     "name": "ovo",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/ovo.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/ovo.png"
   },
   {
     "slug": "ovo2",
@@ -1096,7 +1099,8 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/slope.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "slowroads",
@@ -1244,7 +1248,8 @@
     "name": "subwaysurfers",
     "sourceUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/subwaysurfers.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/UGBONTOP/crunchingmath/main/testsite/games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/subway-surfers.png"
   },
   {
     "slug": "templerun2",

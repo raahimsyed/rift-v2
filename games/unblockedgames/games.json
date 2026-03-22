@@ -223,7 +223,8 @@
     "name": "slope",
     "sourceUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/slope.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Fluffygirlwoman/UnblockedGames/main/Games/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/slope.jpeg"
   },
   {
     "slug": "space-is-key",

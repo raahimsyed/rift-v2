@@ -40,7 +40,8 @@
     "name": "basket random",
     "sourceUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/basket-random/index.html",
     "sourceBaseUrl": "https://rawcdn.githack.com/Radon-Games/Radon-Games-Assets/main/html/basket-random/",
-    "loadMode": "url"
+    "loadMode": "url",
+    "thumbnailUrl": "/assets/game-thumbs/basket-random.jpeg"
   },
   {
     "slug": "basketball-stars",
